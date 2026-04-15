@@ -1,5 +1,5 @@
 APP VERSION: 1.4
-APP LINK: https://github.com/tsshahfeen/IPRF/raw/refs/heads/main/IPRF_Request_Form_V1.4.xlsm
+APP LINK: https://raw.githubusercontent.com/tsshahfeen/IPRF/main/IPRF_Request_Form_V1.4.xlsm
 DATA VERSION: 1.2
 DATA LINK: https://raw.githubusercontent.com/...../data.csv
 ASSIGNMENT VERSION: 1.2
