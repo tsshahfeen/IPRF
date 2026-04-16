@@ -1,13 +1,13 @@
 Name,Data.Column1,Data.Column2,Data.Column3,Data.Column4,Data.Column5,Data.Column6,Data.Column7,Data.Column8,Data.Column9,Data.Column10,Data.Entity,Data.Entity name,Data.Entity with description,Data.BU,Data.BU Name,Data.Request type,Data.Item type,Data.Priority,Data.Business Unit,Data.Item type - Primary,Data.Item type - Secondary,Data.ProjectID,Data.ProjectID Abb,Data.ProjectName,Data.dataAreaId,Data.DimensionDisplayValue,Data.ParentProject,Data.ProjectStage,Data.ProjectID_Name,Data.Location,Data.DisplayName,Data.CompanyName,Data.EmailAddress,Data.OfficeLocation,Data.JobTitle,Data.Request Prefix,Data.Inventory_Warehouse,Data.COUNTRY,Data.PROVINCE,Data.LOCATION_SITE,Data.WAREHOUSE NAME,Data.Unit,Data.Description,Data.Translated description,Data.Parts preference,Item,Kind,Hidden
-ENTITY,Entity,Entity name,Entity with description,BU,BU Name,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
-ENTITY,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE","CA | Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
-ENTITY,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE","CA | Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
-ENTITY,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE","CA | Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
-ENTITY,SA,"Aertssen Machinery Services for Contracting, KSA","SA | Aertssen Machinery Services for Contracting, KSA",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
-ENTITY,CR,"Aertssen Equipment Rental LLC - OPC, UAE","CR | Aertssen Equipment Rental LLC - OPC, UAE",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
-ENTITY,DC,"AMS Duqm LLC, OMAN","DC | AMS Duqm LLC, OMAN",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
-ENTITY,AC,"Aertssen Machinery Services Ltd, CYPRUS","AC | Aertssen Machinery Services Ltd, CYPRUS",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
-ENTITY,CQ,AMS Qatar,CQ | AMS Qatar,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
+ENTITY,Entity,Entity name,BU,BU Name,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
+ENTITY,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
+ENTITY,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
+ENTITY,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
+ENTITY,SA,"Aertssen Machinery Services for Contracting, KSA",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
+ENTITY,CR,"Aertssen Equipment Rental LLC - OPC, UAE",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
+ENTITY,DC,"AMS Duqm LLC, OMAN",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
+ENTITY,AC,"Aertssen Machinery Services Ltd, CYPRUS",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
+ENTITY,CQ,AMS Qatar,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
 REQTYPE_ITMTYPE_PRIORITY,Request type,Item type,Priority,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQTYPE_ITMTYPE_PRIORITY,Sheet,FALSE
 REQTYPE_ITMTYPE_PRIORITY,Actual Purchase,Material | Spare parts,Breakdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQTYPE_ITMTYPE_PRIORITY,Sheet,FALSE
 REQTYPE_ITMTYPE_PRIORITY,Actual Purchase,Material | Spare parts,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQTYPE_ITMTYPE_PRIORITY,Sheet,FALSE
@@ -54,7 +54,7 @@ REQUEST TYPE,Inquiry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUEST TYPE,Sh
 ITEM TYPE,Item type - Primary,Item type - Secondary,Item type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEM TYPE,Sheet,FALSE
 ITEM TYPE,Material,Spare parts,Material | Spare parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEM TYPE,Sheet,FALSE
 ITEM TYPE,Material,General,Material | General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEM TYPE,Sheet,FALSE
-ITEM TYPE,Service,"Service | TPI, Training & Medical services","Service | Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEM TYPE,Sheet,FALSE
+ITEM TYPE,Service,"TPI, Training & Medical services","Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEM TYPE,Sheet,FALSE
 ITEM TYPE,Service,Rental Services,Service | Rental Services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEM TYPE,Sheet,FALSE
 ITEM TYPE,Service,General,Service | General,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEM TYPE,Sheet,FALSE
 ITEM TYPE,Service,Maintenance services,Service | Maintenance services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEM TYPE,Sheet,FALSE
@@ -672,14 +672,14 @@ PRIORITY,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
 PARTS PREFERENCE,Parts preference,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
 PARTS PREFERENCE,Aftermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
 PARTS PREFERENCE,Genuine / OEM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
-T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE","CA | Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
-T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE","CA | Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
-T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE","CA | Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
-T_ENTITY,,,,,,,,,,,SA,"Aertssen Machinery Services for Contracting, KSA","SA | Aertssen Machinery Services for Contracting, KSA",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
-T_ENTITY,,,,,,,,,,,CR,"Aertssen Equipment Rental LLC - OPC, UAE","CR | Aertssen Equipment Rental LLC - OPC, UAE",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
-T_ENTITY,,,,,,,,,,,DC,"AMS Duqm LLC, OMAN","DC | AMS Duqm LLC, OMAN",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
-T_ENTITY,,,,,,,,,,,AC,"Aertssen Machinery Services Ltd, CYPRUS","AC | Aertssen Machinery Services Ltd, CYPRUS",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
-T_ENTITY,,,,,,,,,,,CQ,AMS Qatar,CQ | AMS Qatar,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
+T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
+T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
+T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
+T_ENTITY,,,,,,,,,,,SA,"Aertssen Machinery Services for Contracting, KSA",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
+T_ENTITY,,,,,,,,,,,CR,"Aertssen Equipment Rental LLC - OPC, UAE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
+T_ENTITY,,,,,,,,,,,DC,"AMS Duqm LLC, OMAN",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
+T_ENTITY,,,,,,,,,,,AC,"Aertssen Machinery Services Ltd, CYPRUS",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
+T_ENTITY,,,,,,,,,,,CQ,AMS Qatar,,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_REQTYPE_ITMTYPE_PRIORITY,,,,,,,,,,,,,,,,Actual Purchase,Material | Spare parts,Breakdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_REQTYPE_ITMTYPE_PRIORITY,Table,FALSE
 T_REQTYPE_ITMTYPE_PRIORITY,,,,,,,,,,,,,,,,Actual Purchase,Material | Spare parts,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_REQTYPE_ITMTYPE_PRIORITY,Table,FALSE
 T_REQTYPE_ITMTYPE_PRIORITY,,,,,,,,,,,,,,,,Actual Purchase,Material | Spare parts,Stock,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_REQTYPE_ITMTYPE_PRIORITY,Table,FALSE
@@ -721,7 +721,7 @@ T_REQUEST_TYPE,,,,,,,,,,,,,,,,Actual Purchase,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_REQ
 T_REQUEST_TYPE,,,,,,,,,,,,,,,,Inquiry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_REQUEST_TYPE,Table,FALSE
 T_ITEM_TYPE,,,,,,,,,,,,,,,,,Material | Spare parts,,,Material,Spare parts,,,,,,,,,,,,,,,,,,,,,,,,,T_ITEM_TYPE,Table,FALSE
 T_ITEM_TYPE,,,,,,,,,,,,,,,,,Material | General,,,Material,General,,,,,,,,,,,,,,,,,,,,,,,,,T_ITEM_TYPE,Table,FALSE
-T_ITEM_TYPE,,,,,,,,,,,,,,,,,"Service | Service | TPI, Training & Medical services",,,Service,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,T_ITEM_TYPE,Table,FALSE
+T_ITEM_TYPE,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,Service,"TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,T_ITEM_TYPE,Table,FALSE
 T_ITEM_TYPE,,,,,,,,,,,,,,,,,Service | Rental Services,,,Service,Rental Services,,,,,,,,,,,,,,,,,,,,,,,,,T_ITEM_TYPE,Table,FALSE
 T_ITEM_TYPE,,,,,,,,,,,,,,,,,Service | General,,,Service,General,,,,,,,,,,,,,,,,,,,,,,,,,T_ITEM_TYPE,Table,FALSE
 T_ITEM_TYPE,,,,,,,,,,,,,,,,,Service | Maintenance services,,,Service,Maintenance services,,,,,,,,,,,,,,,,,,,,,,,,,T_ITEM_TYPE,Table,FALSE
