@@ -35,13 +35,13 @@ REQTYPE_ITMTYPE_PRIORITY,Inquiry,Service | General,Urgent,,,,,,,,,,,,,,,,,,,,,,,
 REQTYPE_ITMTYPE_PRIORITY,Inquiry,Service | Maintenance services,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQTYPE_ITMTYPE_PRIORITY,Sheet,FALSE
 REQTYPE_ITMTYPE_PRIORITY,Inquiry,Service | Maintenance services,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQTYPE_ITMTYPE_PRIORITY,Sheet,FALSE
 ENTITY BU,Entity,Entity name,BU,BU Name,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
-ENTITY BU,CA,Aertssen Machinery Services Ltd,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
-ENTITY BU,CA,Aertssen Machinery Services Ltd,BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
-ENTITY BU,CA,Aertssen Machinery Services Ltd,BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
-ENTITY BU,SA,Aertssen Machinery Services for Contracting,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
-ENTITY BU,CR,Aertssen Equipment Rental LLC - OPC,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
-ENTITY BU,DC,AMS Duqm LLC,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
-ENTITY BU,AC,Aertssen Machinery Services Ltd,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
+ENTITY BU,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
+ENTITY BU,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
+ENTITY BU,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
+ENTITY BU,SA,"Aertssen Machinery Services for Contracting, KSA",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
+ENTITY BU,CR,"Aertssen Equipment Rental LLC - OPC, UAE",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
+ENTITY BU,DC,"AMS Duqm LLC, OMAN",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
+ENTITY BU,AC,"Aertssen Machinery Services Ltd, CYPRUS",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
 ENTITY BU,CQ,AMS Qatar,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY BU,Sheet,FALSE
 BU,Business Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BU,Sheet,FALSE
 BU,BU 135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BU,Sheet,FALSE
@@ -705,13 +705,13 @@ T_REQTYPE_ITMTYPE_PRIORITY,,,,,,,,,,,,,,,,Inquiry,Service | General,Normal,,,,,,
 T_REQTYPE_ITMTYPE_PRIORITY,,,,,,,,,,,,,,,,Inquiry,Service | General,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_REQTYPE_ITMTYPE_PRIORITY,Table,FALSE
 T_REQTYPE_ITMTYPE_PRIORITY,,,,,,,,,,,,,,,,Inquiry,Service | Maintenance services,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_REQTYPE_ITMTYPE_PRIORITY,Table,FALSE
 T_REQTYPE_ITMTYPE_PRIORITY,,,,,,,,,,,,,,,,Inquiry,Service | Maintenance services,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_REQTYPE_ITMTYPE_PRIORITY,Table,FALSE
-T_ENTITY_BU,,,,,,,,,,,CA,Aertssen Machinery Services Ltd,,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
-T_ENTITY_BU,,,,,,,,,,,CA,Aertssen Machinery Services Ltd,,BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
-T_ENTITY_BU,,,,,,,,,,,CA,Aertssen Machinery Services Ltd,,BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
-T_ENTITY_BU,,,,,,,,,,,SA,Aertssen Machinery Services for Contracting,,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
-T_ENTITY_BU,,,,,,,,,,,CR,Aertssen Equipment Rental LLC - OPC,,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
-T_ENTITY_BU,,,,,,,,,,,DC,AMS Duqm LLC,,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
-T_ENTITY_BU,,,,,,,,,,,AC,Aertssen Machinery Services Ltd,,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
+T_ENTITY_BU,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
+T_ENTITY_BU,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
+T_ENTITY_BU,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
+T_ENTITY_BU,,,,,,,,,,,SA,"Aertssen Machinery Services for Contracting, KSA",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
+T_ENTITY_BU,,,,,,,,,,,CR,"Aertssen Equipment Rental LLC - OPC, UAE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
+T_ENTITY_BU,,,,,,,,,,,DC,"AMS Duqm LLC, OMAN",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
+T_ENTITY_BU,,,,,,,,,,,AC,"Aertssen Machinery Services Ltd, CYPRUS",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
 T_ENTITY_BU,,,,,,,,,,,CQ,AMS Qatar,,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY_BU,Table,FALSE
 T_BU,,,,,,,,,,,,,,,,,,,BU 135,,,,,,,,,,,,,,,,,,,,,,,,,,,T_BU,Table,FALSE
 T_BU,,,,,,,,,,,,,,,,,,,BU 210,,,,,,,,,,,,,,,,,,,,,,,,,,,T_BU,Table,FALSE
