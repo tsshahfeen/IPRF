@@ -672,6 +672,8 @@ PRIORITY,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
 PARTS PREFERENCE,Parts preference,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
 PARTS PREFERENCE,Aftermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
 PARTS PREFERENCE,Genuine / OEM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
+PARTS PREFERENCE,Availability,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
+PARTS PREFERENCE,Economical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
 ITEMTYPE_SUPPLIER,Item type,Supplier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",TUV SUD MIDDLE EAST LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Numero Uno Training & Consulting LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
@@ -1370,45 +1372,47 @@ T_Priority,,,,,,,,,,,,,,,,,,Stock,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FA
 T_Priority,,,,,,,,,,,,,,,,,,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aftermarket,T_Parts_preference1,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Genuine / OEM,T_Parts_preference1,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
-Table15,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Table15,Table,FALSE
+T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Availability,T_Parts_preference1,Table,FALSE
+T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Economical,T_Parts_preference1,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
