@@ -248,7 +248,7 @@ PROJECTS,J00000261,NMDC - Al Nawras,NMDC GROUP - P.J.S.C,Robbert-Jan Willems,,In
 PROJECTS,J00000262,Gulf Ready Mix - Hail & Gasha Onshore,Gulf Ready Mix L.L.C.,Robbert-Jan Willems,,In progress,J262,J00000262 | Gulf Ready Mix - Hail & Gasha Onshore | J262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000263,Descon Engineering - Habshan 5,Descon Engineering,Robbert-Jan Willems,,In progress,J263,J00000263 | Descon Engineering - Habshan 5 | J263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000266,Motorway - Shah Gas Expansion Project,Motor Way General Transport-L.L.C,Robbert-Jan Willems,,In progress,J266,J00000266 | Motorway - Shah Gas Expansion Project | J266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
-PROJECTS,J00000268,NMDC LTS - LNG – Ruwais,NMDC LTS - L.L.C - S.P.C,Lowie De Lombaerde,,In progress,J268,J00000268 | NMDC LTS - LNG – Ruwais | J268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,J00000268,NMDC LTS - LNG Â– Ruwais,NMDC LTS - L.L.C - S.P.C,Lowie De Lombaerde,,In progress,J268,J00000268 | NMDC LTS - LNG Â– Ruwais | J268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000269,NSH - Harvest Ammonia Project,Nasser Saeed Al Hajri & Partners Contracting Company LLC,Jorge Alejandro Vasquez Balcazar,,In progress,J269,J00000269 | NSH - Harvest Ammonia Project | J269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000270,Sarens - H&G Ruwais,Sarens Nass Middle East Abu Dhabi,Robbert-Jan Willems,,In progress,J270,J00000270 | Sarens - H&G Ruwais | J270,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000271,NSH - LNG Project Ruwais,Nasser Saeed Al Hajri & Partners Contracting Company LLC,Jorge Alejandro Vasquez Balcazar,,In progress,J271,J00000271 | NSH - LNG Project Ruwais | J271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
@@ -282,7 +282,7 @@ PROJECTS,R_Standby,R_Standby (operators hrs Standby),Aertssen Machinery Services
 PROJECTS,R_Workshop,R_Workshop (mechanic hrs Yard),Aertssen Machinery Services Ltd.,Jacobs Wim,,In progress,,R_Workshop | R_Workshop (mechanic hrs Yard),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R_Yard,R_Yard (operator hrs Yard),Aertssen Machinery Services Ltd.,Jacobs Wim,,In progress,,R_Yard | R_Yard (operator hrs Yard),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000028,Target DGD,Target Engineering Construction Company LLC,Wietse Schaefer,,In progress,R28,R00000028 | Target DGD | R28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
-PROJECTS,R00000043,NMDC – NISI (Taweelah),NMDC GROUP - P.J.S.C,Wietse Schaefer,,In progress,R43,R00000043 | NMDC – NISI (Taweelah) | R43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000043,NMDC Â– NISI (Taweelah),NMDC GROUP - P.J.S.C,Wietse Schaefer,,In progress,R43,R00000043 | NMDC Â– NISI (Taweelah) | R43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000066,Dredging International Saudi Arabia - Oxagon T2,Dredging Int'l Saudi Arabia Ltd,De Bruin Josephus Gerardus Franciscus,,In progress,R66,R00000066 | Dredging International Saudi Arabia - Oxagon T2 | R66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000074,NPCC - Saudi Aramco KSA,NMDC Energy - P.J.S.C,Wietse Schaefer,,In progress,R74,R00000074 | NPCC - Saudi Aramco KSA | R74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000093,PLC - Nurai Phase II,Projects Link Contracting Co LLC,Wietse Schaefer,,In progress,R93,R00000093 | PLC - Nurai Phase II | R93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
@@ -432,7 +432,7 @@ LOCATION,J00000261,NMDC - Al Nawras,J261,J00000261 | J261 | NMDC - Al Nawras,,,,
 LOCATION,J00000262,Gulf Ready Mix - Hail & Gasha Onshore,J262,J00000262 | J262 | Gulf Ready Mix - Hail & Gasha Onshore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000263,Descon Engineering - Habshan 5,J263,J00000263 | J263 | Descon Engineering - Habshan 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000266,Motorway - Shah Gas Expansion Project,J266,J00000266 | J266 | Motorway - Shah Gas Expansion Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
-LOCATION,J00000268,NMDC LTS - LNG – Ruwais,J268,J00000268 | J268 | NMDC LTS - LNG – Ruwais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,J00000268,NMDC LTS - LNG Â– Ruwais,J268,J00000268 | J268 | NMDC LTS - LNG Â– Ruwais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000269,NSH - Harvest Ammonia Project,J269,J00000269 | J269 | NSH - Harvest Ammonia Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000270,Sarens - H&G Ruwais,J270,J00000270 | J270 | Sarens - H&G Ruwais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000271,NSH - LNG Project Ruwais,J271,J00000271 | J271 | NSH - LNG Project Ruwais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
@@ -463,7 +463,7 @@ LOCATION,J00000295,Al Dhafra - Onshore Projects,J295,J00000295 | J295 | Al Dhafr
 LOCATION,J00000296,PLC - Umm Suqeim,J296,J00000296 | J296 | PLC - Umm Suqeim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000297,P&I Logistics - Port of Fujairah,J297,J00000297 | J297 | P&I Logistics - Port of Fujairah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000028,Target DGD,R28,R00000028 | R28 | Target DGD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
-LOCATION,R00000043,NMDC – NISI (Taweelah),R43,R00000043 | R43 | NMDC – NISI (Taweelah),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000043,NMDC Â– NISI (Taweelah),R43,R00000043 | R43 | NMDC Â– NISI (Taweelah),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000066,Dredging International Saudi Arabia - Oxagon T2,R66,R00000066 | R66 | Dredging International Saudi Arabia - Oxagon T2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000074,NPCC - Saudi Aramco KSA,R74,R00000074 | R74 | NPCC - Saudi Aramco KSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000093,PLC - Nurai Phase II,R93,R00000093 | R93 | PLC - Nurai Phase II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
@@ -759,8 +759,8 @@ UNIT,km,kilometer,kilometer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet
 UNIT,l,liter,liter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,l 1.000,1.000 liter,1.000 liter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,m,meter,meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
-UNIT,m²,square meter,square meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
-UNIT,m³,cubic meter,cubic meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
+UNIT,mÂ²,square meter,square meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
+UNIT,mÂ³,cubic meter,cubic meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,mth,month,month,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,night,night,night,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,pcs,Pieces,Pieces,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
@@ -829,7 +829,7 @@ DISTRIBUTION_LIST,AC,"Aertssen Machinery Services Ltd, CYPRUS",BU 135,Earth Movi
 DISTRIBUTION_LIST,CQ,AMS Qatar,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,SG,"Aertssen Machinery Services Asia Pacific Pte Ltd, SINGAPORE",BU 135,Earth Moving,procurement.ams.ae@aertssen.be,warehouse135.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 VERSION,Description,Version,Last updated on,Authenticated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VERSION,Sheet,FALSE
-VERSION,Data,1.2,46132,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VERSION,Sheet,FALSE
+VERSION,Data,1.2,"Monday, 20 April 2026",TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VERSION,Sheet,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
@@ -1070,7 +1070,7 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000261,J261,NMDC - Al Nawras,NMDC GROUP - P
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000262,J262,Gulf Ready Mix - Hail & Gasha Onshore,Gulf Ready Mix L.L.C.,Robbert-Jan Willems,,In progress,J00000262 | Gulf Ready Mix - Hail & Gasha Onshore | J262,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000263,J263,Descon Engineering - Habshan 5,Descon Engineering,Robbert-Jan Willems,,In progress,J00000263 | Descon Engineering - Habshan 5 | J263,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000266,J266,Motorway - Shah Gas Expansion Project,Motor Way General Transport-L.L.C,Robbert-Jan Willems,,In progress,J00000266 | Motorway - Shah Gas Expansion Project | J266,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
-T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000268,J268,NMDC LTS - LNG – Ruwais,NMDC LTS - L.L.C - S.P.C,Lowie De Lombaerde,,In progress,J00000268 | NMDC LTS - LNG – Ruwais | J268,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000268,J268,NMDC LTS - LNG Â– Ruwais,NMDC LTS - L.L.C - S.P.C,Lowie De Lombaerde,,In progress,J00000268 | NMDC LTS - LNG Â– Ruwais | J268,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000269,J269,NSH - Harvest Ammonia Project,Nasser Saeed Al Hajri & Partners Contracting Company LLC,Jorge Alejandro Vasquez Balcazar,,In progress,J00000269 | NSH - Harvest Ammonia Project | J269,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000270,J270,Sarens - H&G Ruwais,Sarens Nass Middle East Abu Dhabi,Robbert-Jan Willems,,In progress,J00000270 | Sarens - H&G Ruwais | J270,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000271,J271,NSH - LNG Project Ruwais,Nasser Saeed Al Hajri & Partners Contracting Company LLC,Jorge Alejandro Vasquez Balcazar,,In progress,J00000271 | NSH - LNG Project Ruwais | J271,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
@@ -1104,7 +1104,7 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R_Standby,,R_Standby (operators hrs Standby),A
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R_Workshop,,R_Workshop (mechanic hrs Yard),Aertssen Machinery Services Ltd.,Jacobs Wim,,In progress,R_Workshop | R_Workshop (mechanic hrs Yard),,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R_Yard,,R_Yard (operator hrs Yard),Aertssen Machinery Services Ltd.,Jacobs Wim,,In progress,R_Yard | R_Yard (operator hrs Yard),,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000028,R28,Target DGD,Target Engineering Construction Company LLC,Wietse Schaefer,,In progress,R00000028 | Target DGD | R28,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
-T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000043,R43,NMDC – NISI (Taweelah),NMDC GROUP - P.J.S.C,Wietse Schaefer,,In progress,R00000043 | NMDC – NISI (Taweelah) | R43,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000043,R43,NMDC Â– NISI (Taweelah),NMDC GROUP - P.J.S.C,Wietse Schaefer,,In progress,R00000043 | NMDC Â– NISI (Taweelah) | R43,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000066,R66,Dredging International Saudi Arabia - Oxagon T2,Dredging Int'l Saudi Arabia Ltd,De Bruin Josephus Gerardus Franciscus,,In progress,R00000066 | Dredging International Saudi Arabia - Oxagon T2 | R66,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000074,R74,NPCC - Saudi Aramco KSA,NMDC Energy - P.J.S.C,Wietse Schaefer,,In progress,R00000074 | NPCC - Saudi Aramco KSA | R74,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000093,R93,PLC - Nurai Phase II,Projects Link Contracting Co LLC,Wietse Schaefer,,In progress,R00000093 | PLC - Nurai Phase II | R93,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
@@ -1253,7 +1253,7 @@ T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000261,J261,NMDC - Al Nawras,,,,,,J00000261 |
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000262,J262,Gulf Ready Mix - Hail & Gasha Onshore,,,,,,J00000262 | J262 | Gulf Ready Mix - Hail & Gasha Onshore,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000263,J263,Descon Engineering - Habshan 5,,,,,,J00000263 | J263 | Descon Engineering - Habshan 5,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000266,J266,Motorway - Shah Gas Expansion Project,,,,,,J00000266 | J266 | Motorway - Shah Gas Expansion Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
-T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000268,J268,NMDC LTS - LNG – Ruwais,,,,,,J00000268 | J268 | NMDC LTS - LNG – Ruwais,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000268,J268,NMDC LTS - LNG Â– Ruwais,,,,,,J00000268 | J268 | NMDC LTS - LNG Â– Ruwais,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000269,J269,NSH - Harvest Ammonia Project,,,,,,J00000269 | J269 | NSH - Harvest Ammonia Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000270,J270,Sarens - H&G Ruwais,,,,,,J00000270 | J270 | Sarens - H&G Ruwais,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000271,J271,NSH - LNG Project Ruwais,,,,,,J00000271 | J271 | NSH - LNG Project Ruwais,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
@@ -1284,7 +1284,7 @@ T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000295,J295,Al Dhafra - Onshore Projects,,,,,
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000296,J296,PLC - Umm Suqeim,,,,,,J00000296 | J296 | PLC - Umm Suqeim,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000297,J297,P&I Logistics - Port of Fujairah,,,,,,J00000297 | J297 | P&I Logistics - Port of Fujairah,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000028,R28,Target DGD,,,,,,R00000028 | R28 | Target DGD,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
-T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000043,R43,NMDC – NISI (Taweelah),,,,,,R00000043 | R43 | NMDC – NISI (Taweelah),,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000043,R43,NMDC Â– NISI (Taweelah),,,,,,R00000043 | R43 | NMDC Â– NISI (Taweelah),,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000066,R66,Dredging International Saudi Arabia - Oxagon T2,,,,,,R00000066 | R66 | Dredging International Saudi Arabia - Oxagon T2,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000074,R74,NPCC - Saudi Aramco KSA,,,,,,R00000074 | R74 | NPCC - Saudi Aramco KSA,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000093,R93,PLC - Nurai Phase II,,,,,,R00000093 | R93 | PLC - Nurai Phase II,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
@@ -1573,8 +1573,8 @@ T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,km,kilometer,kilometer,,T_Unit,T
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l,liter,liter,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l 1.000,1.000 liter,1.000 liter,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,m,meter,meter,,T_Unit,Table,FALSE
-T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,m²,square meter,square meter,,T_Unit,Table,FALSE
-T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,m³,cubic meter,cubic meter,,T_Unit,Table,FALSE
+T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mÂ²,square meter,square meter,,T_Unit,Table,FALSE
+T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mÂ³,cubic meter,cubic meter,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mth,month,month,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,night,night,night,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pcs,Pieces,Pieces,,T_Unit,Table,FALSE
