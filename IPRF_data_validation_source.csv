@@ -736,6 +736,11 @@ BUYER,Ryan Perez,Aertssen Machinery Services,ryan.perez@aertssen.be,AMS - Abu Dh
 BUYER,Laiju Sundar,Aertssen Machinery Services,laiju.sundar@aertssen.be,AMS - Abu Dhabi,Teamlead Procurement & Admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
 BUYER,Sheila Ararao,Aertssen Machinery Services,sheila.ararao@aertssen.be,AMS - Duba,Workshop / Procurement Officer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
 BUYER,Not applicable,,Not applicable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
+PRIORITY,Priority,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
+PRIORITY,Breakdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
+PRIORITY,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
+PRIORITY,Stock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
+PRIORITY,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
 WAREHOUSE,Inventory_Warehouse,BU,COUNTRY,PROVINCE,LOCATION_SITE,WAREHOUSE NAME,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE,Sheet,FALSE
 WAREHOUSE,BU 135 | UAE | ABU DHABI | ICAD III | ALPHA,BU 135,UAE,ABU DHABI,ICAD III,ALPHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE,Sheet,FALSE
 WAREHOUSE,BU 135 | UAE | DUBAI | R135 | REMOTE,BU 135,UAE,DUBAI,R135,REMOTE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE,Sheet,FALSE
@@ -765,11 +770,6 @@ UNIT,ride,ride,ride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,t,ton,ton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,tp,total price,total price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,w,week,week,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
-PRIORITY,Priority,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
-PRIORITY,Breakdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
-PRIORITY,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
-PRIORITY,Stock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
-PRIORITY,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
 PARTS PREFERENCE,Parts preference,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
 PARTS PREFERENCE,Aftermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
 PARTS PREFERENCE,Genuine / OEM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
@@ -828,6 +828,8 @@ DISTRIBUTION_LIST,DC,"AMS Duqm LLC, OMAN",BU 135,Earth Moving,procurement.ams.ae
 DISTRIBUTION_LIST,AC,"Aertssen Machinery Services Ltd, CYPRUS",BU 135,Earth Moving,procurement.ams.ae@aertssen.be,warehouse135.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,CQ,AMS Qatar,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,SG,"Aertssen Machinery Services Asia Pacific Pte Ltd, SINGAPORE",BU 135,Earth Moving,procurement.ams.ae@aertssen.be,warehouse135.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
+VERSION,Version,Last updated on,Authenticated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VERSION,Sheet,FALSE
+VERSION,1.2,46132,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VERSION,Sheet,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
@@ -1552,6 +1554,10 @@ T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ryan Perez,Aertssen Machinery Services,rya
 T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Laiju Sundar,Aertssen Machinery Services,laiju.sundar@aertssen.be,AMS - Abu Dhabi,Teamlead Procurement & Admin,,,,,,,,,,,T_BUYER,Table,FALSE
 T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sheila Ararao,Aertssen Machinery Services,sheila.ararao@aertssen.be,AMS - Duba,Workshop / Procurement Officer,,,,,,,,,,,T_BUYER,Table,FALSE
 T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not applicable,,Not applicable,,,,,,,,,,,,,T_BUYER,Table,FALSE
+T_Priority,,,,,,,,,,,,,,,,,,Breakdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
+T_Priority,,,,,,,,,,,,,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
+T_Priority,,,,,,,,,,,,,,,,,,Stock,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
+T_Priority,,,,,,,,,,,,,,,,,,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
 T_INV_WAREHOUSE,,,,,,,,,,,,,,BU 135,,,,,,,,,,,,,,,,,,,,,,,BU 135 | UAE | ABU DHABI | ICAD III | ALPHA,UAE,ABU DHABI,ICAD III,ALPHA,,,,,T_INV_WAREHOUSE,Table,FALSE
 T_INV_WAREHOUSE,,,,,,,,,,,,,,BU 135,,,,,,,,,,,,,,,,,,,,,,,BU 135 | UAE | DUBAI | R135 | REMOTE,UAE,DUBAI,R135,REMOTE,,,,,T_INV_WAREHOUSE,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,Not defined,Not defined,,T_Unit,Table,FALSE
@@ -1578,10 +1584,6 @@ T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ride,ride,ride,,T_Unit,Table,FAL
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,ton,ton,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tp,total price,total price,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,w,week,week,,T_Unit,Table,FALSE
-T_Priority,,,,,,,,,,,,,,,,,,Breakdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
-T_Priority,,,,,,,,,,,,,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
-T_Priority,,,,,,,,,,,,,,,,,,Stock,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
-T_Priority,,,,,,,,,,,,,,,,,,Urgent,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aftermarket,T_Parts_preference1,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Genuine / OEM,T_Parts_preference1,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Availability,T_Parts_preference1,Table,FALSE
@@ -1637,3 +1639,4 @@ T_DISTRIBUTION_LIST,,,,,,,,,,,DC,"AMS Duqm LLC, OMAN",,BU 135,Earth Moving,,,,,,
 T_DISTRIBUTION_LIST,,,,,,,,,,,AC,"Aertssen Machinery Services Ltd, CYPRUS",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_DISTRIBUTION_LIST,Table,FALSE
 T_DISTRIBUTION_LIST,,,,,,,,,,,CQ,AMS Qatar,,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_DISTRIBUTION_LIST,Table,FALSE
 T_DISTRIBUTION_LIST,,,,,,,,,,,SG,"Aertssen Machinery Services Asia Pacific Pte Ltd, SINGAPORE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_DISTRIBUTION_LIST,Table,FALSE
+T_Data_Source_Version,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Data_Source_Version,Table,FALSE
