@@ -5719,6 +5719,14 @@ SUPPLIER_EMAIL,SUPPLIER_FACING_EMAIL_ENABLED,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 SUPPLIER_EMAIL,MONTHLY_PO_INSTRUCTION_ENABLED,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUPPLIER_EMAIL,Sheet,FALSE
 SUPPLIER_EMAIL,MONTHLY_SUMMARY_DAY,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUPPLIER_EMAIL,Sheet,FALSE
 SUPPLIER_EMAIL,MONTHLY_SUMMARY_EMAIL,procurement.ams.ae@aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUPPLIER_EMAIL,Sheet,FALSE
+RFQ_DISTRIBUTION,Entity,BU unit,RFQ CC email,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_DISTRIBUTION,Sheet,FALSE
+RFQ_DISTRIBUTION,CA,BU 135,shijil.cp@aertssen.be;  gilbert.lagason@aertssen.be; imthiyas.ahamed@aertssen.be; shahfeen.shamsudheen@aertssen.be; laiju.sundar@aertssen.be; warehouse135.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_DISTRIBUTION,Sheet,FALSE
+RFQ_DISTRIBUTION,CA,BU 210,larry.gine@aertssen.be; sunil.singh@aertssen.be; shahfeen.shamsudheen@aertssen.be; laiju.sundar@aertssen.be; warehouse210.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_DISTRIBUTION,Sheet,FALSE
+RFQ_DISTRIBUTION,CA,BU 465,larry.gine@aertssen.be; sunil.singh@aertssen.be; shahfeen.shamsudheen@aertssen.be; laiju.sundar@aertssen.be; warehouse210.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_DISTRIBUTION,Sheet,FALSE
+RFQ_DISTRIBUTION,CA,BU 220,larry.gine@aertssen.be; sunil.singh@aertssen.be; shahfeen.shamsudheen@aertssen.be; laiju.sundar@aertssen.be; warehouse210.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_DISTRIBUTION,Sheet,FALSE
+RFQ_DISTRIBUTION,SA,BU 135,ProcurementSA@aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_DISTRIBUTION,Sheet,FALSE
+RFQ_SUBJECT,SettingKey,SettingValue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_SUBJECT,Sheet,FALSE
+RFQ_SUBJECT,RFQ_SUBJECT_MODE,SEPARATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_SUBJECT,Sheet,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
@@ -11416,3 +11424,9 @@ T_Supplier_Email_Settings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Supplie
 T_Supplier_Email_Settings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Supplier_Email_Settings,Table,FALSE
 T_Supplier_Email_Settings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Supplier_Email_Settings,Table,FALSE
 T_Supplier_Email_Settings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Supplier_Email_Settings,Table,FALSE
+T_RFQ_Distribution_list,,,,,,,,,,,CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_RFQ_Distribution_list,Table,FALSE
+T_RFQ_Distribution_list,,,,,,,,,,,CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_RFQ_Distribution_list,Table,FALSE
+T_RFQ_Distribution_list,,,,,,,,,,,CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_RFQ_Distribution_list,Table,FALSE
+T_RFQ_Distribution_list,,,,,,,,,,,CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_RFQ_Distribution_list,Table,FALSE
+T_RFQ_Distribution_list,,,,,,,,,,,SA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_RFQ_Distribution_list,Table,FALSE
+T_RFQ_Email_Settings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_RFQ_Email_Settings,Table,FALSE
