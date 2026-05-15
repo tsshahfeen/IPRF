@@ -391,8 +391,39 @@ PROJECTS,Workshop KSA_12_05,Training,Overhead projects,Victoria Devooght,Worksho
 PROJECTS,Workshop KSA_12_06,Temporary Staff,Overhead projects,Victoria Devooght,Workshop KSA_12,In progress,,Workshop KSA_12_06 | Temporary Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,Workshop KSA_12_07,Personnel Protection Equipment (PPE),Overhead projects,Victoria Devooght,Workshop KSA_12,In progress,,Workshop KSA_12_07 | Personnel Protection Equipment (PPE),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,Workshop KSA_12_08,Other,Overhead projects,Victoria Devooght,Workshop KSA_12,In progress,,Workshop KSA_12_08 | Other,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Direct Labor,Direct Labor,Overhead projects,,,In progress,,1 Direct Labor | Direct Labor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Equipment,Equipment,Overhead projects,Laiju Sundar Sundaresan,,In progress,,1 Equipment | Equipment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Equipment_01,Maintenance & repair,Overhead projects,Wesley Hamal,1 Equipment,In progress,,1 Equipment_01 | Maintenance & repair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Equipment_04,Assets non depreciated,Overhead projects,Laiju Sundar Sundaresan,1 Equipment,In progress,,1 Equipment_04 | Assets non depreciated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Equipment_11,Transport,Overhead projects,Wietse Schaefer,1 Equipment,In progress,,1 Equipment_11 | Transport,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_03,Finance & Controlling,Overhead projects,Eric Koppenol,1 Overhead,In progress,,1 Overhead_03 | Finance & Controlling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_04,HR,Overhead projects,Victoria Devooght,1 Overhead,In progress,,1 Overhead_04 | HR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_05,IT,Overhead projects,Vincent Cornelissens,1 Overhead,In progress,,1 Overhead_05 | IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_08_20,Office mangement SA,Overhead projects,Stephan Eeckhout,1 Overhead_08,In progress,,1 Overhead_08_20 | Office mangement SA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_09,Planning,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,,1 Overhead_09 | Planning,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_14,Innovation,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,,1 Overhead_14 | Innovation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_15_02_01,Extralegal fuel,Overhead projects,Amin Mohamed Amin Ahmed,1 Overhead_15_02,In progress,,1 Overhead_15_02_01 | Extralegal fuel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_17,Asset management,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,,1 Overhead_17 | Asset management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_22,Dividends,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,,1 Overhead_22 | Dividends,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,1 Overhead_23,Consultancy,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,,1 Overhead_23 | Consultancy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,2 Project_24,PMO Projecten,Overhead projects,Eric Koppenol,,In progress,,2 Project_24 | PMO Projecten,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,2 Project_24_10,PMO Projecten Finance,Overhead projects,Eric Koppenol,2 Project_24,In progress,,2 Project_24_10 | PMO Projecten Finance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,2 Project_24_10_004,E-Invoicing,Overhead projects,Brecht Verbrugge,2 Project_24_10,In progress,,2 Project_24_10_004 | E-Invoicing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000036,Boskalis - Oxagon Port,Boskalis Westminster Al-Ruishaid Co. LTD,Brecht Verbrugge,,In progress,R36,R00000036 | Boskalis - Oxagon Port | R36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000069,Sixco - MBL JV Oxagon Demolition,SIXCO MBL JV,De Bruin Josephus Gerardus Franciscus,,In progress,R69,R00000069 | Sixco - MBL JV Oxagon Demolition | R69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000078,MBL - Jeddah,Modern Building Leaders Co. Ltd,Gunnar Van Den Berg,,In progress,R78,R00000078 | MBL - Jeddah | R78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000091,WEBUILD – Trojena Dam Project,Webuild S.p.A,Gunnar Van Den Berg,,In progress,R91,R00000091 | WEBUILD – Trojena Dam Project | R91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000098,ALISHAR - Pipeline Project KSA,Ali Shar Contracting Company,Stephan Eeckhout,,In progress,R98,R00000098 | ALISHAR - Pipeline Project KSA | R98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000121,SBGJV - Amaala Project,SBG Main JV,Stephan Eeckhout,,In progress,R121,R00000121 | SBGJV - Amaala Project | R121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000130,Saipem - LTA 138,SNAMPROGETTI SAUDI ARABIA COMPANY LIMITED,Stephan Eeckhout,,In progress,R130,R00000130 | Saipem - LTA 138 | R130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000131,PC Marine - Jeddah TN 3038,PC Marine,Stephan Eeckhout,,In progress,R131,R00000131 | PC Marine - Jeddah TN 3038 | R131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000160,Al Qaryan - Demolition,"Al-Qaryan Group for Trade, Industry, and Contracting",Gunnar Van Den Berg,,In progress,R160,R00000160 | Al Qaryan - Demolition | R160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000182,ALJ - TN3257 Bridge units,Abdul Latif Jameel Summit Co. Ltd.,Gunnar Van Den Berg,,In progress,R182,R00000182 | ALJ - TN3257 Bridge units | R182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000188,OHLA - M1 Umluj,OHL Arabia LLC,Gunnar Van Den Berg,,In progress,R188,R00000188 | OHLA - M1 Umluj | R188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000189,Al Qaryan - Yanbu,"Al-Qaryan Group for Trade, Industry, and Contracting",Gunnar Van Den Berg,,In progress,R189,R00000189 | Al Qaryan - Yanbu | R189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 LOCATION,ProjectID,ProjectName,ProjectID Abb,Location,,,Formula used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,ICAD III,Abu dhabi,ICAD III,ICAD III | Abu dhabi,,,"=TEXTJOIN("" | "", TRUE, [@ProjectID], [@[ProjectID Abb]], [@ProjectName])",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,Jubail Yard,"Easter province, KSA",Jubail Yard,"Jubail Yard | Easter province, KSA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000019,Galfar - Habshan & ASAB,J19,J00000019 | J19 | Galfar - Habshan & ASAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000044,,J44,J00000044 | J44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000046,RAK Precast - Ras Al Khaimah FZ,J46,J00000046 | J46 | RAK Precast - Ras Al Khaimah FZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
@@ -524,6 +555,18 @@ LOCATION,R00000186,NMDC - Al Dhafra,R186,R00000186 | R186 | NMDC - Al Dhafra,,,,
 LOCATION,R00000187,AVR - Habshan,R187,R00000187 | R187 | AVR - Habshan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000190,NMDC - LuLu Island,R190,R00000190 | R190 | NMDC - LuLu Island,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000191,Bramco - Emirates Steel Al Ain,R191,R00000191 | R191 | Bramco - Emirates Steel Al Ain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000036,Boskalis - Oxagon Port,R36,R00000036 | R36 | Boskalis - Oxagon Port,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000069,Sixco - MBL JV Oxagon Demolition,R69,R00000069 | R69 | Sixco - MBL JV Oxagon Demolition,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000078,MBL - Jeddah,R78,R00000078 | R78 | MBL - Jeddah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000091,WEBUILD – Trojena Dam Project,R91,R00000091 | R91 | WEBUILD – Trojena Dam Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000098,ALISHAR - Pipeline Project KSA,R98,R00000098 | R98 | ALISHAR - Pipeline Project KSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000121,SBGJV - Amaala Project,R121,R00000121 | R121 | SBGJV - Amaala Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000130,Saipem - LTA 138,R130,R00000130 | R130 | Saipem - LTA 138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000131,PC Marine - Jeddah TN 3038,R131,R00000131 | R131 | PC Marine - Jeddah TN 3038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000160,Al Qaryan - Demolition,R160,R00000160 | R160 | Al Qaryan - Demolition,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000182,ALJ - TN3257 Bridge units,R182,R00000182 | R182 | ALJ - TN3257 Bridge units,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000188,OHLA - M1 Umluj,R188,R00000188 | R188 | OHLA - M1 Umluj,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000189,Al Qaryan - Yanbu,R189,R00000189 | R189 | Al Qaryan - Yanbu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 REQUESTER,DisplayName,CompanyName,EmailAddress,OfficeLocation,JobTitle,Request Prefix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Zubaida Al Farsi,Aertssen Machinery Services,zubaida.alfarsi@aertssen.be,AMS - Abu Dhabi,Branch Manager,ZUFA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Zenios Zeniou,Aertssen Machinery Services Ltd,zenonas.zeniou@aertssen.be,AMS - Cyprus,Finance Manager,ZEZE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
@@ -782,6 +825,8 @@ UNIT,ride,ride,ride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,t,ton,ton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,tp,total price,total price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,w,week,week,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
+UNIT,set,set,set,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
+UNIT,pack,pack,pack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 PARTS PREFERENCE,Parts preference,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
 PARTS PREFERENCE,Aftermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
 PARTS PREFERENCE,Genuine / OEM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PARTS PREFERENCE,Sheet,FALSE
@@ -841,7 +886,7 @@ DISTRIBUTION_LIST,AC,"Aertssen Machinery Services Ltd, CYPRUS",BU 135,Earth Movi
 DISTRIBUTION_LIST,CQ,AMS Qatar,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,SG,"Aertssen Machinery Services Asia Pacific Pte Ltd, SINGAPORE",BU 135,Earth Moving,procurement.ams.ae@aertssen.be,warehouse135.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 VERSION,Description,Version,Last updated on,Authenticated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VERSION,Sheet,FALSE
-VERSION,Data,1.2,46132,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VERSION,Sheet,FALSE
+VERSION,Data,2,46143,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VERSION,Sheet,FALSE
 ASSET_DATA,Object ID,Object name,Short name,Brand,Brand specification,Object type,Object sub type,Cost centre,Department,Search friendly,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,T01844,100T AL JABER FRONT LOADER,40307 QA | LB4-828,AL JABER,100T,Transport mode,Transport mode,T01844,220 WS,1844,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,T01848,100T AL JABER FRONTLOADER 4 AXLE,1/88029 AE | LB4-1049,AL JABER,100T,Transport mode,Transport mode,T01848,210 WS,1848,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -6110,7 +6155,38 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,Workshop KSA_12_05,,Training,Overhead projects
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,Workshop KSA_12_06,,Temporary Staff,Overhead projects,Victoria Devooght,Workshop KSA_12,In progress,Workshop KSA_12_06 | Temporary Staff,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,Workshop KSA_12_07,,Personnel Protection Equipment (PPE),Overhead projects,Victoria Devooght,Workshop KSA_12,In progress,Workshop KSA_12_07 | Personnel Protection Equipment (PPE),,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,Workshop KSA_12_08,,Other,Overhead projects,Victoria Devooght,Workshop KSA_12,In progress,Workshop KSA_12_08 | Other,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Direct Labor,,Direct Labor,Overhead projects,,,In progress,1 Direct Labor | Direct Labor,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Equipment,,Equipment,Overhead projects,Laiju Sundar Sundaresan,,In progress,1 Equipment | Equipment,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Equipment_01,,Maintenance & repair,Overhead projects,Wesley Hamal,1 Equipment,In progress,1 Equipment_01 | Maintenance & repair,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Equipment_04,,Assets non depreciated,Overhead projects,Laiju Sundar Sundaresan,1 Equipment,In progress,1 Equipment_04 | Assets non depreciated,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Equipment_11,,Transport,Overhead projects,Wietse Schaefer,1 Equipment,In progress,1 Equipment_11 | Transport,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_03,,Finance & Controlling,Overhead projects,Eric Koppenol,1 Overhead,In progress,1 Overhead_03 | Finance & Controlling,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_04,,HR,Overhead projects,Victoria Devooght,1 Overhead,In progress,1 Overhead_04 | HR,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_05,,IT,Overhead projects,Vincent Cornelissens,1 Overhead,In progress,1 Overhead_05 | IT,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_08_20,,Office mangement SA,Overhead projects,Stephan Eeckhout,1 Overhead_08,In progress,1 Overhead_08_20 | Office mangement SA,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_09,,Planning,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,1 Overhead_09 | Planning,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_14,,Innovation,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,1 Overhead_14 | Innovation,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_15_02_01,,Extralegal fuel,Overhead projects,Amin Mohamed Amin Ahmed,1 Overhead_15_02,In progress,1 Overhead_15_02_01 | Extralegal fuel,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_17,,Asset management,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,1 Overhead_17 | Asset management,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_22,,Dividends,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,1 Overhead_22 | Dividends,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_23,,Consultancy,Overhead projects,Robbert-Jan Willems,1 Overhead,In progress,1 Overhead_23 | Consultancy,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,2 Project_24,,PMO Projecten,Overhead projects,Eric Koppenol,,In progress,2 Project_24 | PMO Projecten,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,2 Project_24_10,,PMO Projecten Finance,Overhead projects,Eric Koppenol,2 Project_24,In progress,2 Project_24_10 | PMO Projecten Finance,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,2 Project_24_10_004,,E-Invoicing,Overhead projects,Brecht Verbrugge,2 Project_24_10,In progress,2 Project_24_10_004 | E-Invoicing,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000036,R36,Boskalis - Oxagon Port,Boskalis Westminster Al-Ruishaid Co. LTD,Brecht Verbrugge,,In progress,R00000036 | Boskalis - Oxagon Port | R36,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000069,R69,Sixco - MBL JV Oxagon Demolition,SIXCO MBL JV,De Bruin Josephus Gerardus Franciscus,,In progress,R00000069 | Sixco - MBL JV Oxagon Demolition | R69,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000078,R78,MBL - Jeddah,Modern Building Leaders Co. Ltd,Gunnar Van Den Berg,,In progress,R00000078 | MBL - Jeddah | R78,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000091,R91,WEBUILD – Trojena Dam Project,Webuild S.p.A,Gunnar Van Den Berg,,In progress,R00000091 | WEBUILD – Trojena Dam Project | R91,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000098,R98,ALISHAR - Pipeline Project KSA,Ali Shar Contracting Company,Stephan Eeckhout,,In progress,R00000098 | ALISHAR - Pipeline Project KSA | R98,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000121,R121,SBGJV - Amaala Project,SBG Main JV,Stephan Eeckhout,,In progress,R00000121 | SBGJV - Amaala Project | R121,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000130,R130,Saipem - LTA 138,SNAMPROGETTI SAUDI ARABIA COMPANY LIMITED,Stephan Eeckhout,,In progress,R00000130 | Saipem - LTA 138 | R130,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000131,R131,PC Marine - Jeddah TN 3038,PC Marine,Stephan Eeckhout,,In progress,R00000131 | PC Marine - Jeddah TN 3038 | R131,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000160,R160,Al Qaryan - Demolition,"Al-Qaryan Group for Trade, Industry, and Contracting",Gunnar Van Den Berg,,In progress,R00000160 | Al Qaryan - Demolition | R160,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000182,R182,ALJ - TN3257 Bridge units,Abdul Latif Jameel Summit Co. Ltd.,Gunnar Van Den Berg,,In progress,R00000182 | ALJ - TN3257 Bridge units | R182,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000188,R188,OHLA - M1 Umluj,OHL Arabia LLC,Gunnar Van Den Berg,,In progress,R00000188 | OHLA - M1 Umluj | R188,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000189,R189,Al Qaryan - Yanbu,"Al-Qaryan Group for Trade, Industry, and Contracting",Gunnar Van Den Berg,,In progress,R00000189 | Al Qaryan - Yanbu | R189,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,ICAD III,ICAD III,Abu dhabi,,,,,,ICAD III | Abu dhabi,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,Jubail Yard,Jubail Yard,"Easter province, KSA",,,,,,"Jubail Yard | Easter province, KSA",,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000019,J19,Galfar - Habshan & ASAB,,,,,,J00000019 | J19 | Galfar - Habshan & ASAB,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000044,J44,,,,,,,J00000044 | J44,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000046,J46,RAK Precast - Ras Al Khaimah FZ,,,,,,J00000046 | J46 | RAK Precast - Ras Al Khaimah FZ,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
@@ -6242,6 +6318,18 @@ T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000186,R186,NMDC - Al Dhafra,,,,,,R00000186 |
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000187,R187,AVR - Habshan,,,,,,R00000187 | R187 | AVR - Habshan,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000190,R190,NMDC - LuLu Island,,,,,,R00000190 | R190 | NMDC - LuLu Island,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000191,R191,Bramco - Emirates Steel Al Ain,,,,,,R00000191 | R191 | Bramco - Emirates Steel Al Ain,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000036,R36,Boskalis - Oxagon Port,,,,,,R00000036 | R36 | Boskalis - Oxagon Port,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000069,R69,Sixco - MBL JV Oxagon Demolition,,,,,,R00000069 | R69 | Sixco - MBL JV Oxagon Demolition,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000078,R78,MBL - Jeddah,,,,,,R00000078 | R78 | MBL - Jeddah,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000091,R91,WEBUILD – Trojena Dam Project,,,,,,R00000091 | R91 | WEBUILD – Trojena Dam Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000098,R98,ALISHAR - Pipeline Project KSA,,,,,,R00000098 | R98 | ALISHAR - Pipeline Project KSA,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000121,R121,SBGJV - Amaala Project,,,,,,R00000121 | R121 | SBGJV - Amaala Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000130,R130,Saipem - LTA 138,,,,,,R00000130 | R130 | Saipem - LTA 138,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000131,R131,PC Marine - Jeddah TN 3038,,,,,,R00000131 | R131 | PC Marine - Jeddah TN 3038,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000160,R160,Al Qaryan - Demolition,,,,,,R00000160 | R160 | Al Qaryan - Demolition,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000182,R182,ALJ - TN3257 Bridge units,,,,,,R00000182 | R182 | ALJ - TN3257 Bridge units,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000188,R188,OHLA - M1 Umluj,,,,,,R00000188 | R188 | OHLA - M1 Umluj,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000189,R189,Al Qaryan - Yanbu,,,,,,R00000189 | R189 | Al Qaryan - Yanbu,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zubaida Al Farsi,Aertssen Machinery Services,zubaida.alfarsi@aertssen.be,AMS - Abu Dhabi,Branch Manager,ZUFA,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zenios Zeniou,Aertssen Machinery Services Ltd,zenonas.zeniou@aertssen.be,AMS - Cyprus,Finance Manager,ZEZE,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yasser Hassan,Aertssen Machinery Services,yasser.hassan@aertssen.be,AMS - Abu Dhabi,Public Relations Officer,YAHA,,,,,,,,,,T_REQUESTER,Table,FALSE
@@ -6493,6 +6581,8 @@ T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ride,ride,ride,,T_Unit,Table,FAL
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,ton,ton,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tp,total price,total price,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,w,week,week,,T_Unit,Table,FALSE
+T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,set,set,set,,T_Unit,Table,FALSE
+T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pack,pack,pack,,T_Unit,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aftermarket,T_Parts_preference1,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Genuine / OEM,T_Parts_preference1,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Availability,T_Parts_preference1,Table,FALSE
