@@ -421,6 +421,16 @@ PROJECTS,R00000160,Al Qaryan - Demolition,"Al-Qaryan Group for Trade, Industry, 
 PROJECTS,R00000182,ALJ - TN3257 Bridge units,Abdul Latif Jameel Summit Co. Ltd.,Gunnar Van Den Berg,,In progress,R182,R00000182 | ALJ - TN3257 Bridge units | R182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000188,OHLA - M1 Umluj,OHL Arabia LLC,Gunnar Van Den Berg,,In progress,R188,R00000188 | OHLA - M1 Umluj | R188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000189,Al Qaryan - Yanbu,"Al-Qaryan Group for Trade, Industry, and Contracting",Gunnar Van Den Berg,,In progress,R189,R00000189 | Al Qaryan - Yanbu | R189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000195,Coastal Contracting,Coastal Contracting Company,Gunnar Van Den Berg,,In progress,R195,R00000195 | Coastal Contracting | R195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000192,Project name pending,,,,In progress,R192,R00000192 | Project name pending | R192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000193,Project name pending,,,,In progress,R193,R00000193 | Project name pending | R193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000194,Project name pending,,,,In progress,R194,R00000194 | Project name pending | R194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000195,Project name pending,,,,In progress,R195,R00000195 | Project name pending | R195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000196,Project name pending,,,,In progress,R196,R00000196 | Project name pending | R196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000197,Project name pending,,,,In progress,R197,R00000197 | Project name pending | R197,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000198,Project name pending,,,,In progress,R198,R00000198 | Project name pending | R198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000199,Project name pending,,,,In progress,R199,R00000199 | Project name pending | R199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000200,Project name pending,,,,In progress,R200,R00000200 | Project name pending | R200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 LOCATION,ProjectID,ProjectName,ProjectID Abb,Location,,,Formula used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,ICAD III,Abu dhabi,ICAD III,ICAD III | Abu dhabi,,,"=TEXTJOIN("" | "", TRUE, [@ProjectID], [@[ProjectID Abb]], [@ProjectName])",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,Jubail Yard,"Easter province, KSA",Jubail Yard,"Jubail Yard | Easter province, KSA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
@@ -6185,6 +6195,16 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000160,R160,Al Qaryan - Demolition,"Al-Qary
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000182,R182,ALJ - TN3257 Bridge units,Abdul Latif Jameel Summit Co. Ltd.,Gunnar Van Den Berg,,In progress,R00000182 | ALJ - TN3257 Bridge units | R182,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000188,R188,OHLA - M1 Umluj,OHL Arabia LLC,Gunnar Van Den Berg,,In progress,R00000188 | OHLA - M1 Umluj | R188,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000189,R189,Al Qaryan - Yanbu,"Al-Qaryan Group for Trade, Industry, and Contracting",Gunnar Van Den Berg,,In progress,R00000189 | Al Qaryan - Yanbu | R189,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000195,R195,Coastal Contracting,Coastal Contracting Company,Gunnar Van Den Berg,,In progress,R00000195 | Coastal Contracting | R195,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000192,R192,Project name pending,,,,In progress,R00000192 | Project name pending | R192,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000193,R193,Project name pending,,,,In progress,R00000193 | Project name pending | R193,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000194,R194,Project name pending,,,,In progress,R00000194 | Project name pending | R194,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000195,R195,Project name pending,,,,In progress,R00000195 | Project name pending | R195,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000196,R196,Project name pending,,,,In progress,R00000196 | Project name pending | R196,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000197,R197,Project name pending,,,,In progress,R00000197 | Project name pending | R197,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000198,R198,Project name pending,,,,In progress,R00000198 | Project name pending | R198,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000199,R199,Project name pending,,,,In progress,R00000199 | Project name pending | R199,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000200,R200,Project name pending,,,,In progress,R00000200 | Project name pending | R200,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,ICAD III,ICAD III,Abu dhabi,,,,,,ICAD III | Abu dhabi,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,Jubail Yard,Jubail Yard,"Easter province, KSA",,,,,,"Jubail Yard | Easter province, KSA",,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000019,J19,Galfar - Habshan & ASAB,,,,,,J00000019 | J19 | Galfar - Habshan & ASAB,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
