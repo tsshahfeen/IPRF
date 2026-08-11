@@ -915,9 +915,7 @@ ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Al Hilal Engineer
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",TUV SUD Middle East LLC (Oman),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",FAHSS W.L.L - ABU DHABI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Delma Co-operative Society,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
-ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Astron Certification LLCs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",ADNOC Technical Academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
-ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",ADNOC technical academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 DISTRIBUTION_LIST,Entity,Entity name,BU,BU Name,Procurement Email,Warehouse Email,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 135,Earth Moving,procurement.ams.ae@aertssen.be,warehouse135.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 210,Cranes,procurement.ams.ae@aertssen.be,warehouse210.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
