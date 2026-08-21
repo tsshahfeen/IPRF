@@ -602,6 +602,26 @@ LOCATION,R00000160,Al Qaryan - Demolition,R160,R00000160 | R160 | Al Qaryan - De
 LOCATION,R00000182,ALJ - TN3257 Bridge units,R182,R00000182 | R182 | ALJ - TN3257 Bridge units,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000188,OHLA - M1 Umluj,R188,R00000188 | R188 | OHLA - M1 Umluj,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000189,Al Qaryan - Yanbu,R189,R00000189 | R189 | Al Qaryan - Yanbu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000119,AVR-Umm Al Naar Refinery,R119,R00000119 | R119 | AVR-Umm Al Naar Refinery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000137,Halex - Tuas F4,R137,R00000137 | R137 | Halex - Tuas F4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000144,Prime Concrete - Anaklia,R144,R00000144 | R144 | Prime Concrete - Anaklia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000165,ALEC - The Sphere,R165,R00000165 | R165 | ALEC - The Sphere,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000168,AMTC - Bubasala Razeen,R168,R00000168 | R168 | AMTC - Bubasala Razeen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000174,RDMC - Petrosea Pakistan TSF Project,R174,R00000174 | R174 | RDMC - Petrosea Pakistan TSF Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000195,Coastal Contracting - Ladies Beach Club,R195,R00000195 | R195 | Coastal Contracting - Ladies Beach Club,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000196,Huasing - Changi,R196,R00000196 | R196 | Huasing - Changi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000200,"NMDC - Pasay Harbour, Manila",R200,"R00000200 | R200 | NMDC - Pasay Harbour, Manila",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000207,"ISD - Ramayapatnam, India",R207,"R00000207 | R207 | ISD - Ramayapatnam, India",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000208,ALEC - Al Marjan,R208,R00000208 | R208 | ALEC - Al Marjan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000209,Samsung - Ras Laffan Demolition,R209,R00000209 | R209 | Samsung - Ras Laffan Demolition,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000210,DIPS - Adnoc L&S,R210,R00000210 | R210 | DIPS - Adnoc L&S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000211,Rimal Global - Jabal Shams,R211,R00000211 | R211 | Rimal Global - Jabal Shams,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000212,Rawasi - Khasab Dibba,R212,R00000212 | R212 | Rawasi - Khasab Dibba,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000213,EWCC - Habshan Adnoc Project,R213,R00000213 | R213 | EWCC - Habshan Adnoc Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000214,"CPL (ITD) - Varsha, India",R214,"R00000214 | R214 | CPL (ITD) - Varsha, India",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000215,Probus - Asab Sahil Waterpipeline,R215,R00000215 | R215 | Probus - Asab Sahil Waterpipeline,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000216,Khimji Ramdas - Jindal Steel Duqm Port,R216,R00000216 | R216 | Khimji Ramdas - Jindal Steel Duqm Port,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000217,All Marine - Mina Zayed Port,R217,R00000217 | R217 | All Marine - Mina Zayed Port,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 REQUESTER,DisplayName,CompanyName,EmailAddress,OfficeLocation,JobTitle,Request Prefix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Zubaida Al Farsi,Aertssen Machinery Services,zubaida.alfarsi@aertssen.be,AMS - Abu Dhabi,Branch Manager,ZUFA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Zenios Zeniou,Aertssen Machinery Services Ltd,zenonas.zeniou@aertssen.be,AMS - Cyprus,Finance Manager,ZEZE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
@@ -6468,6 +6488,26 @@ T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000160,R160,Al Qaryan - Demolition,,,,,,R0000
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000182,R182,ALJ - TN3257 Bridge units,,,,,,R00000182 | R182 | ALJ - TN3257 Bridge units,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000188,R188,OHLA - M1 Umluj,,,,,,R00000188 | R188 | OHLA - M1 Umluj,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000189,R189,Al Qaryan - Yanbu,,,,,,R00000189 | R189 | Al Qaryan - Yanbu,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000119,R119,AVR-Umm Al Naar Refinery,,,,,,R00000119 | R119 | AVR-Umm Al Naar Refinery,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000137,R137,Halex - Tuas F4,,,,,,R00000137 | R137 | Halex - Tuas F4,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000144,R144,Prime Concrete - Anaklia,,,,,,R00000144 | R144 | Prime Concrete - Anaklia,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000165,R165,ALEC - The Sphere,,,,,,R00000165 | R165 | ALEC - The Sphere,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000168,R168,AMTC - Bubasala Razeen,,,,,,R00000168 | R168 | AMTC - Bubasala Razeen,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000174,R174,RDMC - Petrosea Pakistan TSF Project,,,,,,R00000174 | R174 | RDMC - Petrosea Pakistan TSF Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000195,R195,Coastal Contracting - Ladies Beach Club,,,,,,R00000195 | R195 | Coastal Contracting - Ladies Beach Club,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000196,R196,Huasing - Changi,,,,,,R00000196 | R196 | Huasing - Changi,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000200,R200,"NMDC - Pasay Harbour, Manila",,,,,,"R00000200 | R200 | NMDC - Pasay Harbour, Manila",,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000207,R207,"ISD - Ramayapatnam, India",,,,,,"R00000207 | R207 | ISD - Ramayapatnam, India",,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000208,R208,ALEC - Al Marjan,,,,,,R00000208 | R208 | ALEC - Al Marjan,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000209,R209,Samsung - Ras Laffan Demolition,,,,,,R00000209 | R209 | Samsung - Ras Laffan Demolition,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000210,R210,DIPS - Adnoc L&S,,,,,,R00000210 | R210 | DIPS - Adnoc L&S,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000211,R211,Rimal Global - Jabal Shams,,,,,,R00000211 | R211 | Rimal Global - Jabal Shams,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000212,R212,Rawasi - Khasab Dibba,,,,,,R00000212 | R212 | Rawasi - Khasab Dibba,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000213,R213,EWCC - Habshan Adnoc Project,,,,,,R00000213 | R213 | EWCC - Habshan Adnoc Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000214,R214,"CPL (ITD) - Varsha, India",,,,,,"R00000214 | R214 | CPL (ITD) - Varsha, India",,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000215,R215,Probus - Asab Sahil Waterpipeline,,,,,,R00000215 | R215 | Probus - Asab Sahil Waterpipeline,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000216,R216,Khimji Ramdas - Jindal Steel Duqm Port,,,,,,R00000216 | R216 | Khimji Ramdas - Jindal Steel Duqm Port,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000217,R217,All Marine - Mina Zayed Port,,,,,,R00000217 | R217 | All Marine - Mina Zayed Port,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zubaida Al Farsi,Aertssen Machinery Services,zubaida.alfarsi@aertssen.be,AMS - Abu Dhabi,Branch Manager,ZUFA,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zenios Zeniou,Aertssen Machinery Services Ltd,zenonas.zeniou@aertssen.be,AMS - Cyprus,Finance Manager,ZEZE,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yasser Hassan,Aertssen Machinery Services,yasser.hassan@aertssen.be,AMS - Abu Dhabi,Public Relations Officer,YAHA,,,,,,,,,,T_REQUESTER,Table,FALSE
