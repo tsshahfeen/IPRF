@@ -938,6 +938,7 @@ ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",FAHSS W.L.L - ABU
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Delma Co-operative Society,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Astron Certification LLCs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",ADNOC Technical Academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
+ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",EdTech Training and Consultancy – Sole Proprietorship LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 DISTRIBUTION_LIST,Entity,Entity name,BU,BU Name,Procurement Email,Warehouse Email,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 135,Earth Moving,procurement.ams.ae@aertssen.be,warehouse135.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 210,Cranes,procurement.ams.ae@aertssen.be,warehouse210.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
@@ -5895,6 +5896,7 @@ RFQ_DISTRIBUTION,CA,BU 220,larry.gine@aertssen.be; sunil.singh@aertssen.be; shah
 RFQ_DISTRIBUTION,SA,BU 135,ProcurementSA@aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_DISTRIBUTION,Sheet,FALSE
 RFQ_SUBJECT,SettingKey,SettingValue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_SUBJECT,Sheet,FALSE
 RFQ_SUBJECT,RFQ_SUBJECT_MODE,SEPARATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_SUBJECT,Sheet,FALSE
+Sheet1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sheet1,Sheet,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
@@ -6772,6 +6774,7 @@ T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aftermarket,T_Pa
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Genuine / OEM,T_Parts_preference1,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Availability,T_Parts_preference1,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Economical,T_Parts_preference1,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
 T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
 T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
 T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
