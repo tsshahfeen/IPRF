@@ -1,4 +1,4 @@
-Name,Data.Column1,Data.Column2,Data.Column3,Data.Column4,Data.Column5,Data.Column6,Data.Column7,Data.Column8,Data.Column9,Data.Column10,Data.Entity,Data.Entity name,Data.Entity with description,Data.BU,Data.BU Name,Data.Request type,Data.Item type,Data.Priority,Data.Business Unit,Data.Item type - Primary,Data.Item type - Secondary,Data.ProjectID,Data.ProjectID Abb,Data.ProjectName,Data.dataAreaId,Data.DimensionDisplayValue,Data.ParentProject,Data.ProjectStage,Data.ProjectID_Name,Data.Location,Data.DisplayName,Data.CompanyName,Data.EmailAddress,Data.OfficeLocation,Data.JobTitle,Data.Request Prefix,Data.Inventory_Warehouse,Data.COUNTRY,Data.PROVINCE,Data.LOCATION_SITE,Data.WAREHOUSE NAME,Data.Unit,Data.Description,Data.Translated description,Data.Parts preference,Item,Kind,Hidden
+ÔªøName,Data.Column1,Data.Column2,Data.Column3,Data.Column4,Data.Column5,Data.Column6,Data.Column7,Data.Column8,Data.Column9,Data.Column10,Data.Entity,Data.Entity name,Data.Entity with description,Data.BU,Data.BU Name,Data.Request type,Data.Item type,Data.Priority,Data.Business Unit,Data.Item type - Primary,Data.Item type - Secondary,Data.ProjectID,Data.ProjectID Abb,Data.ProjectName,Data.dataAreaId,Data.DimensionDisplayValue,Data.ParentProject,Data.ProjectStage,Data.ProjectID_Name,Data.Location,Data.DisplayName,Data.CompanyName,Data.EmailAddress,Data.OfficeLocation,Data.JobTitle,Data.Request Prefix,Data.Inventory_Warehouse,Data.COUNTRY,Data.PROVINCE,Data.LOCATION_SITE,Data.WAREHOUSE NAME,Data.Unit,Data.Description,Data.Translated description,Data.Parts preference,Item,Kind,Hidden
 ENTITY,Entity,Entity name,BU,BU Name,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
 ENTITY,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
 ENTITY,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ENTITY,Sheet,FALSE
@@ -175,7 +175,7 @@ PROJECTS,J00000191,NMDC - Al Yasat Isl. 280Te,ca,-210-J00000191--99-999-,,InProc
 PROJECTS,1 Overhead_02_42,AMS AD Workshop + office,ca,-135-1 Overhead_02_42----,1 Overhead_02,InProcess,,1 Overhead_02_42 | AMS AD Workshop + office,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,2 Project_02,AMS AD,ca,-135-2 Project_02--99-999-,,InProcess,,2 Project_02 | AMS AD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,2 Project_02_42,FAC Proj AMS AD,ca,-135-2 Project_02_42--99-999-,2 Project_02,InProcess,,2 Project_02_42 | FAC Proj AMS AD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
-PROJECTS,R00000043,NMDC ñ NISI (Taweelah),ca,-135-R00000043--99-999-,,InProcess,R43,R00000043 | NMDC ñ NISI (Taweelah) | R43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000043,NMDC ‚Äì NISI (Taweelah),ca,-135-R00000043--99-999-,,InProcess,R43,R00000043 | NMDC ‚Äì NISI (Taweelah) | R43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000195,Penta Global - Zirku Island,ca,-210-J00000195--99-999-,,InProcess,J195,J00000195 | Penta Global - Zirku Island | J195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J_Yard,J_Yard (operator hrs Yard),ca,-210-J_Yard----,,InProcess,,J_Yard | J_Yard (operator hrs Yard),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J_Workshop,J_Workshop (mechanic hrs Yard),ca,-210-J_Workshop----,,InProcess,,J_Workshop | J_Workshop (mechanic hrs Yard),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
@@ -242,7 +242,7 @@ PROJECTS,R00000123,SAIPEM - Hail & Gasha,ca,-135-R00000123--99-999-,,InProcess,R
 PROJECTS,R00000124,Target - Al Sahil Project,ca,-135-R00000124--99-999-,,InProcess,R124,R00000124 | Target - Al Sahil Project | R124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000128,DAEWOO - Immersed Tunnel Iraq,ca,-135-R00000128--99-999-,,InProcess,R128,R00000128 | DAEWOO - Immersed Tunnel Iraq | R128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,T00000001,AMS EM - Special External Transportation,ca,-135-T00000001--99-999-,,InProcess,,T00000001 | AMS EM - Special External Transportation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
-PROJECTS,J00000268,NMDC LTS - LNG ñ Ruwais,ca,-210-J00000268--99-999-,,InProcess,J268,J00000268 | NMDC LTS - LNG ñ Ruwais | J268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,J00000268,NMDC LTS - LNG ‚Äì Ruwais,ca,-210-J00000268--99-999-,,InProcess,J268,J00000268 | NMDC LTS - LNG ‚Äì Ruwais | J268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000269,NSH - Harvest Ammonia Project,ca,-210-J00000269--99-999-,,InProcess,J269,J00000269 | NSH - Harvest Ammonia Project | J269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000135,Van Oord - Umm Suqeim,ca,-135-R00000135--99-999-,,InProcess,R135,R00000135 | Van Oord - Umm Suqeim | R135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000136,NMDC - Hudariyat,ca,-135-R00000136--99-999-,,InProcess,R136,R00000136 | NMDC - Hudariyat | R136,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
@@ -397,7 +397,7 @@ PROJECTS,2 Project_24_10_004,E-Invoicing,Overhead projects,Brecht Verbrugge,2 Pr
 PROJECTS,R00000036,Boskalis - Oxagon Port,Boskalis Westminster Al-Ruishaid Co. LTD,Brecht Verbrugge,,In progress,R36,R00000036 | Boskalis - Oxagon Port | R36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000069,Sixco - MBL JV Oxagon Demolition,SIXCO MBL JV,De Bruin Josephus Gerardus Franciscus,,In progress,R69,R00000069 | Sixco - MBL JV Oxagon Demolition | R69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000078,MBL - Jeddah,Modern Building Leaders Co. Ltd,Gunnar Van Den Berg,,In progress,R78,R00000078 | MBL - Jeddah | R78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
-PROJECTS,R00000091,WEBUILD ñ Trojena Dam Project,Webuild S.p.A,Gunnar Van Den Berg,,In progress,R91,R00000091 | WEBUILD ñ Trojena Dam Project | R91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000091,WEBUILD ‚Äì Trojena Dam Project,Webuild S.p.A,Gunnar Van Den Berg,,In progress,R91,R00000091 | WEBUILD ‚Äì Trojena Dam Project | R91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000098,ALISHAR - Pipeline Project KSA,Ali Shar Contracting Company,Stephan Eeckhout,,In progress,R98,R00000098 | ALISHAR - Pipeline Project KSA | R98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000121,SBGJV - Amaala Project,SBG Main JV,Stephan Eeckhout,,In progress,R121,R00000121 | SBGJV - Amaala Project | R121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000130,Saipem - LTA 138,SNAMPROGETTI SAUDI ARABIA COMPANY LIMITED,Stephan Eeckhout,,In progress,R130,R00000130 | Saipem - LTA 138 | R130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
@@ -413,7 +413,7 @@ PROJECTS,J00000026,Mobilift - Oman (other),ca,Mobilift & Partners LLC,Robbert-Ja
 PROJECTS,J00000039,Mobilift - Sohar,ca,Mobilift & Partners LLC,Robbert-Jan Willems,Finished (Operationally ended),J39,J00000039 | Mobilift - Sohar | J39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000050,Mobilift - Duqm Oman,ca,Mobilift & Partners LLC,Robbert-Jan Willems,Finished (Operationally ended),J50,J00000050 | Mobilift - Duqm Oman | J50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000074,NMDC - Hail and Gashha,ca,NMDC GROUP - P.J.S.C,Robbert-Jan Willems,Finished (Operationally ended),J74,J00000074 | NMDC - Hail and Gashha | J74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
-PROJECTS,J00000141,NMDC - Shamal Development Marine Works ñ Khalifa Port,ca,NMDC GROUP - P.J.S.C,Robbert-Jan Willems,Finished (Operationally ended),J141,J00000141 | NMDC - Shamal Development Marine Works ñ Khalifa Port | J141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,J00000141,NMDC - Shamal Development Marine Works ‚Äì Khalifa Port,ca,NMDC GROUP - P.J.S.C,Robbert-Jan Willems,Finished (Operationally ended),J141,J00000141 | NMDC - Shamal Development Marine Works ‚Äì Khalifa Port | J141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000158,NMDC - SIR BANIYAS BRIDGE WORKS PROJECT,ca,NMDC GROUP - P.J.S.C,Lowie De Lombaerde,Finished (Operationally ended),J158,J00000158 | NMDC - SIR BANIYAS BRIDGE WORKS PROJECT | J158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000196,Adnoc Drilling - Asseifiya Island,ca,Adnoc Drilling,Lowie De Lombaerde,Finished (Operationally ended),J196,J00000196 | Adnoc Drilling - Asseifiya Island | J196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,J00000230,Motorway - Hail & Gasha,ca,Motor Way General Transport-L.L.C,Robbert-Jan Willems,Finished (Operationally ended),J230,J00000230 | Motorway - Hail & Gasha | J230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
@@ -429,13 +429,13 @@ PROJECTS,J00000305,Lamprell - Jebel Ali Yard,ca,Lamprell Energy Limited,Jorge Al
 PROJECTS,J00000306,Probus - Asab Sahil Waterpipeline,ca,Probus Engineering and Construction LLC,Jorge Alejandro Vasquez Balcazar,In process,J306,J00000306 | Probus - Asab Sahil Waterpipeline | J306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000002,NMDC - Khalifa Port,ac,NMDC GROUP - P.J.S.C,Stephan Eeckhout,Hold,R2,R00000002 | NMDC - Khalifa Port | R2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000003,SAIPEM - Berri Downsteam Pipeline,ac,Saipem S.p.A,Stephan Eeckhout,Hold,R3,R00000003 | SAIPEM - Berri Downsteam Pipeline | R3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
-PROJECTS,R00000004,VAN OORD - ZX870?Ijzeren Hein?KSA,ac,VOME Saudi,Stephan Eeckhout,Hold,R4,R00000004 | VAN OORD - ZX870?Ijzeren Hein?KSA | R4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000004,VAN OORD - ZX870‚ÄêIjzeren Hein‚ÄêKSA,ac,VOME Saudi,Stephan Eeckhout,Hold,R4,R00000004 | VAN OORD - ZX870‚ÄêIjzeren Hein‚ÄêKSA | R4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000005,NMDC - Al Dafra,ac,Overhead projects,Stephan Eeckhout,Hold,R5,R00000005 | NMDC - Al Dafra | R5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000006,NMDC - Sir Bani Yas,ac,NMDC GROUP - P.J.S.C,Stephan Eeckhout,Hold,R6,R00000006 | NMDC - Sir Bani Yas | R6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000007,Al Sayad Transport LLC - Fujairah Harbour,ac,Al Sayad Transport & Contracting LLC,Stephan Eeckhout,Hold,R7,R00000007 | Al Sayad Transport LLC - Fujairah Harbour | R7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000008,Divers Marine Contracting - Um al Qasar,ac,Divers Marine Contracting LLC,Stephan Eeckhout,Hold,R8,R00000008 | Divers Marine Contracting - Um al Qasar | R8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000012,Van Oord - Ras Laffan pedestal & 870 on barge rental,ac,Aertssen Machinery Services WLL,Stephan Eeckhout,Hold,R12,R00000012 | Van Oord - Ras Laffan pedestal & 870 on barge rental | R12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
-PROJECTS,R00000015,Besix STVA - Poti ñ Georgia,ac,N.V. Besix SA Branch Georgia,Stephan Eeckhout,Hold,R15,R00000015 | Besix STVA - Poti ñ Georgia | R15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000015,Besix STVA - Poti ‚Äì Georgia,ac,N.V. Besix SA Branch Georgia,Stephan Eeckhout,Hold,R15,R00000015 | Besix STVA - Poti ‚Äì Georgia | R15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000020,NMDC - Hail & Ghasha,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R20,R00000020 | NMDC - Hail & Ghasha | R20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000021,PLC - Shamal Project,ac,PLC Contracting llc,Stephan Eeckhout,Hold,R21,R00000021 | PLC - Shamal Project | R21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000022,NMDC - Al Shamal Development,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R22,R00000022 | NMDC - Al Shamal Development | R22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
@@ -444,7 +444,7 @@ PROJECTS,R00000024,NMDC - SBY VVIP villla beach,ca,NMDC GROUP - P.J.S.C,Wietse S
 PROJECTS,R00000025,NMDC - GHANTOOT NAVAL BASE,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R25,R00000025 | NMDC - GHANTOOT NAVAL BASE | R25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000027,NMDC - Hudariyat,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R27,R00000027 | NMDC - Hudariyat | R27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000032,Van Oord - Jubail,ac,Van Oord Middle East Ltd,Stephan Eeckhout,Hold,R32,R00000032 | Van Oord - Jubail | R32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
-PROJECTS,R00000038,NMDC ñ Delma island raiser scope,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R38,R00000038 | NMDC ñ Delma island raiser scope | R38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000038,NMDC ‚Äì Delma island raiser scope,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R38,R00000038 | NMDC ‚Äì Delma island raiser scope | R38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000046,NMDC - Emirates Palace,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R46,R00000046 | NMDC - Emirates Palace | R46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000050,NMDC - Massnoua Island,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R50,R00000050 | NMDC - Massnoua Island | R50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000074,NMDC - Saudi Aramco KSA,ac,NMDC GROUP - P.J.S.C,Wietse Schaefer,In process,R74,R00000074 | NMDC - Saudi Aramco KSA | R74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
@@ -486,7 +486,7 @@ LOCATION,J00000161,NMDC - Hudariyat,J161,J00000161 | J161 | NMDC - Hudariyat,,,,
 LOCATION,J00000174,NSH - Borouge 4,J174,J00000174 | J174 | NSH - Borouge 4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000186,NPCC - Musaffah Yard 300Te,J186,J00000186 | J186 | NPCC - Musaffah Yard 300Te,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000191,NMDC - Al Yasat Isl. 280Te,J191,J00000191 | J191 | NMDC - Al Yasat Isl. 280Te,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
-LOCATION,R00000043,NMDC ñ NISI (Taweelah),R43,R00000043 | R43 | NMDC ñ NISI (Taweelah),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000043,NMDC ‚Äì NISI (Taweelah),R43,R00000043 | R43 | NMDC ‚Äì NISI (Taweelah),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000195,Penta Global - Zirku Island,J195,J00000195 | J195 | Penta Global - Zirku Island,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000197,NMDC - Taweelah Ramhan Project,J197,J00000197 | J197 | NMDC - Taweelah Ramhan Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000204,ST JV - Guggenheim Abu Dhabi,J204,J00000204 | J204 | ST JV - Guggenheim Abu Dhabi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
@@ -514,7 +514,7 @@ LOCATION,J00000259,Motor Way - Taziz,J259,J00000259 | J259 | Motor Way - Taziz,,
 LOCATION,R00000123,SAIPEM - Hail & Gasha,R123,R00000123 | R123 | SAIPEM - Hail & Gasha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000124,Target - Al Sahil Project,R124,R00000124 | R124 | Target - Al Sahil Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000128,DAEWOO - Immersed Tunnel Iraq,R128,R00000128 | R128 | DAEWOO - Immersed Tunnel Iraq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
-LOCATION,J00000268,NMDC LTS - LNG ñ Ruwais,J268,J00000268 | J268 | NMDC LTS - LNG ñ Ruwais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,J00000268,NMDC LTS - LNG ‚Äì Ruwais,J268,J00000268 | J268 | NMDC LTS - LNG ‚Äì Ruwais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000269,NSH - Harvest Ammonia Project,J269,J00000269 | J269 | NSH - Harvest Ammonia Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000135,Van Oord - Umm Suqeim,R135,R00000135 | R135 | Van Oord - Umm Suqeim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000136,NMDC - Hudariyat,R136,R00000136 | R136 | NMDC - Hudariyat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
@@ -593,7 +593,7 @@ LOCATION,J00000300,DSV - Habshan,J300,J00000300 | J300 | DSV - Habshan,,,,,,,,,,
 LOCATION,R00000036,Boskalis - Oxagon Port,R36,R00000036 | R36 | Boskalis - Oxagon Port,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000069,Sixco - MBL JV Oxagon Demolition,R69,R00000069 | R69 | Sixco - MBL JV Oxagon Demolition,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000078,MBL - Jeddah,R78,R00000078 | R78 | MBL - Jeddah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
-LOCATION,R00000091,WEBUILD ñ Trojena Dam Project,R91,R00000091 | R91 | WEBUILD ñ Trojena Dam Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,R00000091,WEBUILD ‚Äì Trojena Dam Project,R91,R00000091 | R91 | WEBUILD ‚Äì Trojena Dam Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000098,ALISHAR - Pipeline Project KSA,R98,R00000098 | R98 | ALISHAR - Pipeline Project KSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000121,SBGJV - Amaala Project,R121,R00000121 | R121 | SBGJV - Amaala Project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,R00000130,Saipem - LTA 138,R130,R00000130 | R130 | Saipem - LTA 138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
@@ -814,7 +814,7 @@ REQUESTER,Aby Joseph,Aertssen Machinery Services,aby.joseph@aertssen.be,AMS - Ab
 REQUESTER,Aamir Arfat,Aertssen Machinery Services,aamir.arfat@aertssen.be,AMS - Oman,Supervisor,AAAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Reinhardt Kirsten,Aertssen Machinery Services,reinhardt.kirsten@aertssen.be,,Expat Mechanic,REKI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Tony Sebastian,Aertssen Machinery Services,tony.sebastian@aertssen.be,AMS - Duba,Store Keeper,TOSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
-REQUESTER,Merwin Saldana,Aertssen Machinery Services,merwin.saldana@aertssen.be,AMS - Abu Dhabi,Operations Coordinator ñ Crewing,MESA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
+REQUESTER,Merwin Saldana,Aertssen Machinery Services,merwin.saldana@aertssen.be,AMS - Abu Dhabi,Operations Coordinator ‚Äì Crewing,MESA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Nour Kabour,Aertssen Machinery Services,nour.kabour@aertssen.be,AMS - Abu Dhabi,QHSE Officer - Intern,NOKA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Ivo Zerp,Aertssen Machinery Services,ivo.zerp@aertssen.be,AMS - Abu Dhabi,Expat Mechanic,IVZE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Nelson Vargas,Aertssen Machinery Services,nelson.vargas@aertssen.be,AMS - Abu Dhabi,Expat Mechanic,NEVA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
@@ -838,6 +838,8 @@ WAREHOUSE REP,Jerin Johnson,Aertssen Machinery Services,jerin.johnson@aertssen.b
 WAREHOUSE REP,Dennis Ort,Aertssen Machinery Services,dennis.ort@aertssen.be,AMS - Abu Dhabi,Warehouse Manager,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
 WAREHOUSE REP,Sheila Ararao,Aertssen Machinery Services,sheila.ararao@aertssen.be,AMS - Duba,Workshop / Procurement Officer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
 WAREHOUSE REP,Rahul Vishwakarma,Aertssen Machinery Services,rahul.vishwakarma@aertssen.be,AMS - Duba,Workshop Admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
+WAREHOUSE REP,Tony Sebastian,Aertssen Machinery Services,tony.sebastian@aertssen.be,AMS - Duba,Store Keeper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
+WAREHOUSE REP,Shinjo Joy,Aertssen Machinery Services,shinjo.joy@aertssen.be,AMS - Abu Dhabi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
 WAREHOUSE REP,Not applicable,,Not applicable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
 BUYER,DisplayName,CompanyName,EmailAddress,OfficeLocation,JobTitle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
 BUYER,Ashish Rana,Aertssen Machinery Services,ashish.rana@aertssen.be,AMS Abu Dhabi,Procurement Administrator,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
@@ -876,8 +878,8 @@ UNIT,km,kilometer,kilometer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet
 UNIT,l,liter,liter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,l 1.000,1.000 liter,1.000 liter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,m,meter,meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
-UNIT,m≤,square meter,square meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
-UNIT,m≥,cubic meter,cubic meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
+UNIT,m¬≤,square meter,square meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
+UNIT,m¬≥,cubic meter,cubic meter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,mth,month,month,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,night,night,night,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
 UNIT,pcs,Pieces,Pieces,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UNIT,Sheet,FALSE
@@ -938,7 +940,7 @@ ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",FAHSS W.L.L - ABU
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Delma Co-operative Society,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Astron Certification LLCs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",ADNOC Technical Academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
-ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",EdTech Training and Consultancy ñ Sole Proprietorship LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
+ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",EdTech Training and Consultancy ‚Äì Sole Proprietorship LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Supplier to declare -- Do not use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Supplier to declare -- Do not use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 DISTRIBUTION_LIST,Entity,Entity name,BU,BU Name,Procurement Email,Warehouse Email,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
@@ -962,44 +964,44 @@ ASSET_DATA,T01513,12T SINGLE DOLLY TRAILER,1/84930 AE | UAE1T0120A063899,AL JABE
 ASSET_DATA,T01615,24T PIPE DOLLY TRAILER,24T PIPE DOLLY TRAILER,TEAMSKILL,24T,Equipment,Installation,T01615,135 WS,1615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,T01616,24T PIPE DOLLY TRAILER,24T PIPE DOLLY TRAILER,TEAMSKILL,24T,Equipment,Installation,T01616,135 WS,1616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,T01617,24T PIPE DOLLY TRAILER,24T PIPE DOLLY TRAILER,TEAMSKILL,24T,Equipment,Installation,T01617,135 WS,1617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01258,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000003,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01258,135 WS,1258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01263,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000008,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01263,135 WS,1263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01264,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000009,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01264,135 WS,1264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01265,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000010,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01265,135 WS,1265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01266,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000011,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01266,135 WS,1266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01267,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000012,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01267,135 WS,1267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01270,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000015,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01270,135 WS,1270,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01271,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000016,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01271,135 WS,1271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01272,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000018,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01272,135 WS,1272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01273,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000013,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01273,135 WS,1273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01274,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000019,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01274,135 WS,1274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01275,30.0m≥ ATLAS TIPPER TRAILER,UAE3S0124A019712,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01275,135 WS,1275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01276,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000014,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01276,135 WS,1276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01277,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000011,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01277,135 WS,1277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01278,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000017,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01278,135 WS,1278,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01279,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000018,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01279,135 WS,1279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01280,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000020,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01280,135 WS,1280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01281,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000016,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01281,135 WS,1281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01282,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000012,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01282,135 WS,1282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01283,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000021,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01283,135 WS,1283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01284,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000022,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01284,135 WS,1284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01285,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000026,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01285,135 WS,1285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01286,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000025,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01286,135 WS,1286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01287,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000024,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01287,135 WS,1287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01288,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000023,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01288,135 WS,1288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01289,30.0m≥ ATLAS TIPPER TRAILER,UAE3S0124A019713,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01289,135 WS,1289,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01290,30.0m≥ ATLAS TIPPER TRAILER,UAE3S0124A019714,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01290,135 WS,1290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01291,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000029,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01291,135 WS,1291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01292,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000030,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01292,135 WS,1292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01293,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000031,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01293,135 WS,1293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01294,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000032,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01294,135 WS,1294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01295,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000033,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01295,135 WS,1295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01296,30.0m≥ ATLAS TIPPER TRAILER,UAE3S0124A019715,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01296,135 WS,1296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01297,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000035,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01297,135 WS,1297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01298,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461010000036,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01298,135 WS,1298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01299,30.0m≥ ATLAS TIPPER TRAILER,UAE3S0124A019716,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01299,135 WS,1299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01381,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000013,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01381,135 WS,1381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,T01382,30.0m≥ ATLAS TIPPER TRAILER,ZTBG0461030000014,ATLAS,30.0m≥  TIPPER,Transport mode,Transport mode,T01382,135 WS,1382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01258,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000003,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01258,135 WS,1258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01263,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000008,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01263,135 WS,1263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01264,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000009,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01264,135 WS,1264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01265,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000010,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01265,135 WS,1265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01266,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000011,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01266,135 WS,1266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01267,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000012,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01267,135 WS,1267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01270,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000015,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01270,135 WS,1270,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01271,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000016,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01271,135 WS,1271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01272,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000018,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01272,135 WS,1272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01273,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000013,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01273,135 WS,1273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01274,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000019,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01274,135 WS,1274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01275,30.0m¬≥ ATLAS TIPPER TRAILER,UAE3S0124A019712,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01275,135 WS,1275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01276,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000014,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01276,135 WS,1276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01277,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000011,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01277,135 WS,1277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01278,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000017,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01278,135 WS,1278,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01279,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000018,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01279,135 WS,1279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01280,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000020,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01280,135 WS,1280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01281,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000016,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01281,135 WS,1281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01282,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000012,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01282,135 WS,1282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01283,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000021,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01283,135 WS,1283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01284,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000022,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01284,135 WS,1284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01285,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000026,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01285,135 WS,1285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01286,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000025,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01286,135 WS,1286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01287,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000024,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01287,135 WS,1287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01288,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000023,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01288,135 WS,1288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01289,30.0m¬≥ ATLAS TIPPER TRAILER,UAE3S0124A019713,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01289,135 WS,1289,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01290,30.0m¬≥ ATLAS TIPPER TRAILER,UAE3S0124A019714,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01290,135 WS,1290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01291,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000029,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01291,135 WS,1291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01292,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000030,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01292,135 WS,1292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01293,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000031,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01293,135 WS,1293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01294,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000032,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01294,135 WS,1294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01295,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000033,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01295,135 WS,1295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01296,30.0m¬≥ ATLAS TIPPER TRAILER,UAE3S0124A019715,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01296,135 WS,1296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01297,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000035,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01297,135 WS,1297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01298,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461010000036,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01298,135 WS,1298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01299,30.0m¬≥ ATLAS TIPPER TRAILER,UAE3S0124A019716,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01299,135 WS,1299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01381,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000013,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01381,135 WS,1381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,T01382,30.0m¬≥ ATLAS TIPPER TRAILER,ZTBG0461030000014,ATLAS,30.0m¬≥  TIPPER,Transport mode,Transport mode,T01382,135 WS,1382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS-FBD-001,30T FLATBED TRAILER,LJRP14370R2014213,JUFFALI,FLATBED,Transport mode,Transport mode,AMS-FDB-001,135 WS,AMS FBD 001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,10/3-315,3m BOOM 100T/3 CRANE,3m BOOM 100T/3 (YLT44005),HITACHI SUMITOMO,.,Equipment,Installation,10/3-315,210 WS,10 3 315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,10/3-316,3m BOOM 100T/3 CRANE,3m BOOM 100T/3 (YLT44006),HITACHI SUMITOMO,.,Equipment,Installation,10/3-316,210 WS,10 3 316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -1065,99 +1067,99 @@ ASSET_DATA,12-MB-003,BOOM MASS 7.55m HITACHI EX1200,MASS BOOM (BE) EX1200 EXCAVA
 ASSET_DATA,67-RB-002,BOOM REACH 7.80m HITACHI ZX670 (M126),,HITACHI,ZX670-5G,Equipment,Installation,67-RB-002,135 WS,67 RB 002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,87-RB-006,BOOM REACH 8.40m HITACHI ZX870,130707FL,,,Equipment,Installation,87-RB-006,135 WS,87 RB 006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,10/3-B10,BOTTOM BOOM 100T/3 CRANE,BOTTOM BOOM 100T/3 (YLT44003),HITACHI SUMITOMO,.,Equipment,Installation,10/3-B10,210 WS,10 3 B10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-287,BUCKET EXCAVATOR 0.92m≥ VOLVO EC210,0.92m≥ BUCKET VOLVO EC210DL,VOLVO,EC210DL,Equipment,Installation,AB-287,135 WS,AB 287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-288,BUCKET EXCAVATOR 0.92m≥ VOLVO EC210,0.92m≥ BUCKET VOLVO EC210DL,VOLVO,EC210DL,Equipment,Installation,AB-288,135 WS,AB 288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-305,BUCKET EXCAVATOR 2.25m? ROCK HITACHI ZX470,CTE 33402,HITACHI,ZX470-5G,Equipment,Installation,AB-305,135 WS,AB 305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-306,BUCKET EXCAVATOR 2.25m? ROCK HITACHI ZX470,CTE 33403,HITACHI,ZX470-5G,Equipment,Installation,AB-306,135 WS,AB 306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-307,BUCKET EXCAVATOR 2.25m? ROCK HITACHI ZX470,CTE 33404,HITACHI,ZX470-5G,Equipment,Installation,AB-307,135 WS,AB 307,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-308,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,CTE 33405,HITACHI,ZX470-5G,Equipment,Installation,AB-308,135 WS,AB 308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-314,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-314,135 WS,AB 314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-315,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-315,135 WS,AB 315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-316,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-316,135 WS,AB 316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-335,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (001),HITACHI,ZX470-5G,Equipment,Installation,AB-335,135 WS,AB 335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-287,BUCKET EXCAVATOR 0.92m¬≥ VOLVO EC210,0.92m¬≥ BUCKET VOLVO EC210DL,VOLVO,EC210DL,Equipment,Installation,AB-287,135 WS,AB 287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-288,BUCKET EXCAVATOR 0.92m¬≥ VOLVO EC210,0.92m¬≥ BUCKET VOLVO EC210DL,VOLVO,EC210DL,Equipment,Installation,AB-288,135 WS,AB 288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-305,BUCKET EXCAVATOR 2.25m·∂ü ROCK HITACHI ZX470,CTE 33402,HITACHI,ZX470-5G,Equipment,Installation,AB-305,135 WS,AB 305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-306,BUCKET EXCAVATOR 2.25m·∂ü ROCK HITACHI ZX470,CTE 33403,HITACHI,ZX470-5G,Equipment,Installation,AB-306,135 WS,AB 306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-307,BUCKET EXCAVATOR 2.25m·∂ü ROCK HITACHI ZX470,CTE 33404,HITACHI,ZX470-5G,Equipment,Installation,AB-307,135 WS,AB 307,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-308,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,CTE 33405,HITACHI,ZX470-5G,Equipment,Installation,AB-308,135 WS,AB 308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-314,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-314,135 WS,AB 314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-315,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-315,135 WS,AB 315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-316,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-316,135 WS,AB 316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-335,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (001),HITACHI,ZX470-5G,Equipment,Installation,AB-335,135 WS,AB 335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-122,BUCKET EXCAVATOR CATERPILLAR 349 (K383),150584,CATERPILLAR,349D,Equipment,Installation,AB-122,135 WS,AB 122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-289,BUCKET EXCAVATOR CATERPILLAR 374,,CATERPILLAR,374DL,Equipment,Installation,AB-289,135 WS,AB 289,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-271,BUCKET EXCAVATOR CLOSED PIPE CW55,CW55 CLOSED PIPE BUCKET (MODIFIED),,,Equipment,Installation,AB-271,135 WS,AB 271,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-132,BUCKET EXCAVATOR CLOSED PIPE HITACHI ZX470,SKELETON PIPE BUCKET MODIFIED TO PIPE CLOSED BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-132,135 WS,AB 132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-069,BUCKET EXCAVATOR CLOSED PIPE HITACHI ZX470,CLOSED PIPE BUCKET HITACHI ZX470 222051898,HITACHI,ZX470-5G,Equipment,Installation,AB-069,135 WS,AB 069,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-095,BUCKET EXCAVATOR CLOSED PIPE HITACHI ZX470 (K190),CAT 340 SKELETON BUCKET MODIFIED TO CLOSED ZX470 LINKAGE (VER005047),HITACHI,ZX470-5G,Equipment,Installation,AB-095,135 WS,AB 095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-215,BUCKET EXCAVATOR DITCH CLEANING 0.52m? CW40 HITACHI ZX220,0.52m? DITCH CLEANING BUCKET ZX220,HITACHI,ZX220LC,Equipment,Installation,AB-215,135 WS,AB 215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-187,BUCKET EXCAVATOR HD 2.25m? HITACHI ZX350,2.25m? HD BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-187,135 WS,AB 187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-188,BUCKET EXCAVATOR HD 2.25m? HITACHI ZX350,2.25m? HD BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-188,135 WS,AB 188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-152,BUCKET EXCAVATOR HD 2.25m? HITACHI ZX470,2.25m? HD BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-152,135 WS,AB 152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-259,BUCKET EXCAVATOR HD 2.25m? HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-259,135 WS,AB 259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-260,BUCKET EXCAVATOR HD 2.25m? HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-260,135 WS,AB 260,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-280,BUCKET EXCAVATOR HD 5.60m≥ VOLVO EC950E,24260001,VOLVO,EC950E,Equipment,Installation,AB-280,135 WS,AB 280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-004,BUCKET EXCAVATOR HD FLAT BOTTOM 2.25m? HITACHI ZX470 (K608),SAND BUCKET (K608) MODIFIED TO FLAT BOTTOM BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-004,135 WS,AB 004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-215,BUCKET EXCAVATOR DITCH CLEANING 0.52m·∂ü CW40 HITACHI ZX220,0.52m·∂ü DITCH CLEANING BUCKET ZX220,HITACHI,ZX220LC,Equipment,Installation,AB-215,135 WS,AB 215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-187,BUCKET EXCAVATOR HD 2.25m·∂ü HITACHI ZX350,2.25m·∂ü HD BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-187,135 WS,AB 187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-188,BUCKET EXCAVATOR HD 2.25m·∂ü HITACHI ZX350,2.25m·∂ü HD BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-188,135 WS,AB 188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-152,BUCKET EXCAVATOR HD 2.25m·∂ü HITACHI ZX470,2.25m·∂ü HD BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-152,135 WS,AB 152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-259,BUCKET EXCAVATOR HD 2.25m·∂ü HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-259,135 WS,AB 259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-260,BUCKET EXCAVATOR HD 2.25m·∂ü HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-260,135 WS,AB 260,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-280,BUCKET EXCAVATOR HD 5.60m¬≥ VOLVO EC950E,24260001,VOLVO,EC950E,Equipment,Installation,AB-280,135 WS,AB 280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-004,BUCKET EXCAVATOR HD FLAT BOTTOM 2.25m·∂ü HITACHI ZX470 (K608),SAND BUCKET (K608) MODIFIED TO FLAT BOTTOM BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-004,135 WS,AB 004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-274,BUCKET EXCAVATOR HITACHI ZX220,ZX220 BUCKET,HITACHI,ZX220LC,Equipment,Installation,AB-274,135 WS,AB 274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-006,BUCKET EXCAVATOR HITACHI ZX870,MASS EXCAVATION BUCKET,HITACHI,ZX870-5G,Equipment,Installation,AB-006,135 WS,AB 006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-334,BUCKET EXCAVATOR HITACHI ZX870 (A916),STANDARD MASS ZX870 A-916,HITACHI,ZX870-5G,Equipment,Installation,AB-334,135 WS,AB 334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-155,BUCKET EXCAVATOR PIPE 2.25m? HITACHI ZX470,2.25m? BOTTOM CLOSED PIPE BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-155,135 WS,AB 155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-155,BUCKET EXCAVATOR PIPE 2.25m·∂ü HITACHI ZX470,2.25m·∂ü BOTTOM CLOSED PIPE BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-155,135 WS,AB 155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-028,BUCKET EXCAVATOR RIPPER,RIPPER BUCKET,,,Equipment,Installation,AB-028,135 WS,AB 028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-038,BUCKET EXCAVATOR ROCK,ROCK BUCKET,,,Equipment,Installation,AB-038,135 WS,AB 038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-017,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-017,135 WS,AB 017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-013,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-013,135 WS,AB 013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-065,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-065,135 WS,AB 065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-066,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-066,135 WS,AB 066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-085,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-085,135 WS,AB 085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-070,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-070,135 WS,AB 070,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-060,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-060,135 WS,AB 060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-068,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-068,135 WS,AB 068,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-114,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470 (K449),02348,HITACHI,ZX470-5G,Equipment,Installation,AB-114,135 WS,AB 114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-025,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX870,ROCK BUCKET,HITACHI,ZX870-5G | ZX890-5 ,Equipment,Installation,AB-025,135 WS,AB 025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-061,BUCKET EXCAVATOR ROCK 1.90m≥ HITACHI ZX870,ROCK BUCKET ZX870,HITACHI,ZX870-5G,Equipment,Installation,AB-061,135 WS,AB 061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-294,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-294,135 WS,AB 294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-296,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-296,135 WS,AB 296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-299,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-299,135 WS,AB 299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-300,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-300,135 WS,AB 300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-301,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-301,135 WS,AB 301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-302,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-302,135 WS,AB 302,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-303,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-303,135 WS,AB 303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-319,BUCKET EXCAVATOR ROCK 2.90m≥ HITACHI ZX690,0017,HITACHI,ZX690-5A,Equipment,Installation,AB-319,135 WS,AB 319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-150,BUCKET EXCAVATOR ROCK 3.00m? HITACHI ZX470,3m? LD ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-150,135 WS,AB 150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-243,BUCKET EXCAVATOR ROCK 3.20m≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-243,135 WS,AB 243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-245,BUCKET EXCAVATOR ROCK 3.20m≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-245,135 WS,AB 245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-010,BUCKET EXCAVATOR ROCK 4.00m≥ HITACHI ZX870 (K450),02080,HITACHI,ZX870-5G,Equipment,Installation,AB-010,135 WS,AB 010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-250,BUCKET EXCAVATOR ROCK 5.50m≥ HITACHI ZX870,NB22403043-001,HITACHI,ZX870-5G,Equipment,Installation,AB-250,135 WS,AB 250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-251,BUCKET EXCAVATOR ROCK 5.50m≥ HITACHI ZX870,NB22403043-002,HITACHI,ZX870-5G,Equipment,Installation,AB-251,135 WS,AB 251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-252,BUCKET EXCAVATOR ROCK 5.50m≥ HITACHI ZX870,NB22403043-003,HITACHI,ZX870-5G,Equipment,Installation,AB-252,135 WS,AB 252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-231,BUCKET EXCAVATOR ROCK 6.50m≥ HITACHI EX1200,6.5m≥ ROCK BUCKET EX1200,HITACHI,EX1200-7,Equipment,Installation,AB-231,135 WS,AB 231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-017,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-017,135 WS,AB 017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-013,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-013,135 WS,AB 013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-065,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-065,135 WS,AB 065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-066,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-066,135 WS,AB 066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-085,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-085,135 WS,AB 085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-070,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-070,135 WS,AB 070,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-060,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-060,135 WS,AB 060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-068,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-068,135 WS,AB 068,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-114,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470 (K449),02348,HITACHI,ZX470-5G,Equipment,Installation,AB-114,135 WS,AB 114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-025,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX870,ROCK BUCKET,HITACHI,ZX870-5G | ZX890-5 ,Equipment,Installation,AB-025,135 WS,AB 025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-061,BUCKET EXCAVATOR ROCK 1.90m¬≥ HITACHI ZX870,ROCK BUCKET ZX870,HITACHI,ZX870-5G,Equipment,Installation,AB-061,135 WS,AB 061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-294,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-294,135 WS,AB 294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-296,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-296,135 WS,AB 296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-299,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-299,135 WS,AB 299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-300,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-300,135 WS,AB 300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-301,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-301,135 WS,AB 301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-302,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-302,135 WS,AB 302,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-303,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-303,135 WS,AB 303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-319,BUCKET EXCAVATOR ROCK 2.90m¬≥ HITACHI ZX690,0017,HITACHI,ZX690-5A,Equipment,Installation,AB-319,135 WS,AB 319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-150,BUCKET EXCAVATOR ROCK 3.00m·∂ü HITACHI ZX470,3m·∂ü LD ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-150,135 WS,AB 150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-243,BUCKET EXCAVATOR ROCK 3.20m¬≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-243,135 WS,AB 243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-245,BUCKET EXCAVATOR ROCK 3.20m¬≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-245,135 WS,AB 245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-010,BUCKET EXCAVATOR ROCK 4.00m¬≥ HITACHI ZX870 (K450),02080,HITACHI,ZX870-5G,Equipment,Installation,AB-010,135 WS,AB 010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-250,BUCKET EXCAVATOR ROCK 5.50m¬≥ HITACHI ZX870,NB22403043-001,HITACHI,ZX870-5G,Equipment,Installation,AB-250,135 WS,AB 250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-251,BUCKET EXCAVATOR ROCK 5.50m¬≥ HITACHI ZX870,NB22403043-002,HITACHI,ZX870-5G,Equipment,Installation,AB-251,135 WS,AB 251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-252,BUCKET EXCAVATOR ROCK 5.50m¬≥ HITACHI ZX870,NB22403043-003,HITACHI,ZX870-5G,Equipment,Installation,AB-252,135 WS,AB 252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-231,BUCKET EXCAVATOR ROCK 6.50m¬≥ HITACHI EX1200,6.5m¬≥ ROCK BUCKET EX1200,HITACHI,EX1200-7,Equipment,Installation,AB-231,135 WS,AB 231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-089,BUCKET EXCAVATOR ROCK CATERPILLAR 340,ROCK BUCKET,CATERPILLAR,340D,Equipment,Installation,AB-089,135 WS,AB 089,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-051,BUCKET EXCAVATOR ROCK ZX350,CATERPILLAR 340 ROCK BUCKET MODIFIED TO ZX350 LINKAGE,CATERPILLAR,340D,Equipment,Installation,AB-051,135 WS,AB 051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-055,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-055,135 WS,AB 055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-059,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-059,135 WS,AB 059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-042,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-042,135 WS,AB 042,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-012,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-012,135 WS,AB 012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-018,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-018,135 WS,AB 018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-022,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-022,135 WS,AB 022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-023,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-023,135 WS,AB 023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-024,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-024,135 WS,AB 024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-002,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-002,135 WS,AB 002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-117,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-117,135 WS,AB 117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-112,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-112,135 WS,AB 112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-142,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-142,135 WS,AB 142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-127,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET ZX470 LINKAGE,HITACHI,ZX470-5G,Equipment,Installation,AB-127,135 WS,AB 127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-129,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET ZX470 LINKAGE,HITACHI,ZX470-5G,Equipment,Installation,AB-129,135 WS,AB 129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-036,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470 (K289),medco003,HITACHI,ZX470-5G,Equipment,Installation,AB-036,135 WS,AB 036,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-058,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470 (K302),1943,HITACHI,ZX470-5G,Equipment,Installation,AB-058,135 WS,AB 058,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-094,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470 (K471),150582,HITACHI,ZX470-5G,Equipment,Installation,AB-094,135 WS,AB 094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-041,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470 (K496),CTE 20150,HITACHI,ZX470-5G,Equipment,Installation,AB-041,135 WS,AB 041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-057,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470 (K501),190M045,HITACHI,ZX470-5G,Equipment,Installation,AB-057,135 WS,AB 057,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-005,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470 (K519),19OM043,HITACHI,ZX470-5G,Equipment,Installation,AB-005,135 WS,AB 005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-096,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470 (K521),19OM534,HITACHI,ZX470-5G,Equipment,Installation,AB-096,135 WS,AB 096,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-195,BUCKET EXCAVATOR SAND 2.78m? HITACHI ZX350,2.78m? SAND BUCKET CAT350 MODIFIED TO ZX350 LINKAGE,CATERPILLAR,350,Equipment,Installation,AB-195,135 WS,AB 195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-199,BUCKET EXCAVATOR SAND 2.78m≥ CATERPILLAR 350,611-1268 | XC773811,CATERPILLAR,350,Equipment,Installation,AB-199,135 WS,AB 199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-140,BUCKET EXCAVATOR SAND 2.78m≥ HITACHI ZX350,SAND BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-140,135 WS,AB 140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-139,BUCKET EXCAVATOR SAND 2.78m≥ HITACHI ZX470,MODIFIED FROM 350 TO 470 SAND BUCKET,HITACHI,ZX350-5,Equipment,Installation,AB-139,135 WS,AB 139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-179,BUCKET EXCAVATOR SAND 2.78m≥ HITACHI ZX470,SAND BUCKET ZX350 MODIFIED TO ZX470 LINKAGE,HITACHI,ZX350-5,Equipment,Installation,AB-179,135 WS,AB 179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-090,BUCKET EXCAVATOR SAND 3.50m≥ HITACHI ZX870 (K028),SAND BUCKET (K028),HITACHI,ZX870-5G,Equipment,Installation,AB-090,135 WS,AB 090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-084,BUCKET EXCAVATOR SAND 7.00m≥ CATERPILLAR 390 (K016),N∞ 006744,,,Equipment,Installation,AB-084,135 WS,AB 084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-055,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-055,135 WS,AB 055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-059,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-059,135 WS,AB 059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-042,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-042,135 WS,AB 042,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-012,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-012,135 WS,AB 012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-018,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-018,135 WS,AB 018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-022,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-022,135 WS,AB 022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-023,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-023,135 WS,AB 023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-024,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-024,135 WS,AB 024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-002,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-002,135 WS,AB 002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-117,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-117,135 WS,AB 117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-112,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-112,135 WS,AB 112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-142,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-142,135 WS,AB 142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-127,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET ZX470 LINKAGE,HITACHI,ZX470-5G,Equipment,Installation,AB-127,135 WS,AB 127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-129,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET ZX470 LINKAGE,HITACHI,ZX470-5G,Equipment,Installation,AB-129,135 WS,AB 129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-036,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470 (K289),medco003,HITACHI,ZX470-5G,Equipment,Installation,AB-036,135 WS,AB 036,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-058,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470 (K302),1943,HITACHI,ZX470-5G,Equipment,Installation,AB-058,135 WS,AB 058,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-094,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470 (K471),150582,HITACHI,ZX470-5G,Equipment,Installation,AB-094,135 WS,AB 094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-041,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470 (K496),CTE 20150,HITACHI,ZX470-5G,Equipment,Installation,AB-041,135 WS,AB 041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-057,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470 (K501),190M045,HITACHI,ZX470-5G,Equipment,Installation,AB-057,135 WS,AB 057,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-005,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470 (K519),19OM043,HITACHI,ZX470-5G,Equipment,Installation,AB-005,135 WS,AB 005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-096,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470 (K521),19OM534,HITACHI,ZX470-5G,Equipment,Installation,AB-096,135 WS,AB 096,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-195,BUCKET EXCAVATOR SAND 2.78m·∂ü HITACHI ZX350,2.78m·∂ü SAND BUCKET CAT350 MODIFIED TO ZX350 LINKAGE,CATERPILLAR,350,Equipment,Installation,AB-195,135 WS,AB 195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-199,BUCKET EXCAVATOR SAND 2.78m¬≥ CATERPILLAR 350,611-1268 | XC773811,CATERPILLAR,350,Equipment,Installation,AB-199,135 WS,AB 199,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-140,BUCKET EXCAVATOR SAND 2.78m¬≥ HITACHI ZX350,SAND BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-140,135 WS,AB 140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-139,BUCKET EXCAVATOR SAND 2.78m¬≥ HITACHI ZX470,MODIFIED FROM 350 TO 470 SAND BUCKET,HITACHI,ZX350-5,Equipment,Installation,AB-139,135 WS,AB 139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-179,BUCKET EXCAVATOR SAND 2.78m¬≥ HITACHI ZX470,SAND BUCKET ZX350 MODIFIED TO ZX470 LINKAGE,HITACHI,ZX350-5,Equipment,Installation,AB-179,135 WS,AB 179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-090,BUCKET EXCAVATOR SAND 3.50m¬≥ HITACHI ZX870 (K028),SAND BUCKET (K028),HITACHI,ZX870-5G,Equipment,Installation,AB-090,135 WS,AB 090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-084,BUCKET EXCAVATOR SAND 7.00m¬≥ CATERPILLAR 390 (K016),N¬∞ 006744,,,Equipment,Installation,AB-084,135 WS,AB 084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-125,BUCKET EXCAVATOR SAND CATERPILLAR 349 (K004),SAND BUCKET CAT349D (K4),CATERPILLAR,349D,Equipment,Installation,AB-125,135 WS,AB 125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-191,BUCKET EXCAVATOR SAND CATERPILLAR 390 (K398),MODIFIED TO 870 MASSCAVATION,CATERPILLAR,390F,Equipment,Installation,AB-191,135 WS,AB 191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-159,BUCKET EXCAVATOR SAND CATERPILLAR CW55,CW55 SAND BUCKET,CATERPILLAR,CW55,Equipment,Installation,AB-159,135 WS,AB 159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-037,BUCKET EXCAVATOR SAND HITACHI EX1200,SAND BUCKET,,,Equipment,Installation,AB-037,135 WS,AB 037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-194,BUCKET EXCAVATOR SKELETON 2.56m≥ ZX350,2.56m≥ RIDDLE BUCKET ZX350 LINKAGE (PIPE BUCKET-SIDE CLOSED),HITACHI,ZX350-5,Equipment,Installation,AB-194,135 WS,AB 194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-261,BUCKET EXCAVATOR SKELETON 2.80m≥ CATERPILLAR 350,,CATERPILLAR,350,Equipment,Installation,AB-261,135 WS,AB 261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-194,BUCKET EXCAVATOR SKELETON 2.56m¬≥ ZX350,2.56m¬≥ RIDDLE BUCKET ZX350 LINKAGE (PIPE BUCKET-SIDE CLOSED),HITACHI,ZX350-5,Equipment,Installation,AB-194,135 WS,AB 194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-261,BUCKET EXCAVATOR SKELETON 2.80m¬≥ CATERPILLAR 350,,CATERPILLAR,350,Equipment,Installation,AB-261,135 WS,AB 261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-029,BUCKET EXCAVATOR SKELETON CATERPILLAR 336,SKELETON BUCKET,CATERPILLAR,336D,Equipment,Installation,AB-029,135 WS,AB 029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-045,BUCKET EXCAVATOR SKELETON CATERPILLAR 340 (K198),11286,CATERPILLAR,340D,Equipment,Installation,AB-045,135 WS,AB 045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-044,BUCKET EXCAVATOR SKELETON CATERPILLAR 349 (K178),SKELETON BUCKET CW55 (K178),CATERPILLAR,349D,Equipment,Installation,AB-044,135 WS,AB 044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -1170,10 +1172,10 @@ ASSET_DATA,AB-103,BUCKET EXCAVATOR SKELETON PIPE HITACHI ZX470,SKELETON PIPE BUC
 ASSET_DATA,AB-092,BUCKET EXCAVATOR SKELETON PIPE HITACHI ZX470,SKELETON PIPE BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-092,135 WS,AB 092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-146,BUCKET EXCAVATOR SKELETON ZX470,ZX470 SKELETON BUCKET,HITACHI,ZX470-5G | ZX870-5G ,Equipment,Installation,AB-146,135 WS,AB 146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-074,BUCKET EXCAVATOR SKELETON ZX470 (K456),013376 (CAT 345 BUCKET - ZX470 LINKAGE),CATERPILLAR,349D,Equipment,Installation,AB-074,135 WS,AB 074,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-121,BUCKET EXCAVATOR STANDARD 2.25m? HITACHI ZX470,220090588 01,HITACHI,ZX470-5G,Equipment,Installation,AB-121,135 WS,AB 121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-160,BUCKET EXCAVATOR STANDARD 2.25m? HITACHI ZX470,2.25m≥ BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-160,135 WS,AB 160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-162,BUCKET EXCAVATOR STANDARD 2.25m? HITACHI ZX470,2.25m≥ BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-162,135 WS,AB 162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-275,BUCKET EXCAVATOR STANDARD 2.25m? HITACHI ZX470,2.25m≥ BUCKET HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-275,135 WS,AB 275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-121,BUCKET EXCAVATOR STANDARD 2.25m·∂ü HITACHI ZX470,220090588 01,HITACHI,ZX470-5G,Equipment,Installation,AB-121,135 WS,AB 121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-160,BUCKET EXCAVATOR STANDARD 2.25m·∂ü HITACHI ZX470,2.25m¬≥ BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-160,135 WS,AB 160,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-162,BUCKET EXCAVATOR STANDARD 2.25m·∂ü HITACHI ZX470,2.25m¬≥ BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-162,135 WS,AB 162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-275,BUCKET EXCAVATOR STANDARD 2.25m·∂ü HITACHI ZX470,2.25m¬≥ BUCKET HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-275,135 WS,AB 275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-211,BUCKET EXCAVATOR TRENCH CATERPILLAR 349,TRENCH BUCKET CW55S QC CAT349,CATERPILLAR,349D,Equipment,Installation,AB-211,135 WS,AB 211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-353,BUCKET EXCAVATOR TRIMMING 2.00m FABRICATED,ZX470 TRIMMING BUCKET,,,Equipment,Installation,AB-353,135 WS,AB 353,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-354,BUCKET EXCAVATOR TRIMMING 2.00m FABRICATED,ZX470 TRIMMING BUCKET,,,Equipment,Installation,AB-354,135 WS,AB 354,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -1188,31 +1190,31 @@ ASSET_DATA,AB-082,BUCKET ROCK HITACHI ZX870 (K588),ROCK BUCKET (K588),,,Equipmen
 ASSET_DATA,AB-083,BUCKET SKELETON PIPE HITACHI ZX870 (K374),,,,Equipment,Installation,AB-083,135 WS,AB 083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-072,BUCKET SKELETON PIPE QC CATERPILLAR 349D (K177),SKELETON HITACHI ZX470  (K177) 01718,CATERPILLAR,349D,Equipment,Installation,AB-072,135 WS,AB 072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-269,BUCKET SKELETON PIPE QC CATERPILLAR 349D (K475),012788,CATERPILLAR,349D,Equipment,Installation,AB-269,135 WS,AB 269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-272,BUCKET STANDARD 2.70m≥ QC CATERPILLAR 349D (K472),QUICK CONNECTOR BUCKET CW55,,,Equipment,Installation,AB-272,135 WS,AB 272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-272,BUCKET STANDARD 2.70m¬≥ QC CATERPILLAR 349D (K472),QUICK CONNECTOR BUCKET CW55,,,Equipment,Installation,AB-272,135 WS,AB 272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-213,BUCKET STANDARD CATERPILLAR 349D (K161),13358702,CATERPILLAR,349D,Equipment,Installation,AB-213,135 WS,AB 213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-219,BUCKET STANDARD CATERPILLAR 395 (K160),MODIFIED TO CAT 395 LINKAGE 13358701,CATERPILLAR,395,Equipment,Installation,AB-219,135 WS,AB 219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-050,BUCKET STANDARD CATERPILLAR 966H (K004),FGB08691,CATERPILLAR,966H,Equipment,Installation,AB-050,135 WS,AB 050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-088,BUCKET STANDARD QC CATERPILLAR 349D (K505),MCN24008,CATERPILLAR,349D,Equipment,Installation,AB-088,135 WS,AB 088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-185,BUCKET TELEHANDLER CATERPILLAR TH414C,AU00604,CATERPILLAR,TH414C,Equipment,Installation,AB-185,135 WS,AB 185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-157,BUCKET TELEHANDLER CATERPILLAR TH414C (K183),TELEHANDLER BUCKET (K183),CATERPILLAR,TH414C,Equipment,Installation,AB-157,135 WS,AB 157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-326,BUCKET TRIMMING 1.40m≥ HITACHI ZX350,,HITACHI,ZX350-5,Equipment,Installation,AB-326,135 WS,AB 326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-327,BUCKET TRIMMING 1.40m≥ HITACHI ZX350,,HITACHI,ZX350-5,Equipment,Installation,AB-327,135 WS,AB 327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-326,BUCKET TRIMMING 1.40m¬≥ HITACHI ZX350,,HITACHI,ZX350-5,Equipment,Installation,AB-326,135 WS,AB 326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-327,BUCKET TRIMMING 1.40m¬≥ HITACHI ZX350,,HITACHI,ZX350-5,Equipment,Installation,AB-327,135 WS,AB 327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-325,BUCKET TRIMMING 2m HITACHI ZX470 (K080),,HITACHI,ZX470-5G,Equipment,Installation,AB-325,135 WS,AB 325,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-336,BUCKET WHEEL LOADER 4.50m≥ ROCK HITACHI ZW310,005,HITACHI,ZW310-5A,Equipment,Installation,AB-336,135 WS,AB 336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-337,BUCKET WHEEL LOADER 4.50m≥ ROCK HITACHI ZW310,006,HITACHI,ZW310-5A,Equipment,Installation,AB-337,135 WS,AB 337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-292,BUCKET WHEEL LOADER 5.00m≥ VOLVO L220H,3055616,VOLVO,L220H,Equipment,Installation,AB-292,135 WS,AB 292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-293,BUCKET WHEEL LOADER 5.00m≥ VOLVO L220H,3056128,VOLVO,L220H,Equipment,Installation,AB-293,135 WS,AB 293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-247,BUCKET WHEEL LOADER 5.00m≥ VOLVO L220H,3053171,VOLVO,L220H,Equipment,Installation,AB-247,135 WS,AB 247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-322,BUCKET WHEEL LOADER 5.0m≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-322,135 WS,AB 322,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-320,BUCKET WHEEL LOADER 6.40m≥ VOLVO L350H,021 | QUICK CONNECTOR BUCKET (MODIFIED),VOLVO,L350H,Equipment,Installation,AB-320,135 WS,AB 320,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-268,BUCKET WHEEL LOADER 6.90m≥ VOLVO L350H,,VOLVO,L350H,Equipment,Installation,AB-268,135 WS,AB 268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-336,BUCKET WHEEL LOADER 4.50m¬≥ ROCK HITACHI ZW310,005,HITACHI,ZW310-5A,Equipment,Installation,AB-336,135 WS,AB 336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-337,BUCKET WHEEL LOADER 4.50m¬≥ ROCK HITACHI ZW310,006,HITACHI,ZW310-5A,Equipment,Installation,AB-337,135 WS,AB 337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-292,BUCKET WHEEL LOADER 5.00m¬≥ VOLVO L220H,3055616,VOLVO,L220H,Equipment,Installation,AB-292,135 WS,AB 292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-293,BUCKET WHEEL LOADER 5.00m¬≥ VOLVO L220H,3056128,VOLVO,L220H,Equipment,Installation,AB-293,135 WS,AB 293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-247,BUCKET WHEEL LOADER 5.00m¬≥ VOLVO L220H,3053171,VOLVO,L220H,Equipment,Installation,AB-247,135 WS,AB 247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-322,BUCKET WHEEL LOADER 5.0m¬≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-322,135 WS,AB 322,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-320,BUCKET WHEEL LOADER 6.40m¬≥ VOLVO L350H,021 | QUICK CONNECTOR BUCKET (MODIFIED),VOLVO,L350H,Equipment,Installation,AB-320,135 WS,AB 320,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-268,BUCKET WHEEL LOADER 6.90m¬≥ VOLVO L350H,,VOLVO,L350H,Equipment,Installation,AB-268,135 WS,AB 268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-145,BUCKET WHEEL LOADER CATERPILLAR 980,X1E18611,CATERPILLAR,980,Equipment,Installation,AB-145,135 WS,AB 145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-115,BUCKET WHEEL LOADER CATERPILLAR 980 (K214),012395,CATERPILLAR,980,Equipment,Installation,AB-115,135 WS,AB 115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-183,BUCKET WHEEL LOADER CATERPILLAR 980 (K491),QUICK CONNECTOR WHEEL LOADER BUCKET (K491),CATERPILLAR,980,Equipment,Installation,AB-183,135 WS,AB 183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-109,BUCKET WHEEL LOADER CATERPILLAR 980 (K511),Quick connect rock bucket 016334,CATERPILLAR,980,Equipment,Installation,AB-109,135 WS,AB 109,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-118,BUCKET WHEEL LOADER CATERPILLAR 980 QC (K462),X1E08622,CATERPILLAR,980,Equipment,Installation,AB-118,135 WS,AB 118,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-290,BUCKET WHEEL LOADER HD 4.50m≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-290,135 WS,AB 290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-291,BUCKET WHEEL LOADER HD 4.50m≥ HITACHI ZW310,MODIFIED TO QUICK CONNECTOR BUCKET WHEEL LOADER HD 4.50m≥,HITACHI,ZW310-5A,Equipment,Installation,AB-291,135 WS,AB 291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-290,BUCKET WHEEL LOADER HD 4.50m¬≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-290,135 WS,AB 290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-291,BUCKET WHEEL LOADER HD 4.50m¬≥ HITACHI ZW310,MODIFIED TO QUICK CONNECTOR BUCKET WHEEL LOADER HD 4.50m¬≥,HITACHI,ZW310-5A,Equipment,Installation,AB-291,135 WS,AB 291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-255,BUCKET WHEEL LOADER HITACHI ZW310,WHEELLOADER BUCKET ZW310,HITACHI,ZW310-5A,Equipment,Installation,AB-255,135 WS,AB 255,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-171,BUCKET WHEEL LOADER HITACHI ZW310,WHEEL LOADER BUCKET ZW310,HITACHI,ZW310-5A,Equipment,Installation,AB-171,135 WS,AB 171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-172,BUCKET WHEEL LOADER HITACHI ZW310,WHEEL LOADER BUCKET ZW310,HITACHI,ZW310-5A,Equipment,Installation,AB-172,135 WS,AB 172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -1226,7 +1228,7 @@ ASSET_DATA,AB-267,BUCKET WHEEL LOADER PIPE VOLVO L350H,95733,VOLVO,L350H,Equipme
 ASSET_DATA,AB-026,BUCKET WHEEL LOADER QC CATERPILLAR 980,QC WHEELLOADER BUCKET CAT980,CATERPILLAR,980,Equipment,Installation,AB-026,135 WS,AB 026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-027,BUCKET WHEEL LOADER QC CATERPILLAR 980,QUICK CONNECTOR WHEELLOADER BUCKET CAT980,CATERPILLAR,980,Equipment,Installation,AB-027,135 WS,AB 027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-033,BUCKET WHEEL LOADER QC HITACHI ZW310,WHEELLOADER BUCKET ZW310,HITACHI,ZW310-5A,Equipment,Installation,AB-033,135 WS,AB 033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-264,BUCKET WHEEL LOADER ROCK 4.50m≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-264,135 WS,AB 264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-264,BUCKET WHEEL LOADER ROCK 4.50m¬≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-264,135 WS,AB 264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-047,BUCKET WHEEL LOADER ROCK CATERPILLAR 980 (K360),011757,CATERPILLAR,980,Equipment,Installation,AB-047,135 WS,AB 047,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-043,BUCKET WHEEL LOADER ROCK CATERPILLAR 980 (K378),X1E03815,CATERPILLAR,980,Equipment,Installation,AB-043,135 WS,AB 043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-048,BUCKET WHEEL LOADER ROCK CATERPILLAR 980 (K527),010906,CATERPILLAR,980,Equipment,Installation,AB-048,135 WS,AB 048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -1322,10 +1324,10 @@ ASSET_DATA,AMS_C54,CONTAINER 20FT OFFICE J270,ARDU 202814 7,CONTAINER,OFFICE,Equ
 ASSET_DATA,AMS_C136,CONTAINER 20FT PARTS STORAGE,CSDU 201514 4,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C136,135 WS,AMS C 136,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C93,CONTAINER 20FT PARTS STORAGE J036,CCSU 301378 0,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C93,135 WS,AMS C 93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C105,CONTAINER 20FT PARTS STORAGE J041,CSCU 301473 0,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C105,135 WS,AMS C 105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMS_C99,CONTAINER 20FT PARTS STORAGE J112,?EMCU 342249 7,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C99,135 WS,AMS C 99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMS_C100,CONTAINER 20FT PARTS STORAGE J113,?EMCU 337857 9,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C100,135 WS,AMS C 100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMS_C97,CONTAINER 20FT PARTS STORAGE J114,?CAXU 643972 0,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C97,135 WS,AMS C 97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMS_C98,CONTAINER 20FT PARTS STORAGE J115,?EMCU 376365†7,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C98,135 WS,AMS C 98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMS_C99,CONTAINER 20FT PARTS STORAGE J112,‚ÄãEMCU 342249 7,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C99,135 WS,AMS C 99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMS_C100,CONTAINER 20FT PARTS STORAGE J113,‚ÄãEMCU 337857 9,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C100,135 WS,AMS C 100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMS_C97,CONTAINER 20FT PARTS STORAGE J114,‚ÄãCAXU 643972 0,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C97,135 WS,AMS C 97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMS_C98,CONTAINER 20FT PARTS STORAGE J115,‚ÄãEMCU 376365¬†7,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C98,135 WS,AMS C 98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C104,CONTAINER 20FT PARTS STORAGE J120,CSCU 301466 3,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C104,135 WS,AMS C 104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C117,CONTAINER 20FT PARTS STORAGE J168,TGHU 145375 5,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C117,135 WS,AMS C 117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C103,CONTAINER 20FT PARTS STORAGE J267,ARDU 202826 0,CONTAINER,PARTS STORAGE,Equipment,Installation,AMS_C103,135 WS,AMS C 103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -1345,7 +1347,7 @@ ASSET_DATA,AMS_C110,CONTAINER 20FT STORAGE J011,CGMU 282591 3,CONTAINER,STORAGE,
 ASSET_DATA,AMS_C107,CONTAINER 20FT STORAGE J044,CSCU 301486 9,CONTAINER,STORAGE,Equipment,Installation,AMS_C107,135 WS,AMS C 107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C112,CONTAINER 20FT STORAGE J108,CSCU 301503 7,CONTAINER,STORAGE,Equipment,Installation,AMS_C112,135 WS,AMS C 112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C64,CONTAINER 20FT STORAGE J131,TTNU 388196 4,CONTAINER,STORAGE,Equipment,Installation,AMS_C64,135 WS,AMS C 64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMS_C82,CONTAINER 20FT STORAGE J144,CSCU 301819†1,CONTAINER,STORAGE,Equipment,Installation,AMS_C82,135 WS,AMS C 82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMS_C82,CONTAINER 20FT STORAGE J144,CSCU 301819¬†1,CONTAINER,STORAGE,Equipment,Installation,AMS_C82,135 WS,AMS C 82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C83,CONTAINER 20FT STORAGE J161,CSCU 301796 0,CONTAINER,STORAGE,Equipment,Installation,AMS_C83,135 WS,AMS C 83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C84,CONTAINER 20FT STORAGE J164,TCIU 354387 5,CONTAINER,STORAGE,Equipment,Installation,AMS_C84,135 WS,AMS C 84,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C67,CONTAINER 20FT STORAGE J167,TGHU 073364 3,CONTAINER,STORAGE,Equipment,Installation,AMS_C67,135 WS,AMS C 67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -1487,7 +1489,7 @@ ASSET_DATA,ARD-004,DAVIT WINCH 500KG REID PORTADAVIT QUANTUM PDQ2W,EN796 2012 RA
 ASSET_DATA,ADP-002,"DEWATERING PUMP ATR 150 6""",03.1288/2321095,ATR,ATR150,Equipment,Installation,ADP-002,135 WS,ADP 002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,ADP-004,DEWATERING PUMP SKY DP150M-6,R86AEND0039,SKY,DP150M-6,Equipment,Installation,ADP-004,135 WS,ADP 004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,ADP-001,DEWATERING PUMP SYKES WP150-60 (Y023),38210871901,SYKES,WP150-60,Equipment,Installation,ADP-001,135 WS,ADP 001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AT-PW-009,DiBO IBH-M 350/16 INDUSTRIAL PRESSURE WASHER (HOT-WATER TYPE),DiBO IBH-M 350/16 ó Model 1.116.600,DiBO,BH-M 350/16,Equipment,Installation,AT-PW-009,135 WS,AT PW 009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AT-PW-009,DiBO IBH-M 350/16 INDUSTRIAL PRESSURE WASHER (HOT-WATER TYPE),DiBO IBH-M 350/16 ‚Äî Model 1.116.600,DiBO,BH-M 350/16,Equipment,Installation,AT-PW-009,135 WS,AT PW 009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,ADR-001,DOZER RAMP APT,DOZER RAMP,APT GLOBAL,DOZER RAMP,Equipment,Installation,ADR-001,135 WS,ADR 001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,TC95141,DUMPTRUCK CATERPILLAR 740GC OASIS,,CATERPILLAR,740GC,Transport mode,Transport mode,TC94047,135 WS,TC 95141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,TC95142,DUMPTRUCK CATERPILLAR 740GC OASIS,,CATERPILLAR,740GC,Transport mode,Transport mode,TC94048,135 WS,TC 95142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -2161,7 +2163,7 @@ ASSET_DATA,ARIP-002,RIPPER HITACHI ZX470 (K105),H105,HITACHI,ZX470-5G,Equipment,
 ASSET_DATA,ARIP-004,RIPPER HITACHI ZX870 (H106),9037,HITACHI,ZX870-5G,Equipment,Installation,ARIP-004,135 WS,ARIP 004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,ARIP-017,RIPPER SUNTON,,SUNTON,,Equipment,Installation,ARIP-017,135 WS,ARIP 017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,T02321,ROUGH TERRAIN CRANE 30T TADANO GR-300EX,73655 QA | 562346,TADANO,GR-300EX,Transport mode,Transport mode,T02321,220 WS,2321,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-086,SAND BUCKET 2.25m? CW55,SAND BUCKET2.25m?,,,Equipment,Installation,AB-086,135 WS,AB 086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-086,SAND BUCKET 2.25m·∂ü CW55,SAND BUCKET2.25m·∂ü,,,Equipment,Installation,AB-086,135 WS,AB 086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_AC011,SB28/100 SHAMAL COMPRESSOR,5435060043,SHAMAL,SB28/100,Equipment,Installation,AMS_AC011,135 WS,AMS AC 011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,T03195,SCANIA G460,128627 QA | YS2G6X400G5412000,SCANIA,G460,Transport mode,Transport mode,T03195,220 WS,3195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,T03193,SCANIA G460 TRUCK,89327 QA | YS2G6X400G5401926,SCANIA,G460,Transport mode,Transport mode,T03193,220 WS,3193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -2544,7 +2546,7 @@ ASSET_DATA,15/3-314,3m BOOM 150T/3 CRANE,3m BOOM 150T/3 CRANE,HITACHI SUMITOMO,,
 ASSET_DATA,15/3-315,3m BOOM 150T/3 CRANE,3m BOOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-315,220 WS,15 3 315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-316,3m BOOM 150T/3 CRANE,3m BOOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-316,220 WS,15 3 316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-317,3m BOOM 150T/3 CRANE,3m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-317,210 WS,15 3 317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-318,3m BOOM 150T/3 CRANE,3m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-318†††††††††,210 WS,15 3 318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-318,3m BOOM 150T/3 CRANE,3m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-318¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-319,3m BOOM 150T/3 CRANE,3m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-319,210 WS,15 3 319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-320,3m BOOM 150T/3 CRANE,3m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-320,210 WS,15 3 320,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-321,3m BOOM 150T/3 CRANE,40008584 | YLT54007,HSC CRANES,SCX 1500A-3,Equipment,Installation,15/3-321,210 WS,15 3 321,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -2637,7 +2639,7 @@ ASSET_DATA,15/3-614,6m BOOM 150T/3 CRANE,6m BOOM 150T/3 CRANE,HITACHI SUMITOMO,,
 ASSET_DATA,15/3-615,6m BOOM 150T/3 CRANE,6m BOOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-615,220 WS,15 3 615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-616,6m BOOM 150T/3 CRANE,6m BOOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-616,220 WS,15 3 616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-617,6m BOOM 150T/3 CRANE,6m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-617,210 WS,15 3 617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-618,6m BOOM 150T/3 CRANE,6m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-618†††††††††,210 WS,15 3 618,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-618,6m BOOM 150T/3 CRANE,6m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-618¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 618,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-619,6m BOOM 150T/3 CRANE,6m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-619,210 WS,15 3 619,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-620,6m BOOM 150T/3 CRANE,6m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-620,210 WS,15 3 620,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-621,6m BOOM 150T/3 CRANE,40008585 | YLT54006,HSC CRANES,SCX 1500A-3,Equipment,Installation,15/3-621,210 WS,15 3 621,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -2808,9 +2810,9 @@ ASSET_DATA,15/3-954,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,,
 ASSET_DATA,15/3-955,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-955,210 WS,15 3 955,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-956,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-956,210 WS,15 3 956,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-957,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-957,210 WS,15 3 957,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-958,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-958†††††††††,210 WS,15 3 958,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-959,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-959†††††††††,210 WS,15 3 959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-960,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-960†††††††††,210 WS,15 3 960,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-958,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-958¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 958,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-959,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-959¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-960,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-960¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 960,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-961,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-961,210 WS,15 3 961,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-962,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-962,210 WS,15 3 962,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-963,9m BOOM 150T/3 CRANE,9m BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-963,210 WS,15 3 963,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -2920,7 +2922,7 @@ ASSET_DATA,AMS_C53,AMS_C53,AMS_C53,CONTAINER,LABOUR ACCOMODATION,Equipment,Insta
 ASSET_DATA,AMS_C55,AMS_C55,AMS_C55,CONTAINER,RIGGING,Equipment,Installation,AMS_C55,210 WS,AMS C 55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C56,AMS_C56,AMS_C56,CONTAINER,RIGGING,Equipment,Installation,AMS_C56,210 WS,AMS C 56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_C57,AMS_C57,AMS_C57,CONTAINER,WORKSHOP | STORAGE,Equipment,Installation,AMS_C57,210 WS,AMS C 57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMS_CC2489 † ,AMS_CC2489,SVWU 7966850 22G1,CONTAINER,CC-CONTAINER,Equipment,Installation,AMS_CC2489,210 WS,AMS CC 2489,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMS_CC2489 ¬† ,AMS_CC2489,SVWU 7966850 22G1,CONTAINER,CC-CONTAINER,Equipment,Installation,AMS_CC2489,210 WS,AMS CC 2489,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_CC2490,AMS_CC2490,"AMS_CC2490, 20FT CONTAINER",CONTAINER,CC-CONTAINER,Equipment,Installation,AMS_CC2490,210 WS,AMS CC 2490,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_CC2491,AMS_CC2491,"AMS_CC2491, 20FT CONTAINER",CONTAINER,CC-CONTAINER,Equipment,Installation,AMS_CC2491,210 WS,AMS CC 2491,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_CC2492,AMS_CC2492,"AMS_CC2492, 20FT CONTAINER",CONTAINER,CC-CONTAINER,Equipment,Installation,AMS_CC2492,210 WS,AMS CC 2492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -2977,20 +2979,20 @@ ASSET_DATA,AMTR-136,ANEMOMETER,Raycowylie - Model.33M150 SN.68CB,RAYCOWYLIE,33D0
 ASSET_DATA,AMTR-137,ANEMOMETER,Raycowylie - Model.33M150 SN.F927 - Display SN.24-27-986,,,Equipment,Installation,AMTR-137,210 WS,AMTR 137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMTR-138,ANEMOMETER,Raycowylie - Model.33M150 SN.6880 - Display SN.23-39-862,,,Equipment,Installation,AMTR-138,210 WS,AMTR 138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMTR-140,ANEMOMETER,26024H1078,KRIWAN,,Equipment,Installation,AMTR-140,210 WS,AMTR 140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-141,ANEMOMETER,SENSOR ? 229654 | INDICATOR ? 248408,TRIMBLE,,Equipment,Installation,AMTR-141,210 WS,AMTR 141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-142,ANEMOMETER,SENSOR ? 300313 | INDICATOR ? 249149,TRIMBLE,,Equipment,Installation,AMTR-142,210 WS,AMTR 142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-143,ANEMOMETER,SENSOR ? 300312 | INDICATOR ? 248406,TRIMBLE,,Equipment,Installation,AMTR-143,210 WS,AMTR 143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-144,ANEMOMETER,SENSOR ? 300309 | INDICATOR ? 248382,TRIMBLE,,Equipment,Installation,AMTR-144,210 WS,AMTR 144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-145,ANEMOMETER,SENSOR ? 300883 | INDICATOR ? 249261,,,Equipment,Installation,AMTR-140,210 WS,AMTR 145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-146,ANEMOMETER,SENSOR ? 300885 | INDICATOR ? 248392,,,Equipment,Installation,AMTR-146,210 WS,AMTR 146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-147,ANEMOMETER,SENSOR ? 300305 | INDICATOR ? 248165,,,Equipment,Installation,AMTR-147,210 WS,AMTR 147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-148,ANEMOMETER,SENSOR ? 300886 | INDICATOR ? 249347,,,Equipment,Installation,AMTR-148,210 WS,AMTR 148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-141,ANEMOMETER,SENSOR ‚Üí 229654 | INDICATOR ‚Üí 248408,TRIMBLE,,Equipment,Installation,AMTR-141,210 WS,AMTR 141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-142,ANEMOMETER,SENSOR ‚Üí 300313 | INDICATOR ‚Üí 249149,TRIMBLE,,Equipment,Installation,AMTR-142,210 WS,AMTR 142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-143,ANEMOMETER,SENSOR ‚Üí 300312 | INDICATOR ‚Üí 248406,TRIMBLE,,Equipment,Installation,AMTR-143,210 WS,AMTR 143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-144,ANEMOMETER,SENSOR ‚Üí 300309 | INDICATOR ‚Üí 248382,TRIMBLE,,Equipment,Installation,AMTR-144,210 WS,AMTR 144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-145,ANEMOMETER,SENSOR ‚Üí 300883 | INDICATOR ‚Üí 249261,,,Equipment,Installation,AMTR-140,210 WS,AMTR 145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-146,ANEMOMETER,SENSOR ‚Üí 300885 | INDICATOR ‚Üí 248392,,,Equipment,Installation,AMTR-146,210 WS,AMTR 146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-147,ANEMOMETER,SENSOR ‚Üí 300305 | INDICATOR ‚Üí 248165,,,Equipment,Installation,AMTR-147,210 WS,AMTR 147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-148,ANEMOMETER,SENSOR ‚Üí 300886 | INDICATOR ‚Üí 249347,,,Equipment,Installation,AMTR-148,210 WS,AMTR 148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMTR-149,ANEMOMETER,HITACHI - T02033 S/N - 26025H1003,,,Equipment,Installation,AMTR-149,210 WS,AMTR 149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMTR-150,ANEMOMETER,HITACHI - T02035 - S/N: 26025H1047,HITACHI,,Equipment,Installation,AMTR-150,210 WS,AMTR 150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMTR-151,ANEMOMETER,HITACHI - T02036 - S/N: 26025T1044,HITACHI,,Equipment,Installation,AMTR-151,210 WS,AMTR 151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMTR-152,ANEMOMETER,HITACHI - T02244 - S/N.26025H1050,,,Equipment,Installation,AMTR-152,210 WS,AMTR 152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-153,ANEMOMETER,SENSOR ? 300311 | INDICATOR ? 248389,,,Equipment,Installation,AMTR-153,210 WS,AMTR 153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AMTR-154,ANEMOMETER,SENSOR ? 300306 | INDICATOR ? 249528,,,Equipment,Installation,AMTR-154,210 WS,AMTR 154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-153,ANEMOMETER,SENSOR ‚Üí 300311 | INDICATOR ‚Üí 248389,,,Equipment,Installation,AMTR-153,210 WS,AMTR 153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AMTR-154,ANEMOMETER,SENSOR ‚Üí 300306 | INDICATOR ‚Üí 249528,,,Equipment,Installation,AMTR-154,210 WS,AMTR 154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMTR-161,ANEMOMETER,S/N: 15A8112,,,Equipment,Installation,AMTR-161,210 WS,AMTR 161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMTR-162,ANEMOMETER,HITACHI 26025H1057,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,AMTR-162,210 WS,AMTR 162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMTR-163,ANEMOMETER,HITACHI 26025H1070,HITACHI SUMITOMO,SCX 2800A-3,Equipment,Installation,AMTR-163,210 WS,AMTR 163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -3343,7 +3345,7 @@ ASSET_DATA,15/3-B14,BOTTOM BOOM 150T/3 CRANE,BOTTOM BOOM 150T/3 CRANE,HITACHI SU
 ASSET_DATA,15/3-B15,BOTTOM BOOM 150T/3 CRANE,BOTTOM BOOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-B15,220 WS,15 3 B15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-B16,BOTTOM BOOM 150T/3 CRANE,BOTTOM BOOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-B16,220 WS,15 3 B16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-B17,BOTTOM BOOM 150T/3 CRANE,BOTTOM BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500-3C3,Equipment,Installation,15/3-B17,210 WS,15 3 B17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-B18,BOTTOM BOOM 150T/3 CRANE,BOTTOM BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-B18†††††††††,210 WS,15 3 B18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-B18,BOTTOM BOOM 150T/3 CRANE,BOTTOM BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-B18¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 B18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-B19,BOTTOM BOOM 150T/3 CRANE,BOTTOM BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-B19,210 WS,15 3 B19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-B20,BOTTOM BOOM 150T/3 CRANE,BOTTOM BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-B20,210 WS,15 3 B20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-B21,BOTTOM BOOM 150T/3 CRANE,40008582 | YLT54003,HSC CRANES,SCX 1500A-3,Equipment,Installation,15/3-B21,210 WS,15 3 B21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -3393,100 +3395,100 @@ ASSET_DATA,ACY-115,BUCKET CYLINDER,BUCKET CYLINDER REACH,,,Equipment,Installatio
 ASSET_DATA,ACY-117,BUCKET CYLINDER,BUCKET CYLINDER REACH,,,Equipment,Installation,ACY-117,135 WS,ACY 117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,ACY-120,BUCKET CYLINDER,BUCKET CYLINDER REACH,,,Equipment,Installation,ACY-120,135 WS,ACY 120,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,ACY-132,BUCKET CYLINDER,BUCKET CYLINDER REACH,,,Equipment,Installation,ACY-132,135 WS,ACY 132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-221,BUCKET EXCAVATOR 1.10m? CW40 HITACHI ZX220,1.1m? BUCKET ZX220,HITACHI,ZX220LC,Equipment,Installation,AB-221,135 WS,AB 221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-348,BUCKET EXCAVATOR 2.25m? CATERPILLAR CW55 (K-75),BUCKET EXCAVATOR 2.25m? CATERPILLAR CW55 (K75),CATERPILLAR,,Equipment,Installation,AB-348,135 WS,AB 348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-313,BUCKET EXCAVATOR 2.25m? CW70 CATERPILLAR 390 LR,,CATERPILLAR,390D,Equipment,Installation,AB-313,135 WS,AB 313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-310,BUCKET EXCAVATOR 2.25m? HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-310,135 WS,AB 310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-311,BUCKET EXCAVATOR 2.25m? HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-311,135 WS,AB 311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-345,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (002),HITACHI,ZX470-5G,Equipment,Installation,AB-345,135 WS,AB 345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-357,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-357,135 WS,AB 357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-358,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (004),HITACHI,ZX470-5G,Equipment,Installation,AB-358,135 WS,AB 358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-359,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (005),HITACHI,ZX470-5G,Equipment,Installation,AB-359,135 WS,AB 359,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-347,BUCKET EXCAVATOR 2.25m? STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (003),HITACHI,ZX470-5G,Equipment,Installation,AB-347,135 WS,AB 347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-341,BUCKET EXCAVATOR 4.20m? SD CATERPILLAR 395,,CATERPILLAR,395,Equipment,Installation,AB-341,135 WS,AB 341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-228,BUCKET EXCAVATOR 5.50m? HITACHI ZX870 (K480),,HITACHI,ZX870-5G,Equipment,Installation,AB-228,135 WS,AB 228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-227,BUCKET EXCAVATOR 6.00m? CATERPILLAR 395 (K034),,CATERPILLAR,395,Equipment,Installation,AB-227,135 WS,AB 227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-246,BUCKET EXCAVATOR 6.00m≥ CATERPILLAR 395,,CATERPILLAR,395,Equipment,Installation,AB-246,135 WS,AB 246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-221,BUCKET EXCAVATOR 1.10m·∂ü CW40 HITACHI ZX220,1.1m·∂ü BUCKET ZX220,HITACHI,ZX220LC,Equipment,Installation,AB-221,135 WS,AB 221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-348,BUCKET EXCAVATOR 2.25m·∂ü CATERPILLAR CW55 (K-75),BUCKET EXCAVATOR 2.25m·∂ü CATERPILLAR CW55 (K75),CATERPILLAR,,Equipment,Installation,AB-348,135 WS,AB 348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-313,BUCKET EXCAVATOR 2.25m·∂ü CW70 CATERPILLAR 390 LR,,CATERPILLAR,390D,Equipment,Installation,AB-313,135 WS,AB 313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-310,BUCKET EXCAVATOR 2.25m·∂ü HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-310,135 WS,AB 310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-311,BUCKET EXCAVATOR 2.25m·∂ü HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-311,135 WS,AB 311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-345,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (002),HITACHI,ZX470-5G,Equipment,Installation,AB-345,135 WS,AB 345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-357,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-357,135 WS,AB 357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-358,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (004),HITACHI,ZX470-5G,Equipment,Installation,AB-358,135 WS,AB 358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-359,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (005),HITACHI,ZX470-5G,Equipment,Installation,AB-359,135 WS,AB 359,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-347,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,IN HOUSE FABRICATED BUCKET ZX470 (003),HITACHI,ZX470-5G,Equipment,Installation,AB-347,135 WS,AB 347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-341,BUCKET EXCAVATOR 4.20m·∂ü SD CATERPILLAR 395,,CATERPILLAR,395,Equipment,Installation,AB-341,135 WS,AB 341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-228,BUCKET EXCAVATOR 5.50m·∂ü HITACHI ZX870 (K480),,HITACHI,ZX870-5G,Equipment,Installation,AB-228,135 WS,AB 228,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-227,BUCKET EXCAVATOR 6.00m·∂ü CATERPILLAR 395 (K034),,CATERPILLAR,395,Equipment,Installation,AB-227,135 WS,AB 227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-246,BUCKET EXCAVATOR 6.00m¬≥ CATERPILLAR 395,,CATERPILLAR,395,Equipment,Installation,AB-246,135 WS,AB 246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-078,BUCKET EXCAVATOR CATERPILLAR 349,TRENCHING BUCKET,CATERPILLAR,349D,Equipment,Installation,AB-078,135 WS,AB 078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-281,BUCKET EXCAVATOR CATERPILLAR 395,,CATERPILLAR,395,Equipment,Installation,AB-281,135 WS,AB 281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-181,BUCKET EXCAVATOR HD 2.25m? HITACHI ZX470,2.25m? HD BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-181,135 WS,AB 181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-151,BUCKET EXCAVATOR HD 2.25m? HITACHI ZX470,2.25m? HD BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-151,135 WS,AB 151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-153,BUCKET EXCAVATOR HD 2.25m? HITACHI ZX470,2.25m? HD BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-153,135 WS,AB 153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-107,BUCKET EXCAVATOR HD 2.40m≥ CATERPILLAR 349 (K362),SAND BUCKET (K362),,,Equipment,Installation,AB-107,135 WS,AB 107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-338,BUCKET EXCAVATOR HD 5.60m≥ VOLVO EC950E,,VOLVO,EC950E,Equipment,Installation,AB-338,135 WS,AB 338,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-317,BUCKET EXCAVATOR HD 5.60m≥ VOLVO EC950E,,VOLVO,EC950E,Equipment,Installation,AB-317,135 WS,AB 317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-181,BUCKET EXCAVATOR HD 2.25m·∂ü HITACHI ZX470,2.25m·∂ü HD BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-181,135 WS,AB 181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-151,BUCKET EXCAVATOR HD 2.25m·∂ü HITACHI ZX470,2.25m·∂ü HD BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-151,135 WS,AB 151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-153,BUCKET EXCAVATOR HD 2.25m·∂ü HITACHI ZX470,2.25m·∂ü HD BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-153,135 WS,AB 153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-107,BUCKET EXCAVATOR HD 2.40m¬≥ CATERPILLAR 349 (K362),SAND BUCKET (K362),,,Equipment,Installation,AB-107,135 WS,AB 107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-338,BUCKET EXCAVATOR HD 5.60m¬≥ VOLVO EC950E,,VOLVO,EC950E,Equipment,Installation,AB-338,135 WS,AB 338,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-317,BUCKET EXCAVATOR HD 5.60m¬≥ VOLVO EC950E,,VOLVO,EC950E,Equipment,Installation,AB-317,135 WS,AB 317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-284,BUCKET EXCAVATOR HD CATERPILLAR 374,,CATERPILLAR,374DL,Equipment,Installation,AB-284,135 WS,AB 284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-108,BUCKET EXCAVATOR HD FLAT BOTTOM 2.25m? HITACHI ZX470,SAND BUCKET MODIFIED TO FLAT BOTTOM BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-108,135 WS,AB 108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-108,BUCKET EXCAVATOR HD FLAT BOTTOM 2.25m·∂ü HITACHI ZX470,SAND BUCKET MODIFIED TO FLAT BOTTOM BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-108,135 WS,AB 108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-007,BUCKET EXCAVATOR HITACHI ZX870,MASS EXCAVATION BUCKET,HITACHI,ZX870-5G,Equipment,Installation,AB-007,135 WS,AB 007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-009,BUCKET EXCAVATOR HITACHI ZX870,MASS EXCAVATION BUCKET,HITACHI,ZX870-5G,Equipment,Installation,AB-009,135 WS,AB 009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-333,BUCKET EXCAVATOR HITACHI ZX870 (K587),SKELETON MASS ZX870 K-587,HITACHI,ZX870-5G,Equipment,Installation,AB-333,135 WS,AB 333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-328,BUCKET EXCAVATOR PIPE 2.25m? HITACHI ZX470 (K108),,HITACHI,ZX470-5G,Equipment,Installation,AB-328,135 WS,AB 328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-356,BUCKET EXCAVATOR PIPE 2.78m≥ HITACHI ZX350,IN HOUSE FABRICATED PIPE BUCKET ZX350 (001),HITACHI,ZX350-5,Equipment,Installation,AB-356,135 WS,AB 356,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-222,BUCKET EXCAVATOR RIPPER 3.50m? CATERPILLAR 395,NB22312051-001,CATERPILLAR,395,Equipment,Installation,AB-222,135 WS,AB 222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-223,BUCKET EXCAVATOR RIPPER 3.50m? CATERPILLAR 395,NB22312051-002,CATERPILLAR,395,Equipment,Installation,AB-223,135 WS,AB 223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-224,BUCKET EXCAVATOR RIPPER 5.00m? HITACHI EX1200,NB22312066-001,HITACHI,EX1200-7,Equipment,Installation,AB-224,135 WS,AB 224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-225,BUCKET EXCAVATOR RIPPER 5.00m? HITACHI EX1200,NB22312066-002,HITACHI,EX1200-7,Equipment,Installation,AB-225,135 WS,AB 225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-328,BUCKET EXCAVATOR PIPE 2.25m·∂ü HITACHI ZX470 (K108),,HITACHI,ZX470-5G,Equipment,Installation,AB-328,135 WS,AB 328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-356,BUCKET EXCAVATOR PIPE 2.78m¬≥ HITACHI ZX350,IN HOUSE FABRICATED PIPE BUCKET ZX350 (001),HITACHI,ZX350-5,Equipment,Installation,AB-356,135 WS,AB 356,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-222,BUCKET EXCAVATOR RIPPER 3.50m·∂ü CATERPILLAR 395,NB22312051-001,CATERPILLAR,395,Equipment,Installation,AB-222,135 WS,AB 222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-223,BUCKET EXCAVATOR RIPPER 3.50m·∂ü CATERPILLAR 395,NB22312051-002,CATERPILLAR,395,Equipment,Installation,AB-223,135 WS,AB 223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-224,BUCKET EXCAVATOR RIPPER 5.00m·∂ü HITACHI EX1200,NB22312066-001,HITACHI,EX1200-7,Equipment,Installation,AB-224,135 WS,AB 224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-225,BUCKET EXCAVATOR RIPPER 5.00m·∂ü HITACHI EX1200,NB22312066-002,HITACHI,EX1200-7,Equipment,Installation,AB-225,135 WS,AB 225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-062,BUCKET EXCAVATOR RIPPER CATERPILLAR 395,RIPPER BUCKET,CATERPILLAR,395,Equipment,Installation,AB-062,135 WS,AB 062,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-097,BUCKET EXCAVATOR ROCK,ROCK BUCKET,,,Equipment,Installation,AB-097,135 WS,AB 097,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-016,BUCKET EXCAVATOR ROCK 1.30m≥ CATERPILLAR 350,MODIFIED FROM ZX470 TO CAT 350 LINKAGE,CATERPILLAR,350,Equipment,Installation,AB-016,135 WS,AB 016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-063,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-063,135 WS,AB 063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-064,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-064,135 WS,AB 064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-100,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-100,135 WS,AB 100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-093,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-093,135 WS,AB 093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-080,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470 (K264),ROCK BUCKET (K264),HITACHI,ZX470-5G,Equipment,Installation,AB-080,135 WS,AB 080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-079,BUCKET EXCAVATOR ROCK 1.30m≥ HITACHI ZX470 (K605),ROCK BUCKET (K605),HITACHI,ZX470-5G,Equipment,Installation,AB-079,135 WS,AB 079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-286,BUCKET EXCAVATOR ROCK 1.77m≥ CATERPILLAR 395,MCN26230,CATERPILLAR,395,Equipment,Installation,AB-286,135 WS,AB 286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-295,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-295,135 WS,AB 295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-297,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-297,135 WS,AB 297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-298,BUCKET EXCAVATOR ROCK 2.80m≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-298,135 WS,AB 298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-238,BUCKET EXCAVATOR ROCK 3.20m≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-238,135 WS,AB 238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-239,BUCKET EXCAVATOR ROCK 3.20m≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-239,135 WS,AB 239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-240,BUCKET EXCAVATOR ROCK 3.20m≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-240,135 WS,AB 240,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-241,BUCKET EXCAVATOR ROCK 3.20m≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-241,135 WS,AB 241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-242,BUCKET EXCAVATOR ROCK 3.20m≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-242,135 WS,AB 242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-244,BUCKET EXCAVATOR ROCK 3.20m≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-244,135 WS,AB 244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-234,BUCKET EXCAVATOR ROCK 5.50m≥ HITACHI ZX870,,HITACHI,ZX870-5G,Equipment,Installation,AB-234,135 WS,AB 234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-235,BUCKET EXCAVATOR ROCK 5.50m≥ HITACHI ZX870,,HITACHI,ZX870-5G,Equipment,Installation,AB-235,135 WS,AB 235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-236,BUCKET EXCAVATOR ROCK 5.50m≥ HITACHI ZX870,,HITACHI,ZX870-5G,Equipment,Installation,AB-236,135 WS,AB 236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-237,BUCKET EXCAVATOR ROCK 5.50m≥ HITACHI ZX870,,HITACHI,ZX870-5G,Equipment,Installation,AB-237,135 WS,AB 237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-248,BUCKET EXCAVATOR ROCK 6.00m≥ CATERPILLAR 395,XC775507,CATERPILLAR,395,Equipment,Installation,AB-248,135 WS,AB 248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-226,BUCKET EXCAVATOR ROCK 6.50m? HITACHI EX1200,,HITACHI,EX1200-7,Equipment,Installation,AB-226,135 WS,AB 226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-232,BUCKET EXCAVATOR ROCK 6.50m≥ HITACHI EX1200,6.5m≥ ROCK BUCKET EX1200,HITACHI,EX1200-7,Equipment,Installation,AB-232,135 WS,AB 232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-233,BUCKET EXCAVATOR ROCK 6.50m≥ HITACHI EX1200,6.5m≥ ROCK BUCKET EX1200,HITACHI,EX1200-7,Equipment,Installation,AB-233,135 WS,AB 233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-180,BUCKET EXCAVATOR ROCK 6.50m≥ HITACHI EX1200 (K287),ROCK BUCKET (K287),HITACHI,EX1200-6,Equipment,Installation,AB-180,135 WS,AB 180,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-016,BUCKET EXCAVATOR ROCK 1.30m¬≥ CATERPILLAR 350,MODIFIED FROM ZX470 TO CAT 350 LINKAGE,CATERPILLAR,350,Equipment,Installation,AB-016,135 WS,AB 016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-063,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-063,135 WS,AB 063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-064,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-064,135 WS,AB 064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-100,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-100,135 WS,AB 100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-093,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470,ROCK BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-093,135 WS,AB 093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-080,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470 (K264),ROCK BUCKET (K264),HITACHI,ZX470-5G,Equipment,Installation,AB-080,135 WS,AB 080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-079,BUCKET EXCAVATOR ROCK 1.30m¬≥ HITACHI ZX470 (K605),ROCK BUCKET (K605),HITACHI,ZX470-5G,Equipment,Installation,AB-079,135 WS,AB 079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-286,BUCKET EXCAVATOR ROCK 1.77m¬≥ CATERPILLAR 395,MCN26230,CATERPILLAR,395,Equipment,Installation,AB-286,135 WS,AB 286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-295,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-295,135 WS,AB 295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-297,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-297,135 WS,AB 297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-298,BUCKET EXCAVATOR ROCK 2.80m¬≥  KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-298,135 WS,AB 298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-238,BUCKET EXCAVATOR ROCK 3.20m¬≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-238,135 WS,AB 238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-239,BUCKET EXCAVATOR ROCK 3.20m¬≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-239,135 WS,AB 239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-240,BUCKET EXCAVATOR ROCK 3.20m¬≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-240,135 WS,AB 240,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-241,BUCKET EXCAVATOR ROCK 3.20m¬≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-241,135 WS,AB 241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-242,BUCKET EXCAVATOR ROCK 3.20m¬≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-242,135 WS,AB 242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-244,BUCKET EXCAVATOR ROCK 3.20m¬≥ KOMATSU PC500,,KOMATSU,PC500-10R,Equipment,Installation,AB-244,135 WS,AB 244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-234,BUCKET EXCAVATOR ROCK 5.50m¬≥ HITACHI ZX870,,HITACHI,ZX870-5G,Equipment,Installation,AB-234,135 WS,AB 234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-235,BUCKET EXCAVATOR ROCK 5.50m¬≥ HITACHI ZX870,,HITACHI,ZX870-5G,Equipment,Installation,AB-235,135 WS,AB 235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-236,BUCKET EXCAVATOR ROCK 5.50m¬≥ HITACHI ZX870,,HITACHI,ZX870-5G,Equipment,Installation,AB-236,135 WS,AB 236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-237,BUCKET EXCAVATOR ROCK 5.50m¬≥ HITACHI ZX870,,HITACHI,ZX870-5G,Equipment,Installation,AB-237,135 WS,AB 237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-248,BUCKET EXCAVATOR ROCK 6.00m¬≥ CATERPILLAR 395,XC775507,CATERPILLAR,395,Equipment,Installation,AB-248,135 WS,AB 248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-226,BUCKET EXCAVATOR ROCK 6.50m·∂ü HITACHI EX1200,,HITACHI,EX1200-7,Equipment,Installation,AB-226,135 WS,AB 226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-232,BUCKET EXCAVATOR ROCK 6.50m¬≥ HITACHI EX1200,6.5m¬≥ ROCK BUCKET EX1200,HITACHI,EX1200-7,Equipment,Installation,AB-232,135 WS,AB 232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-233,BUCKET EXCAVATOR ROCK 6.50m¬≥ HITACHI EX1200,6.5m¬≥ ROCK BUCKET EX1200,HITACHI,EX1200-7,Equipment,Installation,AB-233,135 WS,AB 233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-180,BUCKET EXCAVATOR ROCK 6.50m¬≥ HITACHI EX1200 (K287),ROCK BUCKET (K287),HITACHI,EX1200-6,Equipment,Installation,AB-180,135 WS,AB 180,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-076,BUCKET EXCAVATOR ROCK CATERPILLAR 349,ROCK BUCKET,CATERPILLAR,349D,Equipment,Installation,AB-076,135 WS,AB 076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-184,BUCKET EXCAVATOR ROCK CATERPILLAR 349 (K004),CAT349 EXCAVATOR ROCK BUCKET (K221),CATERPILLAR,349D,Equipment,Installation,AB-184,135 WS,AB 184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-011,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-011,135 WS,AB 011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-003,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-003,135 WS,AB 003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-174,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,ZX470 SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-174,135 WS,AB 174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-143,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-143,135 WS,AB 143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-144,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-144,135 WS,AB 144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-130,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET ZX470 LINKAGE,HITACHI,ZX470-5G,Equipment,Installation,AB-130,135 WS,AB 130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-131,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470,SAND BUCKET ZX470 LINKAGE,HITACHI,ZX470-5G,Equipment,Installation,AB-131,135 WS,AB 131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-149,BUCKET EXCAVATOR SAND 2.25m? HITACHI ZX470 (K482),SAND BUCKET ZX470 (K482),HITACHI,ZX470-5G,Equipment,Installation,AB-149,135 WS,AB 149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-200,BUCKET EXCAVATOR SAND 2.78m≥ CATERPILLAR 350,611-1268 | XC771266,CATERPILLAR,350,Equipment,Installation,AB-200,135 WS,AB 200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-201,BUCKET EXCAVATOR SAND 2.78m≥ CATERPILLAR 350,611-1268 |  XC773812,CATERPILLAR,350,Equipment,Installation,AB-201,135 WS,AB 201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-141,BUCKET EXCAVATOR SAND 2.78m≥ HITACHI ZX350,SAND BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-141,135 WS,AB 141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-355,BUCKET EXCAVATOR SAND 2.78m≥ HITACHI ZX350,IN HOUSE FABRICATED BUCKET ZX350 (001),HITACHI,ZX350-5,Equipment,Installation,AB-355,135 WS,AB 355,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-198,BUCKET EXCAVATOR SAND 6.00m≥ CATERPILLAR 395,609-3511 |  XC776142,CATERPILLAR,395,Equipment,Installation,AB-198,135 WS,AB 198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-011,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-011,135 WS,AB 011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-003,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-003,135 WS,AB 003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-174,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,ZX470 SAND BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-174,135 WS,AB 174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-143,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-143,135 WS,AB 143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-144,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-144,135 WS,AB 144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-130,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET ZX470 LINKAGE,HITACHI,ZX470-5G,Equipment,Installation,AB-130,135 WS,AB 130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-131,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470,SAND BUCKET ZX470 LINKAGE,HITACHI,ZX470-5G,Equipment,Installation,AB-131,135 WS,AB 131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-149,BUCKET EXCAVATOR SAND 2.25m·∂ü HITACHI ZX470 (K482),SAND BUCKET ZX470 (K482),HITACHI,ZX470-5G,Equipment,Installation,AB-149,135 WS,AB 149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-200,BUCKET EXCAVATOR SAND 2.78m¬≥ CATERPILLAR 350,611-1268 | XC771266,CATERPILLAR,350,Equipment,Installation,AB-200,135 WS,AB 200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-201,BUCKET EXCAVATOR SAND 2.78m¬≥ CATERPILLAR 350,611-1268 |  XC773812,CATERPILLAR,350,Equipment,Installation,AB-201,135 WS,AB 201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-141,BUCKET EXCAVATOR SAND 2.78m¬≥ HITACHI ZX350,SAND BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-141,135 WS,AB 141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-355,BUCKET EXCAVATOR SAND 2.78m¬≥ HITACHI ZX350,IN HOUSE FABRICATED BUCKET ZX350 (001),HITACHI,ZX350-5,Equipment,Installation,AB-355,135 WS,AB 355,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-198,BUCKET EXCAVATOR SAND 6.00m¬≥ CATERPILLAR 395,609-3511 |  XC776142,CATERPILLAR,395,Equipment,Installation,AB-198,135 WS,AB 198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-116,BUCKET EXCAVATOR SAND CATERPILLAR 340,SAND BUCKET CAT 340D,CATERPILLAR,340D,Equipment,Installation,AB-116,135 WS,AB 116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-182,BUCKET EXCAVATOR SAND CATERPILLAR 340 (K172),MHJ25611,CATERPILLAR,340D,Equipment,Installation,AB-182,135 WS,AB 182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-091,BUCKET EXCAVATOR SAND CATERPILLAR 340 (K366),SAND BUCKET 340D (K366),CATERPILLAR,340D,Equipment,Installation,AB-091,135 WS,AB 091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-087,BUCKET EXCAVATOR SAND CATERPILLAR 349,SAND BUCKET,CATERPILLAR,349D,Equipment,Installation,AB-087,135 WS,AB 087,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-077,BUCKET EXCAVATOR SAND CATERPILLAR 352,SAND BUCKET,,,Equipment,Installation,AB-077,135 WS,AB 077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-220,BUCKET EXCAVATOR SAND HITACHI ZX220,SAND BUCKET ZX220,HITACHI,ZX220LC,Equipment,Installation,AB-220,135 WS,AB 220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-214,BUCKET EXCAVATOR SKELETON 1.20m? CW40 HITACHI ZX220,1.2m? SKELETON BUCKET ZX220,HITACHI,ZX220LC,Equipment,Installation,AB-214,135 WS,AB 214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-262,BUCKET EXCAVATOR SKELETON 2.80m≥ CATERPILLAR 350,,CATERPILLAR,350,Equipment,Installation,AB-262,135 WS,AB 262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-214,BUCKET EXCAVATOR SKELETON 1.20m·∂ü CW40 HITACHI ZX220,1.2m·∂ü SKELETON BUCKET ZX220,HITACHI,ZX220LC,Equipment,Installation,AB-214,135 WS,AB 214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-262,BUCKET EXCAVATOR SKELETON 2.80m¬≥ CATERPILLAR 350,,CATERPILLAR,350,Equipment,Installation,AB-262,135 WS,AB 262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-073,BUCKET EXCAVATOR SKELETON CATERPILLAR 349,SKELETON BUCKET,CATERPILLAR,349D,Equipment,Installation,AB-073,135 WS,AB 073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-283,BUCKET EXCAVATOR SKELETON CATERPILLAR 395,,CATERPILLAR,395,Equipment,Installation,AB-283,135 WS,AB 283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-133,BUCKET EXCAVATOR SKELETON HITACHI ZX470 (MODIFIED),EX PIPE BUCKET(MODIFIED SIDE CLOSED),HITACHI,ZX470-5G,Equipment,Installation,AB-133,135 WS,AB 133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-193,BUCKET EXCAVATOR SKELETON PIPE 2.56m≥ HITACHI ZX350,2.56m≥ SKELETON PIPE BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-193,135 WS,AB 193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-193,BUCKET EXCAVATOR SKELETON PIPE 2.56m¬≥ HITACHI ZX350,2.56m¬≥ SKELETON PIPE BUCKET ZX350,HITACHI,ZX350-5,Equipment,Installation,AB-193,135 WS,AB 193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-190,BUCKET EXCAVATOR SKELETON PIPE HITACHI ZX470,PIPE BUCKET (SKELETON) ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-190,135 WS,AB 190,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-329,BUCKET EXCAVATOR SKELETON PIPE HITACHI ZX470,,HITACHI,ZX470-5G,Equipment,Installation,AB-329,135 WS,AB 329,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-212,BUCKET EXCAVATOR SKELETON PIPE HITACHI ZX470 (K299),PIPE BUCKET ZX470 (K299),HITACHI,ZX470-5G,Equipment,Installation,AB-212,135 WS,AB 212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-161,BUCKET EXCAVATOR STANDARD 2.25m? HITACHI ZX470,2.25m≥ BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-161,135 WS,AB 161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-163,BUCKET EXCAVATOR STANDARD 2.25m? HITACHI ZX470,2.25m≥ BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-163,135 WS,AB 163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-342,BUCKET EXCAVATOR STANDARD 4.5m≥ HITACHI ZX890,4.5m≥ STANDARD BUCKET,HITACHI,ZX870-5G | ZX890-5 ,Equipment,Installation,AB-342,135 WS,AB 342,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-161,BUCKET EXCAVATOR STANDARD 2.25m·∂ü HITACHI ZX470,2.25m¬≥ BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-161,135 WS,AB 161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-163,BUCKET EXCAVATOR STANDARD 2.25m·∂ü HITACHI ZX470,2.25m¬≥ BUCKET ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-163,135 WS,AB 163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-342,BUCKET EXCAVATOR STANDARD 4.5m¬≥ HITACHI ZX890,4.5m¬≥ STANDARD BUCKET,HITACHI,ZX870-5G | ZX890-5 ,Equipment,Installation,AB-342,135 WS,AB 342,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-175,BUCKET EXCAVATOR TRIMMING 2.00m HITACHI ZX470,ZX470 TRIMMING BUCKET,HITACHI,ZX470-5G,Equipment,Installation,AB-175,135 WS,AB 175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-346,BUCKET EXCAVATOR TRIMMING 4m CATERPILLAR 395,IN HOUSE FABRICATED TRIMING BUCKET CAT 395 LINKAGE,CATERPILLAR,395,Equipment,Installation,AB-346,135 WS,AB 346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-330,BUCKET EXCAVATOR TRIMMING 4m HITACHI ZX470,BUCKET EXCAVATOR TRIMMING 4m HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-330,135 WS,AB 330,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -3498,25 +3500,25 @@ ASSET_DATA,AB-339,BUCKET HYDRAULIC BLADE BRAMCO,,,,Equipment,Installation,AB-339
 ASSET_DATA,AB-124,BUCKET PIPE CLAMP QC CATERPILLAR 980 (K416),PIPE BUCKET CAT980 WHEEL LOADER (K416),CATERPILLAR,980,Equipment,Installation,AB-124,135 WS,AB 124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-135,BUCKET PIPE CLAMP QC CATERPILLAR 980 (K513),PIPE CLAMP BUCKET (K513),CATERPILLAR,980,Equipment,Installation,AB-135,135 WS,AB 135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-156,BUCKET PIPE CLAMP QC CATERPILLAR 980L (K415),WL PIPE SKELETON BUCKET (K415),CATERPILLAR,980L,Equipment,Installation,AB-156,135 WS,AB 156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-067,BUCKET ROCK 1.30m≥ HITACHI ZX470 (K575),ROCK BUCKET (K575),HITACHI,ZX470-5G,Equipment,Installation,AB-067,135 WS,AB 067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-067,BUCKET ROCK 1.30m¬≥ HITACHI ZX470 (K575),ROCK BUCKET (K575),HITACHI,ZX470-5G,Equipment,Installation,AB-067,135 WS,AB 067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-349,BUCKET ROCKS HITACHI ZX870 (K138),,HITACHI,ZX870,Equipment,Installation,AB-349,135 WS,AB 349,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-350,BUCKET SKELETON PIPES HITACHI ZX870 (K228),,HITACHI,ZX870,Equipment,Installation,AB-350,135 WS,AB 350,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-351,BUCKET SKELETON PIPES HITACHI ZX870 (K229),,HITACHI,ZX870,Equipment,Installation,AB-351,135 WS,AB 351,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-352,BUCKET SKELETON PIPES HITACHI ZX870 (K231),,HITACHI,ZX870,Equipment,Installation,AB-352,135 WS,AB 352,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-217,BUCKET TELEHANDLER JCB 540-170,,JCB,540-170,Equipment,Installation,AB-217,135 WS,AB 217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-344,BUCKET TELEHANDLER MANITOU MT932,,MANITOU,MT932,Equipment,Installation,AB-344,135 WS,AB 344,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-360,BUCKET WHEEL LOADER 4.50m≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-360,135 WS,AB 360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-361,BUCKET WHEEL LOADER 4.50m≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-361,135 WS,AB 361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-278,BUCKET WHEEL LOADER 5.00m≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-278,135 WS,AB 278,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-279,BUCKET WHEEL LOADER 5.00m≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-279,135 WS,AB 279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-253,BUCKET WHEEL LOADER 5.00m≥ VOLVO L220H,3053809,VOLVO,L220H,Equipment,Installation,AB-253,135 WS,AB 253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-254,BUCKET WHEEL LOADER 5.00m≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-254,135 WS,AB 254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-249,BUCKET WHEEL LOADER 5.00m≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-249,135 WS,AB 249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-321,BUCKET WHEEL LOADER 5.0m≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-321,135 WS,AB 321,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-273,BUCKET WHEEL LOADER 6.90m≥ VOLVO L350H,3054356,VOLVO,L350H,Equipment,Installation,AB-273,135 WS,AB 273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-360,BUCKET WHEEL LOADER 4.50m¬≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-360,135 WS,AB 360,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-361,BUCKET WHEEL LOADER 4.50m¬≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-361,135 WS,AB 361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-278,BUCKET WHEEL LOADER 5.00m¬≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-278,135 WS,AB 278,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-279,BUCKET WHEEL LOADER 5.00m¬≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-279,135 WS,AB 279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-253,BUCKET WHEEL LOADER 5.00m¬≥ VOLVO L220H,3053809,VOLVO,L220H,Equipment,Installation,AB-253,135 WS,AB 253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-254,BUCKET WHEEL LOADER 5.00m¬≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-254,135 WS,AB 254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-249,BUCKET WHEEL LOADER 5.00m¬≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-249,135 WS,AB 249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-321,BUCKET WHEEL LOADER 5.0m¬≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-321,135 WS,AB 321,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-273,BUCKET WHEEL LOADER 6.90m¬≥ VOLVO L350H,3054356,VOLVO,L350H,Equipment,Installation,AB-273,135 WS,AB 273,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-126,BUCKET WHEEL LOADER CATERPILLAR 980,WHEEL LOADER BUCKET,CATERPILLAR,980,Equipment,Installation,AB-126,135 WS,AB 126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-014,BUCKET WHEEL LOADER CATERPILLAR 980,WHEELLOADER BUCKET CAT980,CATERPILLAR,980,Equipment,Installation,AB-014,135 WS,AB 014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-304,BUCKET WHEEL LOADER HD 4.50m≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-304,135 WS,AB 304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-304,BUCKET WHEEL LOADER HD 4.50m¬≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-304,135 WS,AB 304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-030,BUCKET WHEEL LOADER HITACHI ZW310,WHEELLOADER BUCKET ZW310,,,Equipment,Installation,AB-030,210 WS,AB 030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-031,BUCKET WHEEL LOADER HITACHI ZW310,WHEELLOADER BUCKET ZW310,,,Equipment,Installation,AB-031,210 WS,AB 031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-035,BUCKET WHEEL LOADER HITACHI ZW310,WHEELLOADER BUCKET ZW310,HITACHI,ZW310-5A,Equipment,Installation,AB-035,135 WS,AB 035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -3533,15 +3535,15 @@ ASSET_DATA,AB-312,BUCKET WHEEL LOADER PIPE CLAMP CATERPILLAR 980,,CATERPILLAR,98
 ASSET_DATA,AB-207,BUCKET WHEEL LOADER PIPE CLAMP QC CATERPILLAR 980,,CATERPILLAR,980,Equipment,Installation,AB-207,135 WS,AB 207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-266,BUCKET WHEEL LOADER QC HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-266,135 WS,AB 266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-210,BUCKET WHEEL LOADER QC HITACHI ZW370,,HITACHI,ZW370-5A,Equipment,Installation,AB-210,135 WS,AB 210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-263,BUCKET WHEEL LOADER ROCK 4.50m≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-263,135 WS,AB 263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-256,BUCKET WHEEL LOADER ROCK 4.50m≥ HITACHI ZW310,4.5m≥ STANDARD BUCKET,HITACHI,ZW310-5A,Equipment,Installation,AB-256,135 WS,AB 256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-257,BUCKET WHEEL LOADER ROCK 4.50m≥ HITACHI ZW310,4.5m≥ STANDARD BUCKET,HITACHI,ZW310-5A,Equipment,Installation,AB-257,135 WS,AB 257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-258,BUCKET WHEEL LOADER ROCK 4.50m≥ HITACHI ZW310,4.5m≥ STANDARD BUCKET,HITACHI,ZW310-5A,Equipment,Installation,AB-258,135 WS,AB 258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-263,BUCKET WHEEL LOADER ROCK 4.50m¬≥ HITACHI ZW310,,HITACHI,ZW310-5A,Equipment,Installation,AB-263,135 WS,AB 263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-256,BUCKET WHEEL LOADER ROCK 4.50m¬≥ HITACHI ZW310,4.5m¬≥ STANDARD BUCKET,HITACHI,ZW310-5A,Equipment,Installation,AB-256,135 WS,AB 256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-257,BUCKET WHEEL LOADER ROCK 4.50m¬≥ HITACHI ZW310,4.5m¬≥ STANDARD BUCKET,HITACHI,ZW310-5A,Equipment,Installation,AB-257,135 WS,AB 257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-258,BUCKET WHEEL LOADER ROCK 4.50m¬≥ HITACHI ZW310,4.5m¬≥ STANDARD BUCKET,HITACHI,ZW310-5A,Equipment,Installation,AB-258,135 WS,AB 258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-282,BUCKET WHEEL LOADER ROCK CATERPILLAR 980,ROCK BUCKET CATERPILLAR 980,CATERPILLAR,980,Equipment,Installation,AB-282,135 WS,AB 282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-032,BUCKET WHEEL LOADER ROCK QC HITACHI ZW310,QUICK CONNECTOR WHEELLOADER ROCK BUCKET ZW310,HITACHI,ZW310-5A,Equipment,Installation,AB-032,135 WS,AB 032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-148,BUCKET WHEEL LOADER SAND CATERPILLAR 980L (K004),WHEEL LOADER SAND BUCKET (K418),CATERPILLAR,980L,Equipment,Installation,AB-148,135 WS,AB 148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-209,BUCKET WHEEL LOADER SAND HITACHI ZW370,L25APZW370-5,HITACHI,ZW370-5A,Equipment,Installation,AB-209,135 WS,AB 209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AB-323,BUCKET WHEEL LOADER SKELETON 4.50m≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-323,135 WS,AB 323,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-323,BUCKET WHEEL LOADER SKELETON 4.50m¬≥ VOLVO L220H,,VOLVO,L220H,Equipment,Installation,AB-323,135 WS,AB 323,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AB-046,BUCKET WHEEL LOADER STANDARD CATERPILLAR 966,WHEEL LOADER BUCKET 966H,CATERPILLAR,966H,Equipment,Installation,AB-046,135 WS,AB 046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,BDO,BULLDOZER,BULLDOZER,,,Equipment,Machine group,,,BDO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,TC70043,BUS MITSUBISHI ROSA MUROOR,1/31192 AE | JL5BHJ6S7SRP25587,MITSUBISHI,ROSA,Equipment,Installation,TC70043,465 WS,TC 70043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -4575,9 +4577,9 @@ ASSET_DATA,15/3-J21,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,S
 ASSET_DATA,15/3-J22,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-J22,220 WS,15 3 J22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-J23,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-J23,220 WS,15 3 J23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-J24,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-J24,220 WS,15 3 J24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-J31,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-J31†††††††††,210 WS,15 3 J31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-J32,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-J32†††††††††,210 WS,15 3 J32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-J33,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-J33†††††††††,210 WS,15 3 J33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-J31,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-J31¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 J31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-J32,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-J32¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 J32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-J33,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-J33¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 J33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-J40,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI,SCX 1500A-3,Equipment,Installation,15/3-J40,220 WS,15 3 J40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-J42,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI,SCX 1500A-3,Equipment,Installation,15/3-J42,220 WS,15 3 J42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-J43,FLY JIB 150T/3 CRANE,FLY JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-J43,210 WS,15 3 J43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -4632,7 +4634,7 @@ ASSET_DATA,15/3-JB06,FLY JIB BOTTOM 150T/3 CRANE,FLY JIB BOTTOM 150T/3 CRANE,,,E
 ASSET_DATA,15/3-JB07,FLY JIB BOTTOM 150T/3 CRANE,FLY JIB BOTTOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-JB07,220 WS,15 3 JB07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JB08,FLY JIB BOTTOM 150T/3 CRANE,FLY JIB BOTTOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JB08,210 WS,15 3 JB08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JB09,FLY JIB BOTTOM 150T/3 CRANE,FLY JIB BOTTOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-JB09,220 WS,15 3 JB09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-JB12,FLY JIB BOTTOM 150T/3 CRANE,FLY JIB BOTTOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JB12††††††††,210 WS,15 3 JB12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-JB12,FLY JIB BOTTOM 150T/3 CRANE,FLY JIB BOTTOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JB12¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 JB12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JB16,FLY JIB BOTTOM 150T/3 CRANE,FLY JIB BOTTOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JB16,210 WS,15 3 JB16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JB17,FLY JIB BOTTOM 150T/3 CRANE,FLY JIB BOTTOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JB17,210 WS,15 3 JB17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JB18,FLY JIB BOTTOM 150T/3 CRANE,6022619 | T55001,HSC CRANES,SCX 1500A-3,Equipment,Installation,15/3-JB18,210 WS,15 3 JB18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -4662,7 +4664,7 @@ ASSET_DATA,15/3-JT06,FLY JIB TOP 150T/3 CRANE,FLY JIB TOP 150T/3 CRANE,HITACHI S
 ASSET_DATA,15/3-JT07,FLY JIB TOP 150T/3 CRANE,FLY JIB TOP 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-JT07,220 WS,15 3 JT07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JT08,FLY JIB TOP 150T/3 CRANE,FLY JIB TOP 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JT08,210 WS,15 3 JT08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JT09,FLY JIB TOP 150T/3 CRANE,FLY JIB TOP 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-JT09,220 WS,15 3 JT09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-JT12,FLY JIB TOP 150T/3 CRANE,FLY JIB TOP 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JT12††††††††,210 WS,15 3 JT12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-JT12,FLY JIB TOP 150T/3 CRANE,FLY JIB TOP 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JT12¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 JT12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JT16,FLY JIB TOP 150T/3 CRANE,FLY JIB TOP 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JT16,210 WS,15 3 JT16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JT17,FLY JIB TOP 150T/3 CRANE,FLY JIB TOP 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-JT17,210 WS,15 3 JT17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-JT18,FLY JIB TOP 150T/3 CRANE,6021908 | T55001,HSC CRANES,SCX 1500A-3,Equipment,Installation,15/3-JT18,210 WS,15 3 JT18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -4756,11 +4758,11 @@ ASSET_DATA,GPS-023,GPS SYSTEM TOPCON MC-MAX,S/N: 1585-01053,TOPCON,MC-MAX,Equipm
 ASSET_DATA,GPS-024,GPS SYSTEM TOPCON MC-MAX,S/N: 1585-01073,TOPCON,MC-MAX,Equipment,Installation,GPS-024,135 WS,GPS 024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,GPS-028,GPS SYSTEM TOPCON MC-MAX,S/N: 1585-01071,TOPCON,MC-MAX,Equipment,Installation,GPS-028,135 WS,GPS 028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,TC90096,GPS SYSTEM TOPCON MCME,GPS SYSTEM TOPCON MCME,TOPCON,MC-MAX,Equipment,Installation,TC90096,135 WS,TC 90096,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,GPS-029,GPS SYSTEM TOPCON Z53-MC≤,S/N: 1446-03690,TOPCON,Z53-MC≤,Equipment,Installation,GPS-029,135 WS,GPS 029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,GPS-030,GPS SYSTEM TOPCON Z53-MC≤,S/N: 1372-15303,TOPCON,Z53-MC≤,Equipment,Installation,GPS-030,135 WS,GPS 030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,GPS-031,GPS SYSTEM TOPCON Z53-MC≤,S/N: 1446-03619,TOPCON,Z53-MC≤,Equipment,Installation,GPS-031,135 WS,GPS 031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,GPS-026,GPS SYSTEM TOPCON Z53-MC≤,S/N: 1555-08867,TOPCON,Z53-MC≤,Equipment,Installation,GPS-026,135 WS,GPS 026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,GPS-027,GPS SYSTEM TOPCON Z53-MC≤,S/N: 1446-03683,TOPCON,Z53-MC≤,Equipment,Installation,GPS-027,135 WS,GPS 027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,GPS-029,GPS SYSTEM TOPCON Z53-MC¬≤,S/N: 1446-03690,TOPCON,Z53-MC¬≤,Equipment,Installation,GPS-029,135 WS,GPS 029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,GPS-030,GPS SYSTEM TOPCON Z53-MC¬≤,S/N: 1372-15303,TOPCON,Z53-MC¬≤,Equipment,Installation,GPS-030,135 WS,GPS 030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,GPS-031,GPS SYSTEM TOPCON Z53-MC¬≤,S/N: 1446-03619,TOPCON,Z53-MC¬≤,Equipment,Installation,GPS-031,135 WS,GPS 031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,GPS-026,GPS SYSTEM TOPCON Z53-MC¬≤,S/N: 1555-08867,TOPCON,Z53-MC¬≤,Equipment,Installation,GPS-026,135 WS,GPS 026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,GPS-027,GPS SYSTEM TOPCON Z53-MC¬≤,S/N: 1446-03683,TOPCON,Z53-MC¬≤,Equipment,Installation,GPS-027,135 WS,GPS 027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,GPS-034,GPS SYSTEM TRIMBLE EARTHWORKS,S/N: 1345J116A5,TRIMBLE,EARTHWORKS ,Equipment,Installation,GPS-034,135 WS,GPS 034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,GPS-035,GPS SYSTEM TRIMBLE EARTHWORKS,S/N: 1355J070A5,TRIMBLE,EARTHWORKS ,Equipment,Installation,GPS-035,135 WS,GPS 035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,GPS-018,GPS SYSTEM TRIMBLE GCS900,S/N: 3332J626SW,TRIMBLE,GCS900,Equipment,Installation,GPS-018,135 WS,GPS 018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -4851,7 +4853,7 @@ ASSET_DATA,150/3-12-14,HOOK BLOCK 12T SCX-1500-3,HOOK BLOCK 12T SCX-1500-3,HITAC
 ASSET_DATA,150/3-12-15,HOOK BLOCK 12T SCX-1500-3,HOOK BLOCK 12T SCX-1500-3,,,Equipment,Installation,150/3-12-15,220 WS,150 3 12 15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-12-16,HOOK BLOCK 12T SCX-1500-3,HOOK BLOCK 12T SCX-1500-3,,,Equipment,Installation,150/3-12-16,220 WS,150 3 12 16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-12-17,HOOK BLOCK 12T SCX-1500-3 ,HOOK BLOCK 12T SCX-1500-3 ,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-12-17,210 WS,150 3 12 17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,150/3-12-18,HOOK BLOCK 12T SCX-1500-3,HOOK BLOCK 12T SCX-1500-3,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-12-18†††††,210 WS,150 3 12 18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,150/3-12-18,HOOK BLOCK 12T SCX-1500-3,HOOK BLOCK 12T SCX-1500-3,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-12-18¬†¬†¬†¬†¬†,210 WS,150 3 12 18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-12-19,HOOK BLOCK 12T SCX-1500-3,HOOK BLOCK 12T SCX-1500-3,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-12-19,210 WS,150 3 12 19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-12-2,HOOK BLOCK 12T SCX-1500-3,HOOK BLOCK 12T SCX-1500-3,,,Equipment,Installation,150/3-12-2,210 WS,150 3 12 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-12-25,HOOK BLOCK 12T SCX-1500-3,HOOK BLOCK 12T SCX-1500-3,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-12-25,210 WS,150 3 12 25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -5010,8 +5012,8 @@ ASSET_DATA,150/3-80-15,HOOK BLOCK 80T SCX-1500-3,HOOK BLOCK 80T SCX-1500-3,,,Equ
 ASSET_DATA,150/3-12-24,HOOK BLOCK 80T SCX-1500-3,HOOK BLOCK 80T SCX-1500-3,HSC CRANES,SCX 1500A-3,Equipment,Installation,150/3-12-24,210 WS,150 3 12 24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-12-22,HOOK BLOCK 80T SCX-1500-3,HOOK BLOCK 80T SCX-1500-3,HSC CRANES,SCX 1500A-3,Equipment,Installation,150/3-12-22,210 WS,150 3 12 22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-80-16,HOOK BLOCK 80T SCX-1500-3,HOOK BLOCK 80T SCX-1500-3,,,Equipment,Installation,150/3-80-16,220 WS,150 3 80 16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,150/3-80-17†,HOOK BLOCK 80T SCX-1500-3 ,HOOK BLOCK 80T SCX-1500-3 ,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-80-17†,210 WS,150 3 80 17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,150/3-80-18,HOOK BLOCK 80T SCX-1500-3,HOOK BLOCK 80T SCX-1500-3,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-80-18†††††,210 WS,150 3 80 18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,150/3-80-17¬†,HOOK BLOCK 80T SCX-1500-3 ,HOOK BLOCK 80T SCX-1500-3 ,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-80-17¬†,210 WS,150 3 80 17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,150/3-80-18,HOOK BLOCK 80T SCX-1500-3,HOOK BLOCK 80T SCX-1500-3,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-80-18¬†¬†¬†¬†¬†,210 WS,150 3 80 18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-80-19,HOOK BLOCK 80T SCX-1500-3,HOOK BLOCK 80T SCX-1500-3,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-80-19,210 WS,150 3 80 19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-80-2,HOOK BLOCK 80T SCX-1500-3,HOOK BLOCK 80T SCX-1500-3,,,Equipment,Installation,150/3-80-2,210 WS,150 3 80 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,150/3-80-20,HOOK BLOCK 80T SCX-1500-3,HOOK BLOCK 80T SCX-1500-3,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,150/3-80-20,210 WS,150 3 80 20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -5092,7 +5094,7 @@ ASSET_DATA,AMS_ROOF005,KROFTMAN ROOF STRUCTURE 40FT,KROFTMAN ROOF STRUCTURE 40FT
 ASSET_DATA,AMS_ROOF001,KROFTMAN ROOF STRUCTURE 40FT,KROFTMAN ROOF STRUCTURE 40FT,KROFTMAN,40FT,Equipment,Installation,AMS_ROOF001,135 WS,AMS ROOF 001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,AMS_ROOF006,KROFTMAN ROOF STRUCTURE 40FT (WITHOUT AMS BRANDING),KROFTMAN ROOF STRUCTURE 40FT (WITHOUT AMS BRANDING),KROFTMAN,40FT,Equipment,Installation,AMS_ROOF006,135 WS,AMS ROOF 006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,TW-001,KSBEW-40S BATTERY POWERED TORQUE WRENCH,KSBEW-40S BATTERY POWERED TORQUE WRENCH,KASHON,KSBEW-40S,Equipment,Installation,,135 WS,TW 001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,AT-LCM-001,"LASER CLEANING MACHINE ó TSQ3000, 3000W, 380V (JINAN GOLD MARK)",S/N; 2022103101AS,GOLD MARK,TSQ3000,Equipment,Installation,,,AT LCM 001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AT-LCM-001,"LASER CLEANING MACHINE ‚Äî TSQ3000, 3000W, 380V (JINAN GOLD MARK)",S/N; 2022103101AS,GOLD MARK,TSQ3000,Equipment,Installation,,,AT LCM 001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,ACY-588,LH CYLINDER LIFT CATERPILLAR D6R,GB- 606-7149,CATERPILLAR,D6R LGP,Equipment,Installation,ACY-588,135 WS,ACY 588,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,ACY-597,LH CYLINDER LIFT CATERPILLAR D6R,GB- 606-7149,CATERPILLAR,D6R LGP,Equipment,Installation,ACY-597,135 WS,ACY 597,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,LIEB_MCAT,LIEBHERR MCAT,LIEBHERR MCAT,,,Equipment,Machine group,,,LIEB MCAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -5445,7 +5447,7 @@ ASSET_DATA,15/3-SJ14,SHORT JIB 150T/3 CRANE,SHORT JIB 150T/3 CRANE,HITACHI SUMIT
 ASSET_DATA,15/3-SJ15,SHORT JIB 150T/3 CRANE,SHORT JIB 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-SJ15,220 WS,15 3 SJ15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-SJ16,SHORT JIB 150T/3 CRANE,SHORT JIB 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-SJ16,220 WS,15 3 SJ16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-SJ17,SHORT JIB 150T/3 CRANE,SHORT JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-SJ17,210 WS,15 3 SJ17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-SJ18,SHORT JIB 150T/3 CRANE,SHORT JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-SJ18††††††††,210 WS,15 3 SJ18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-SJ18,SHORT JIB 150T/3 CRANE,SHORT JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-SJ18¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 SJ18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-SJ19,SHORT JIB 150T/3 CRANE,SHORT JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-SJ19,210 WS,15 3 SJ19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-SJ20,SHORT JIB 150T/3 CRANE,SHORT JIB 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-SJ20,210 WS,15 3 SJ20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-SJ21,SHORT JIB 150T/3 CRANE,SHORT JIB 150T/3 CRANE,HSC CRANES,SCX 1500A-3,Equipment,Installation,15/3-SJ21,210 WS,15 3 SJ21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -5759,7 +5761,7 @@ ASSET_DATA,15/3-T14,TOP BOOM 150T/3 CRANE,TOP BOOM 150T/3 CRANE,HITACHI SUMITOMO
 ASSET_DATA,15/3-T15,TOP BOOM 150T/3 CRANE,TOP BOOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-T15,220 WS,15 3 T15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-T16,TOP BOOM 150T/3 CRANE,TOP BOOM 150T/3 CRANE,HITACHI SUMITOMO,,Equipment,Installation,15/3-T16,220 WS,15 3 T16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-T17,TOP BOOM 150T/3 CRANE,TOP BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-T17,210 WS,15 3 T17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
-ASSET_DATA,15/3-T18,TOP BOOM 150T/3 CRANE,TOP BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-T18†††††††††,210 WS,15 3 T18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,15/3-T18,TOP BOOM 150T/3 CRANE,TOP BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-T18¬†¬†¬†¬†¬†¬†¬†¬†¬†,210 WS,15 3 T18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-T19,TOP BOOM 150T/3 CRANE,TOP BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-T19,210 WS,15 3 T19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-T20,TOP BOOM 150T/3 CRANE,TOP BOOM 150T/3 CRANE,HITACHI SUMITOMO,SCX 1500A-3,Equipment,Installation,15/3-T20,210 WS,15 3 T20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,15/3-T21,TOP BOOM 150T/3 CRANE,40008588 | YLT54003,HSC CRANES,SCX 1500A-3,Equipment,Installation,15/3-T21,210 WS,15 3 T21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
@@ -5885,6 +5887,8 @@ ASSET_DATA,ZX670-5,ZX670-5,ZX670-5,,,Equipment,Machine group,,,ZX 670 5,,,,,,,,,
 ASSET_DATA,ZX870-5,ZX870-5,ZX870-5,,,Equipment,Machine group,,,ZX 870 5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,EXC-001,ZX870-ZX470 CONVERSION FLANGE ACF-001,0064919,HITACHI,ZX470-5G,Equipment,Installation,ACF-001,135 WS,EXC 001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 ASSET_DATA,EXC-002,ZX870-ZX470 CONVERSION FLANGE ACF-002,ZX870-ZX470 CONVERSION FLANGE,HITACHI,ZX470-5G,Equipment,Installation,ACF-002,135 WS,EXC 002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-368,BUCKET EXCAVATOR 1.10m·∂ü HITACHI ZX220,BUCKET EXCAVATOR 1.10m·∂ü HITACHI ZX220,HITACHI,ZX220LC,Equipment,Installation,AB-368,135 WS,AB 368,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
+ASSET_DATA,AB-369,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,BUCKET EXCAVATOR 2.25m·∂ü STANDARD HITACHI ZX470,HITACHI,ZX470-5G,Equipment,Installation,AB-369,135 WS,AB 369,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ASSET_DATA,Sheet,FALSE
 SUPPLIER_EMAIL,SettingKey,SettingValue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUPPLIER_EMAIL,Sheet,FALSE
 SUPPLIER_EMAIL,SUPPLIER_FACING_EMAIL_ENABLED,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUPPLIER_EMAIL,Sheet,FALSE
 SUPPLIER_EMAIL,MONTHLY_PO_INSTRUCTION_ENABLED,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SUPPLIER_EMAIL,Sheet,FALSE
@@ -6066,7 +6070,7 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000191,J191,NMDC - Al Yasat Isl. 280Te,ca,-
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,1 Overhead_02_42,,AMS AD Workshop + office,ca,-135-1 Overhead_02_42----,1 Overhead_02,InProcess,1 Overhead_02_42 | AMS AD Workshop + office,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,2 Project_02,,AMS AD,ca,-135-2 Project_02--99-999-,,InProcess,2 Project_02 | AMS AD,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,2 Project_02_42,,FAC Proj AMS AD,ca,-135-2 Project_02_42--99-999-,2 Project_02,InProcess,2 Project_02_42 | FAC Proj AMS AD,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
-T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000043,R43,NMDC ñ NISI (Taweelah),ca,-135-R00000043--99-999-,,InProcess,R00000043 | NMDC ñ NISI (Taweelah) | R43,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000043,R43,NMDC ‚Äì NISI (Taweelah),ca,-135-R00000043--99-999-,,InProcess,R00000043 | NMDC ‚Äì NISI (Taweelah) | R43,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000195,J195,Penta Global - Zirku Island,ca,-210-J00000195--99-999-,,InProcess,J00000195 | Penta Global - Zirku Island | J195,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J_Yard,,J_Yard (operator hrs Yard),ca,-210-J_Yard----,,InProcess,J_Yard | J_Yard (operator hrs Yard),,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J_Workshop,,J_Workshop (mechanic hrs Yard),ca,-210-J_Workshop----,,InProcess,J_Workshop | J_Workshop (mechanic hrs Yard),,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
@@ -6133,7 +6137,7 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000123,R123,SAIPEM - Hail & Gasha,ca,-135-R
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000124,R124,Target - Al Sahil Project,ca,-135-R00000124--99-999-,,InProcess,R00000124 | Target - Al Sahil Project | R124,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000128,R128,DAEWOO - Immersed Tunnel Iraq,ca,-135-R00000128--99-999-,,InProcess,R00000128 | DAEWOO - Immersed Tunnel Iraq | R128,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,T00000001,,AMS EM - Special External Transportation,ca,-135-T00000001--99-999-,,InProcess,T00000001 | AMS EM - Special External Transportation,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
-T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000268,J268,NMDC LTS - LNG ñ Ruwais,ca,-210-J00000268--99-999-,,InProcess,J00000268 | NMDC LTS - LNG ñ Ruwais | J268,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000268,J268,NMDC LTS - LNG ‚Äì Ruwais,ca,-210-J00000268--99-999-,,InProcess,J00000268 | NMDC LTS - LNG ‚Äì Ruwais | J268,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000269,J269,NSH - Harvest Ammonia Project,ca,-210-J00000269--99-999-,,InProcess,J00000269 | NSH - Harvest Ammonia Project | J269,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000135,R135,Van Oord - Umm Suqeim,ca,-135-R00000135--99-999-,,InProcess,R00000135 | Van Oord - Umm Suqeim | R135,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000136,R136,NMDC - Hudariyat,ca,-135-R00000136--99-999-,,InProcess,R00000136 | NMDC - Hudariyat | R136,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
@@ -6288,7 +6292,7 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,2 Project_24_10_004,,E-Invoicing,Overhead proj
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000036,R36,Boskalis - Oxagon Port,Boskalis Westminster Al-Ruishaid Co. LTD,Brecht Verbrugge,,In progress,R00000036 | Boskalis - Oxagon Port | R36,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000069,R69,Sixco - MBL JV Oxagon Demolition,SIXCO MBL JV,De Bruin Josephus Gerardus Franciscus,,In progress,R00000069 | Sixco - MBL JV Oxagon Demolition | R69,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000078,R78,MBL - Jeddah,Modern Building Leaders Co. Ltd,Gunnar Van Den Berg,,In progress,R00000078 | MBL - Jeddah | R78,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
-T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000091,R91,WEBUILD ñ Trojena Dam Project,Webuild S.p.A,Gunnar Van Den Berg,,In progress,R00000091 | WEBUILD ñ Trojena Dam Project | R91,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000091,R91,WEBUILD ‚Äì Trojena Dam Project,Webuild S.p.A,Gunnar Van Den Berg,,In progress,R00000091 | WEBUILD ‚Äì Trojena Dam Project | R91,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000098,R98,ALISHAR - Pipeline Project KSA,Ali Shar Contracting Company,Stephan Eeckhout,,In progress,R00000098 | ALISHAR - Pipeline Project KSA | R98,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000121,R121,SBGJV - Amaala Project,SBG Main JV,Stephan Eeckhout,,In progress,R00000121 | SBGJV - Amaala Project | R121,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000130,R130,Saipem - LTA 138,SNAMPROGETTI SAUDI ARABIA COMPANY LIMITED,Stephan Eeckhout,,In progress,R00000130 | Saipem - LTA 138 | R130,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
@@ -6304,7 +6308,7 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000026,J26,Mobilift - Oman (other),ca,Mobil
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000039,J39,Mobilift - Sohar,ca,Mobilift & Partners LLC,Robbert-Jan Willems,Finished (Operationally ended),J00000039 | Mobilift - Sohar | J39,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000050,J50,Mobilift - Duqm Oman,ca,Mobilift & Partners LLC,Robbert-Jan Willems,Finished (Operationally ended),J00000050 | Mobilift - Duqm Oman | J50,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000074,J74,NMDC - Hail and Gashha,ca,NMDC GROUP - P.J.S.C,Robbert-Jan Willems,Finished (Operationally ended),J00000074 | NMDC - Hail and Gashha | J74,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
-T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000141,J141,NMDC - Shamal Development Marine Works ñ Khalifa Port,ca,NMDC GROUP - P.J.S.C,Robbert-Jan Willems,Finished (Operationally ended),J00000141 | NMDC - Shamal Development Marine Works ñ Khalifa Port | J141,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000141,J141,NMDC - Shamal Development Marine Works ‚Äì Khalifa Port,ca,NMDC GROUP - P.J.S.C,Robbert-Jan Willems,Finished (Operationally ended),J00000141 | NMDC - Shamal Development Marine Works ‚Äì Khalifa Port | J141,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000158,J158,NMDC - SIR BANIYAS BRIDGE WORKS PROJECT,ca,NMDC GROUP - P.J.S.C,Lowie De Lombaerde,Finished (Operationally ended),J00000158 | NMDC - SIR BANIYAS BRIDGE WORKS PROJECT | J158,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000196,J196,Adnoc Drilling - Asseifiya Island,ca,Adnoc Drilling,Lowie De Lombaerde,Finished (Operationally ended),J00000196 | Adnoc Drilling - Asseifiya Island | J196,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000230,J230,Motorway - Hail & Gasha,ca,Motor Way General Transport-L.L.C,Robbert-Jan Willems,Finished (Operationally ended),J00000230 | Motorway - Hail & Gasha | J230,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
@@ -6320,13 +6324,13 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000305,J305,Lamprell - Jebel Ali Yard,ca,La
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,J00000306,J306,Probus - Asab Sahil Waterpipeline,ca,Probus Engineering and Construction LLC,Jorge Alejandro Vasquez Balcazar,In process,J00000306 | Probus - Asab Sahil Waterpipeline | J306,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000002,R2,NMDC - Khalifa Port,ac,NMDC GROUP - P.J.S.C,Stephan Eeckhout,Hold,R00000002 | NMDC - Khalifa Port | R2,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000003,R3,SAIPEM - Berri Downsteam Pipeline,ac,Saipem S.p.A,Stephan Eeckhout,Hold,R00000003 | SAIPEM - Berri Downsteam Pipeline | R3,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
-T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000004,R4,VAN OORD - ZX870?Ijzeren Hein?KSA,ac,VOME Saudi,Stephan Eeckhout,Hold,R00000004 | VAN OORD - ZX870?Ijzeren Hein?KSA | R4,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000004,R4,VAN OORD - ZX870‚ÄêIjzeren Hein‚ÄêKSA,ac,VOME Saudi,Stephan Eeckhout,Hold,R00000004 | VAN OORD - ZX870‚ÄêIjzeren Hein‚ÄêKSA | R4,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000005,R5,NMDC - Al Dafra,ac,Overhead projects,Stephan Eeckhout,Hold,R00000005 | NMDC - Al Dafra | R5,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000006,R6,NMDC - Sir Bani Yas,ac,NMDC GROUP - P.J.S.C,Stephan Eeckhout,Hold,R00000006 | NMDC - Sir Bani Yas | R6,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000007,R7,Al Sayad Transport LLC - Fujairah Harbour,ac,Al Sayad Transport & Contracting LLC,Stephan Eeckhout,Hold,R00000007 | Al Sayad Transport LLC - Fujairah Harbour | R7,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000008,R8,Divers Marine Contracting - Um al Qasar,ac,Divers Marine Contracting LLC,Stephan Eeckhout,Hold,R00000008 | Divers Marine Contracting - Um al Qasar | R8,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000012,R12,Van Oord - Ras Laffan pedestal & 870 on barge rental,ac,Aertssen Machinery Services WLL,Stephan Eeckhout,Hold,R00000012 | Van Oord - Ras Laffan pedestal & 870 on barge rental | R12,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
-T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000015,R15,Besix STVA - Poti ñ Georgia,ac,N.V. Besix SA Branch Georgia,Stephan Eeckhout,Hold,R00000015 | Besix STVA - Poti ñ Georgia | R15,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000015,R15,Besix STVA - Poti ‚Äì Georgia,ac,N.V. Besix SA Branch Georgia,Stephan Eeckhout,Hold,R00000015 | Besix STVA - Poti ‚Äì Georgia | R15,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000020,R20,NMDC - Hail & Ghasha,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R00000020 | NMDC - Hail & Ghasha | R20,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000021,R21,PLC - Shamal Project,ac,PLC Contracting llc,Stephan Eeckhout,Hold,R00000021 | PLC - Shamal Project | R21,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000022,R22,NMDC - Al Shamal Development,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R00000022 | NMDC - Al Shamal Development | R22,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
@@ -6335,7 +6339,7 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000024,R24,NMDC - SBY VVIP villla beach,ca,
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000025,R25,NMDC - GHANTOOT NAVAL BASE,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R00000025 | NMDC - GHANTOOT NAVAL BASE | R25,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000027,R27,NMDC - Hudariyat,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R00000027 | NMDC - Hudariyat | R27,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000032,R32,Van Oord - Jubail,ac,Van Oord Middle East Ltd,Stephan Eeckhout,Hold,R00000032 | Van Oord - Jubail | R32,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
-T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000038,R38,NMDC ñ Delma island raiser scope,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R00000038 | NMDC ñ Delma island raiser scope | R38,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000038,R38,NMDC ‚Äì Delma island raiser scope,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R00000038 | NMDC ‚Äì Delma island raiser scope | R38,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000046,R46,NMDC - Emirates Palace,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R00000046 | NMDC - Emirates Palace | R46,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000050,R50,NMDC - Massnoua Island,ca,NMDC GROUP - P.J.S.C,Wietse Schaefer,Finished (Operationally ended),R00000050 | NMDC - Massnoua Island | R50,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000074,R74,NMDC - Saudi Aramco KSA,ac,NMDC GROUP - P.J.S.C,Wietse Schaefer,In process,R00000074 | NMDC - Saudi Aramco KSA | R74,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
@@ -6376,7 +6380,7 @@ T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000161,J161,NMDC - Hudariyat,,,,,,J00000161 |
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000174,J174,NSH - Borouge 4,,,,,,J00000174 | J174 | NSH - Borouge 4,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000186,J186,NPCC - Musaffah Yard 300Te,,,,,,J00000186 | J186 | NPCC - Musaffah Yard 300Te,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000191,J191,NMDC - Al Yasat Isl. 280Te,,,,,,J00000191 | J191 | NMDC - Al Yasat Isl. 280Te,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
-T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000043,R43,NMDC ñ NISI (Taweelah),,,,,,R00000043 | R43 | NMDC ñ NISI (Taweelah),,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000043,R43,NMDC ‚Äì NISI (Taweelah),,,,,,R00000043 | R43 | NMDC ‚Äì NISI (Taweelah),,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000195,J195,Penta Global - Zirku Island,,,,,,J00000195 | J195 | Penta Global - Zirku Island,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000197,J197,NMDC - Taweelah Ramhan Project,,,,,,J00000197 | J197 | NMDC - Taweelah Ramhan Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000204,J204,ST JV - Guggenheim Abu Dhabi,,,,,,J00000204 | J204 | ST JV - Guggenheim Abu Dhabi,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
@@ -6404,7 +6408,7 @@ T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000259,J259,Motor Way - Taziz,,,,,,J00000259 
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000123,R123,SAIPEM - Hail & Gasha,,,,,,R00000123 | R123 | SAIPEM - Hail & Gasha,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000124,R124,Target - Al Sahil Project,,,,,,R00000124 | R124 | Target - Al Sahil Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000128,R128,DAEWOO - Immersed Tunnel Iraq,,,,,,R00000128 | R128 | DAEWOO - Immersed Tunnel Iraq,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
-T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000268,J268,NMDC LTS - LNG ñ Ruwais,,,,,,J00000268 | J268 | NMDC LTS - LNG ñ Ruwais,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000268,J268,NMDC LTS - LNG ‚Äì Ruwais,,,,,,J00000268 | J268 | NMDC LTS - LNG ‚Äì Ruwais,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000269,J269,NSH - Harvest Ammonia Project,,,,,,J00000269 | J269 | NSH - Harvest Ammonia Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000135,R135,Van Oord - Umm Suqeim,,,,,,R00000135 | R135 | Van Oord - Umm Suqeim,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000136,R136,NMDC - Hudariyat,,,,,,R00000136 | R136 | NMDC - Hudariyat,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
@@ -6483,7 +6487,7 @@ T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000300,J300,DSV - Habshan,,,,,,J00000300 | J3
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000036,R36,Boskalis - Oxagon Port,,,,,,R00000036 | R36 | Boskalis - Oxagon Port,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000069,R69,Sixco - MBL JV Oxagon Demolition,,,,,,R00000069 | R69 | Sixco - MBL JV Oxagon Demolition,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000078,R78,MBL - Jeddah,,,,,,R00000078 | R78 | MBL - Jeddah,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
-T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000091,R91,WEBUILD ñ Trojena Dam Project,,,,,,R00000091 | R91 | WEBUILD ñ Trojena Dam Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000091,R91,WEBUILD ‚Äì Trojena Dam Project,,,,,,R00000091 | R91 | WEBUILD ‚Äì Trojena Dam Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000098,R98,ALISHAR - Pipeline Project KSA,,,,,,R00000098 | R98 | ALISHAR - Pipeline Project KSA,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000121,R121,SBGJV - Amaala Project,,,,,,R00000121 | R121 | SBGJV - Amaala Project,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,R00000130,R130,Saipem - LTA 138,,,,,,R00000130 | R130 | Saipem - LTA 138,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
@@ -6703,7 +6707,7 @@ T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aby Joseph,Aertssen Machinery Services
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aamir Arfat,Aertssen Machinery Services,aamir.arfat@aertssen.be,AMS - Oman,Supervisor,AAAR,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reinhardt Kirsten,Aertssen Machinery Services,reinhardt.kirsten@aertssen.be,,Expat Mechanic,REKI,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tony Sebastian,Aertssen Machinery Services,tony.sebastian@aertssen.be,AMS - Duba,Store Keeper,TOSE,,,,,,,,,,T_REQUESTER,Table,FALSE
-T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Merwin Saldana,Aertssen Machinery Services,merwin.saldana@aertssen.be,AMS - Abu Dhabi,Operations Coordinator ñ Crewing,MESA,,,,,,,,,,T_REQUESTER,Table,FALSE
+T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Merwin Saldana,Aertssen Machinery Services,merwin.saldana@aertssen.be,AMS - Abu Dhabi,Operations Coordinator ‚Äì Crewing,MESA,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nour Kabour,Aertssen Machinery Services,nour.kabour@aertssen.be,AMS - Abu Dhabi,QHSE Officer - Intern,NOKA,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ivo Zerp,Aertssen Machinery Services,ivo.zerp@aertssen.be,AMS - Abu Dhabi,Expat Mechanic,IVZE,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nelson Vargas,Aertssen Machinery Services,nelson.vargas@aertssen.be,AMS - Abu Dhabi,Expat Mechanic,NEVA,,,,,,,,,,T_REQUESTER,Table,FALSE
@@ -6726,6 +6730,8 @@ T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jerin Johnson,Aertssen Machinery S
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dennis Ort,Aertssen Machinery Services,dennis.ort@aertssen.be,AMS - Abu Dhabi,Warehouse Manager,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sheila Ararao,Aertssen Machinery Services,sheila.ararao@aertssen.be,AMS - Duba,Workshop / Procurement Officer,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rahul Vishwakarma,Aertssen Machinery Services,rahul.vishwakarma@aertssen.be,AMS - Duba,Workshop Admin,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
+T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tony Sebastian,Aertssen Machinery Services,tony.sebastian@aertssen.be,AMS - Duba,Store Keeper,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
+T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Shinjo Joy,Aertssen Machinery Services,shinjo.joy@aertssen.be,AMS - Abu Dhabi,,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not applicable,,Not applicable,,,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
 T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ashish Rana,Aertssen Machinery Services,ashish.rana@aertssen.be,AMS Abu Dhabi,Procurement Administrator,,,,,,,,,,,T_BUYER,Table,FALSE
 T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sunil Singh,Aertssen Machinery Services,sunil.singh@aertssen.be,USER: AMS AD,Procurement Officer,,,,,,,,,,,T_BUYER,Table,FALSE
@@ -6759,8 +6765,8 @@ T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,km,kilometer,kilometer,,T_Unit,T
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l,liter,liter,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l 1.000,1.000 liter,1.000 liter,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,m,meter,meter,,T_Unit,Table,FALSE
-T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,m≤,square meter,square meter,,T_Unit,Table,FALSE
-T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,m≥,cubic meter,cubic meter,,T_Unit,Table,FALSE
+T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,m¬≤,square meter,square meter,,T_Unit,Table,FALSE
+T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,m¬≥,cubic meter,cubic meter,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mth,month,month,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,night,night,night,,T_Unit,Table,FALSE
 T_Unit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pcs,Pieces,Pieces,,T_Unit,Table,FALSE
@@ -6832,6 +6838,8 @@ T_DISTRIBUTION_LIST,,,,,,,,,,,AC,"Aertssen Machinery Services Ltd, CYPRUS",,BU 1
 T_DISTRIBUTION_LIST,,,,,,,,,,,CQ,AMS Qatar,,BU 220,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_DISTRIBUTION_LIST,Table,FALSE
 T_DISTRIBUTION_LIST,,,,,,,,,,,SG,"Aertssen Machinery Services Asia Pacific Pte Ltd, SINGAPORE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_DISTRIBUTION_LIST,Table,FALSE
 T_Data_Source_Version,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Data,,,T_Data_Source_Version,Table,FALSE
+T_ASSET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ASSET,Table,FALSE
+T_ASSET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ASSET,Table,FALSE
 T_ASSET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ASSET,Table,FALSE
 T_ASSET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ASSET,Table,FALSE
 T_ASSET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ASSET,Table,FALSE
