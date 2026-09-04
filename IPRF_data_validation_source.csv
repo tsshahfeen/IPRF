@@ -820,6 +820,7 @@ REQUESTER,Ivo Zerp,Aertssen Machinery Services,ivo.zerp@aertssen.be,AMS - Abu Dh
 REQUESTER,Nelson Vargas,Aertssen Machinery Services,nelson.vargas@aertssen.be,AMS - Abu Dhabi,Expat Mechanic,NEVA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Ramy Elmasry,Aertssen Machinery Services,Ramy.Aertssen@be,AMS - Abu Dhabi,Expat Mechanic,RAEL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Sam Charles,Aertssen Machinery Services,sam.charles@aertssen.be,AMS - Abu Dhabi,Internal Inspector,SACH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
+REQUESTER,Angela Seco,Aertssen Machinery Services,angela.seco@aertssen.be,AMS - Abu Dhabi,Procurement Administrator,ANSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 WAREHOUSE REP,DisplayName,CompanyName,EmailAddress,OfficeLocation,JobTitle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
 WAREHOUSE REP,Imam Santoso,Aertssen Machinery Services,imam.santoso@aertssen.be,AMS - Abu Dhabi,Store Keeper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
 WAREHOUSE REP,Sumith Lal,Aertssen Machinery Services,sumith.lal@aertssen.be,AMS - Duba,Store Picker,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
@@ -855,6 +856,7 @@ BUYER,Jerry Girinivas,Aertssen Machinery Services WLL,jerry.girinivas@aertssen.b
 BUYER,Ryan Perez,Aertssen Machinery Services,ryan.perez@aertssen.be,AMS - Abu Dhabi,Sr. Workshop Admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
 BUYER,Laiju Sundar,Aertssen Machinery Services,laiju.sundar@aertssen.be,AMS - Abu Dhabi,Teamlead Procurement & Admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
 BUYER,Sheila Ararao,Aertssen Machinery Services,sheila.ararao@aertssen.be,AMS - Duba,Workshop / Procurement Officer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
+BUYER,Angela Seco,Aertssen Machinery Services,angela.seco@aertssen.be,AMS - Abu Dhabi,Procurement Administrator,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
 BUYER,Not applicable,,Not applicable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUYER,Sheet,FALSE
 PRIORITY,Priority,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
 PRIORITY,Breakdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PRIORITY,Sheet,FALSE
@@ -943,7 +945,7 @@ ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Astron Certificat
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",ADNOC Technical Academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",EdTech Training and Consultancy – Sole Proprietorship LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",National Center for Management & Training,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
-ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",Supplier to declare -- Do not use,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
+ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",ECOSAFE TRAINING AND CONSUL TANCY SOLE PROPRIETORSHIP LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 DISTRIBUTION_LIST,Entity,Entity name,BU,BU Name,Procurement Email,Warehouse Email,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 135,Earth Moving,procurement.ams.ae@aertssen.be,warehouse135.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 210,Cranes,procurement.ams.ae@aertssen.be,warehouse210.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
@@ -6714,6 +6716,7 @@ T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ivo Zerp,Aertssen Machinery Services,i
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nelson Vargas,Aertssen Machinery Services,nelson.vargas@aertssen.be,AMS - Abu Dhabi,Expat Mechanic,NEVA,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ramy Elmasry,Aertssen Machinery Services,Ramy.Aertssen@be,AMS - Abu Dhabi,Expat Mechanic,RAEL,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sam Charles,Aertssen Machinery Services,sam.charles@aertssen.be,AMS - Abu Dhabi,Internal Inspector,SACH,,,,,,,,,,T_REQUESTER,Table,FALSE
+T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angela Seco,Aertssen Machinery Services,angela.seco@aertssen.be,AMS - Abu Dhabi,Procurement Administrator,ANSE,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Imam Santoso,Aertssen Machinery Services,imam.santoso@aertssen.be,AMS - Abu Dhabi,Store Keeper,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sumith Lal,Aertssen Machinery Services,sumith.lal@aertssen.be,AMS - Duba,Store Picker,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Darwin Vincent,Aertssen Machinery Services,darwin.vincent@aertssen.be,AMS - Duba,Store Picker,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
@@ -6747,6 +6750,7 @@ T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jerry Girinivas,Aertssen Machinery Service
 T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ryan Perez,Aertssen Machinery Services,ryan.perez@aertssen.be,AMS - Abu Dhabi,Sr. Workshop Admin,,,,,,,,,,,T_BUYER,Table,FALSE
 T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Laiju Sundar,Aertssen Machinery Services,laiju.sundar@aertssen.be,AMS - Abu Dhabi,Teamlead Procurement & Admin,,,,,,,,,,,T_BUYER,Table,FALSE
 T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sheila Ararao,Aertssen Machinery Services,sheila.ararao@aertssen.be,AMS - Duba,Workshop / Procurement Officer,,,,,,,,,,,T_BUYER,Table,FALSE
+T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angela Seco,Aertssen Machinery Services,angela.seco@aertssen.be,AMS - Abu Dhabi,Procurement Administrator,,,,,,,,,,,T_BUYER,Table,FALSE
 T_BUYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not applicable,,Not applicable,,,,,,,,,,,,,T_BUYER,Table,FALSE
 T_Priority,,,,,,,,,,,,,,,,,,Breakdown,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
 T_Priority,,,,,,,,,,,,,,,,,,Normal,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Priority,Table,FALSE
