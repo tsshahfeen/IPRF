@@ -472,6 +472,13 @@ PROJECTS,R00000214,"CPL (ITD) - Varsha, India",cr,Cemindia Project Limited,Wiets
 PROJECTS,R00000215,Probus - Asab Sahil Waterpipeline,ca,Probus Engineering and Construction LLC,Wietse Schaefer,In process,R215,R00000215 | Probus - Asab Sahil Waterpipeline | R215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000216,Khimji Ramdas - Jindal Steel Duqm Port,dc,Khimji Ramdas Marine Projects LLC,Wietse Schaefer,In process,R216,R00000216 | Khimji Ramdas - Jindal Steel Duqm Port | R216,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 PROJECTS,R00000217,All Marine - Mina Zayed Port,ca,All Marine-Sole Proprietorship L.L.C,Wietse Schaefer,In process,R217,R00000217 | All Marine - Mina Zayed Port | R217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000218,"Ali & Sons - Mussafah, ICAD",ca,Ali & Sons Marine Engineering Facility,,,R218,"R00000218 | Ali & Sons - Mussafah, ICAD | R218",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000219,"NMDC - Redim Project, Al Hamriya",ca,NMDC LTS - L.L.C - S.P.C,,,R219,"R00000219 | NMDC - Redim Project, Al Hamriya | R219",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000220,Al Bawani - Master Gas Pipeline,sa,Al Bawani Pipeline Company,,,R220,R00000220 | Al Bawani - Master Gas Pipeline | R220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000221,"NMDC - Redim Project, Al Hamriya",ca,NMDC LTS - L.L.C - S.P.C,,,R221,"R00000221 | NMDC - Redim Project, Al Hamriya | R221",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000222,MKBH - Burj Al Arab Beach,ca,M K B H BUILDING MATERAILS TRA,,,R222,R00000222 | MKBH - Burj Al Arab Beach | R222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000223,VAN OORD - Al Amerah,ca,Van Oord Middle East Ltd,,,R223,R00000223 | VAN OORD - Al Amerah | R223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
+PROJECTS,R00000224,BDI - Dubai Island,ca,BDI Marine Constructing L.L.C,,,R224,R00000224 | BDI - Dubai Island | R224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PROJECTS,Sheet,FALSE
 LOCATION,ProjectID,ProjectName,ProjectID Abb,Location,,,Formula used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,ICAD III,Abu dhabi,ICAD III,ICAD III | Abu dhabi,,,"=TEXTJOIN("" | "", TRUE, [@ProjectID], [@[ProjectID Abb]], [@ProjectName])",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,Jubail Yard,"Easter province, KSA",Jubail Yard,"Jubail Yard | Easter province, KSA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
@@ -946,6 +953,7 @@ ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",ADNOC Technical A
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",EdTech Training and Consultancy – Sole Proprietorship LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",National Center for Management & Training,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services",ECOSAFE TRAINING AND CONSUL TANCY SOLE PROPRIETORSHIP LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
+ITEMTYPE_SUPPLIER,"Service | TPI, Training & Medical services","Precise Equipment Testing and Services, Inc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ITEMTYPE_SUPPLIER,Sheet,FALSE
 DISTRIBUTION_LIST,Entity,Entity name,BU,BU Name,Procurement Email,Warehouse Email,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 135,Earth Moving,procurement.ams.ae@aertssen.be,warehouse135.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
 DISTRIBUTION_LIST,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",BU 210,Cranes,procurement.ams.ae@aertssen.be,warehouse210.ams.ae@Aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DISTRIBUTION_LIST,Sheet,FALSE
@@ -6072,6 +6080,7 @@ RFQ_DISTRIBUTION,SA,BU 135,ProcurementSA@aertssen.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 RFQ_SUBJECT,SettingKey,SettingValue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_SUBJECT,Sheet,FALSE
 RFQ_SUBJECT,RFQ_SUBJECT_MODE,SEPARATE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RFQ_SUBJECT,Sheet,FALSE
 Sheet1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sheet1,Sheet,FALSE
+Sheet2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sheet2,Sheet,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 135,Earth Moving,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 210,Cranes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
 T_ENTITY,,,,,,,,,,,CA,"Aertssen Machinery Services Ltd, Abu dhabi, UAE",,BU 465,Shared services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_ENTITY,Table,FALSE
@@ -6536,6 +6545,13 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000214,R214,"CPL (ITD) - Varsha, India",cr,
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000215,R215,Probus - Asab Sahil Waterpipeline,ca,Probus Engineering and Construction LLC,Wietse Schaefer,In process,R00000215 | Probus - Asab Sahil Waterpipeline | R215,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000216,R216,Khimji Ramdas - Jindal Steel Duqm Port,dc,Khimji Ramdas Marine Projects LLC,Wietse Schaefer,In process,R00000216 | Khimji Ramdas - Jindal Steel Duqm Port | R216,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000217,R217,All Marine - Mina Zayed Port,ca,All Marine-Sole Proprietorship L.L.C,Wietse Schaefer,In process,R00000217 | All Marine - Mina Zayed Port | R217,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000218,R218,"Ali & Sons - Mussafah, ICAD",ca,Ali & Sons Marine Engineering Facility,,,"R00000218 | Ali & Sons - Mussafah, ICAD | R218",,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000219,R219,"NMDC - Redim Project, Al Hamriya",ca,NMDC LTS - L.L.C - S.P.C,,,"R00000219 | NMDC - Redim Project, Al Hamriya | R219",,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000220,R220,Al Bawani - Master Gas Pipeline,sa,Al Bawani Pipeline Company,,,R00000220 | Al Bawani - Master Gas Pipeline | R220,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000221,R221,"NMDC - Redim Project, Al Hamriya",ca,NMDC LTS - L.L.C - S.P.C,,,"R00000221 | NMDC - Redim Project, Al Hamriya | R221",,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000222,R222,MKBH - Burj Al Arab Beach,ca,M K B H BUILDING MATERAILS TRA,,,R00000222 | MKBH - Burj Al Arab Beach | R222,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000223,R223,VAN OORD - Al Amerah,ca,Van Oord Middle East Ltd,,,R00000223 | VAN OORD - Al Amerah | R223,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
+T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000224,R224,BDI - Dubai Island,ca,BDI Marine Constructing L.L.C,,,R00000224 | BDI - Dubai Island | R224,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,ICAD III,ICAD III,Abu dhabi,,,,,,ICAD III | Abu dhabi,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,Jubail Yard,Jubail Yard,"Easter province, KSA",,,,,,"Jubail Yard | Easter province, KSA",,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000019,J19,Galfar - Habshan & ASAB,,,,,,J00000019 | J19 | Galfar - Habshan & ASAB,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
@@ -6954,6 +6970,7 @@ T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aftermarket,T_Pa
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Genuine / OEM,T_Parts_preference1,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Availability,T_Parts_preference1,Table,FALSE
 T_Parts_preference1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Economical,T_Parts_preference1,Table,FALSE
+T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
 T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
 T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
 T_Item_type_supplier,,,,,,,,,,,,,,,,,"Service | TPI, Training & Medical services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,T_Item_type_supplier,Table,FALSE
