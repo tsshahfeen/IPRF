@@ -482,6 +482,7 @@ PROJECTS,R00000224,BDI - Dubai Island,ca,BDI Marine Constructing L.L.C,,,R224,R0
 LOCATION,ProjectID,ProjectName,ProjectID Abb,Location,,,Formula used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,ICAD III,Abu dhabi,ICAD III,ICAD III | Abu dhabi,,,"=TEXTJOIN("" | "", TRUE, [@ProjectID], [@[ProjectID Abb]], [@ProjectName])",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,Jubail Yard,"Easter province, KSA",Jubail Yard,"Jubail Yard | Easter province, KSA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
+LOCATION,HPL Yard,"HPL Yard, Singapore",HPL,HPL Yard | Singapore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000019,Galfar - Habshan & ASAB,J19,J00000019 | J19 | Galfar - Habshan & ASAB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000044,,J44,J00000044 | J44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
 LOCATION,J00000047,AMS220,J47,J00000047 | J47 | AMS220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LOCATION,Sheet,FALSE
@@ -6566,6 +6567,7 @@ T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000223,R223,VAN OORD - Al Amerah,ca,Van Oor
 T_PROJECTS_1,,,,,,,,,,,,,,,,,,,,,,R00000224,R224,BDI - Dubai Island,ca,BDI Marine Constructing L.L.C,,,R00000224 | BDI - Dubai Island | R224,,,,,,,,,,,,,,,,,T_PROJECTS_1,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,ICAD III,ICAD III,Abu dhabi,,,,,,ICAD III | Abu dhabi,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,Jubail Yard,Jubail Yard,"Easter province, KSA",,,,,,"Jubail Yard | Easter province, KSA",,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
+T_LOCATION,,,,,,,,,,,,,,,,,,,,,,HPL Yard,HPL,"HPL Yard, Singapore",,,,,,HPL Yard | Singapore,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000019,J19,Galfar - Habshan & ASAB,,,,,,J00000019 | J19 | Galfar - Habshan & ASAB,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000044,J44,,,,,,,J00000044 | J44,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
 T_LOCATION,,,,,,,,,,,,,,,,,,,,,,J00000047,J47,AMS220,,,,,,J00000047 | J47 | AMS220,,,,,,,,,,,,,,,,T_LOCATION,Table,FALSE
