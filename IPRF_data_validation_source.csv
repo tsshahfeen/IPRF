@@ -882,6 +882,8 @@ REQUESTER,Sam Charles,Aertssen Machinery Services,sam.charles@aertssen.be,AMS - 
 REQUESTER,Angela Seco,Aertssen Machinery Services,angela.seco@aertssen.be,AMS - Abu Dhabi,Procurement Administrator,ANSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Zavier Zubery,Aertssen Machinery Services,zavier.zubery@aertssen.be,AMS - Abu Dhabi,Store Keeper,ZAZU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 REQUESTER,Florianne Santos,Aertssen Machinery Services,florianne.santos@aertssen.be,AMS - Philippines,Workshop Admin,FLSA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
+REQUESTER,Medylyn Sales,Aertssen Machinery Services,medylyn.sales@aertssen.be,AMS - Qatar,Receptionist/HR Administrator,MESA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
+REQUESTER,Jobin Joseph,Aertssen Machinery Services,jobin.joseph@aertssen.be,AMS - Abu Dhabi,Store Keeper,JOJO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REQUESTER,Sheet,FALSE
 WAREHOUSE REP,DisplayName,CompanyName,EmailAddress,OfficeLocation,JobTitle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
 WAREHOUSE REP,Imam Santoso,Aertssen Machinery Services,imam.santoso@aertssen.be,AMS - Abu Dhabi,Store Keeper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
 WAREHOUSE REP,Sumith Lal,Aertssen Machinery Services,sumith.lal@aertssen.be,AMS - Duba,Store Picker,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WAREHOUSE REP,Sheet,FALSE
@@ -7021,6 +7023,8 @@ T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sam Charles,Aertssen Machinery Service
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Angela Seco,Aertssen Machinery Services,angela.seco@aertssen.be,AMS - Abu Dhabi,Procurement Administrator,ANSE,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zavier Zubery,Aertssen Machinery Services,zavier.zubery@aertssen.be,AMS - Abu Dhabi,Store Keeper,ZAZU,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Florianne Santos,Aertssen Machinery Services,florianne.santos@aertssen.be,AMS - Philippines,Workshop Admin,FLSA,,,,,,,,,,T_REQUESTER,Table,FALSE
+T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Medylyn Sales,Aertssen Machinery Services,medylyn.sales@aertssen.be,AMS - Qatar,Receptionist/HR Administrator,MESA,,,,,,,,,,T_REQUESTER,Table,FALSE
+T_REQUESTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jobin Joseph,Aertssen Machinery Services,jobin.joseph@aertssen.be,AMS - Abu Dhabi,Store Keeper,JOJO,,,,,,,,,,T_REQUESTER,Table,FALSE
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Imam Santoso,Aertssen Machinery Services,imam.santoso@aertssen.be,AMS - Abu Dhabi,Store Keeper,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sumith Lal,Aertssen Machinery Services,sumith.lal@aertssen.be,AMS - Duba,Store Picker,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
 T_WAREHOUSE_REP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Darwin Vincent,Aertssen Machinery Services,darwin.vincent@aertssen.be,AMS - Duba,Store Picker,,,,,,,,,,,T_WAREHOUSE_REP,Table,FALSE
